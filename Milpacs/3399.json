@@ -16,12 +16,7 @@
         "positionTitle": "Trooper 3/2/C/ACD",
         "positionId": "947"
     },
-    "secondaries": [
-        {
-            "positionTitle": "S7 Squad CAS Instructor",
-            "positionId": "122"
-        }
-    ],
+    "secondaries": [],
     "records": [
         {
             "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
@@ -286,6 +281,24 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2025-03-02",
             "recordUid": "124254"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Contract Wars. Operation Desert Blackout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-10",
+            "recordUid": "125067"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Campaign Warrior Wednesday MAR 2025. Operation Warrior Wednesday 12MAR2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-12",
+            "recordUid": "125257"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S7 Squad CAS Instructor",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-03-20",
+            "recordUid": "125291"
         }
     ],
     "awards": [

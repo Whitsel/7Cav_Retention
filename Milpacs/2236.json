@@ -22,10 +22,6 @@
             "positionId": "111"
         },
         {
-            "positionTitle": "MP Administrator IT",
-            "positionId": "173"
-        },
-        {
             "positionTitle": "JAG Specialist",
             "positionId": "584"
         }
@@ -696,6 +692,12 @@
             "recordType": "RECORD_TYPE_GRADUATION",
             "recordDate": "2025-02-05",
             "recordUid": "122416"
+        },
+        {
+            "recordDetails": "Relieved of Duties as MP Administrator IT",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-03-20",
+            "recordUid": "125293"
         }
     ],
     "awards": [
@@ -1390,5 +1392,5 @@
     "promotionDate": "2025-01-18",
     "keycloakId": "3924afac-d4d7-46f7-9ab8-5efd54bbf507",
     "discordId": "277617018977386496",
-    "lastForumPostDate": "2025-03-18 16:32:14"
+    "lastForumPostDate": "2025-03-21 00:42:27"
 }

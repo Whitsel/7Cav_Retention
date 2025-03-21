@@ -18,6 +18,10 @@
     },
     "secondaries": [
         {
+            "positionTitle": "S1 Milpacs Clerk",
+            "positionId": "20"
+        },
+        {
             "positionTitle": "S3 Squad Staff",
             "positionId": "673"
         }
@@ -322,6 +326,18 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2025-02-26",
             "recordUid": "124036"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Contract Wars. Operation Desert Blackout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-10",
+            "recordUid": "125068"
+        },
+        {
+            "recordDetails": "Assigned S1 Milpacs Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-03-20",
+            "recordUid": "125290"
         }
     ],
     "awards": [
@@ -512,5 +528,5 @@
     "promotionDate": "2025-02-25",
     "keycloakId": "b5dfed2b-2b8e-4ea9-a7c0-fc80aa8c379b",
     "discordId": "528323409126490122",
-    "lastForumPostDate": "2025-03-14 17:21:20"
+    "lastForumPostDate": "2025-03-20 19:35:08"
 }

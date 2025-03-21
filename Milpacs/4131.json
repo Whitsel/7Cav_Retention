@@ -13,8 +13,8 @@
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4131.jpg",
     "roster": "ROSTER_TYPE_COMBAT",
     "primary": {
-        "positionTitle": "Assistant Section Leader 2/3/C/ACD",
-        "positionId": "974"
+        "positionTitle": "Trooper 2/3/C/ACD",
+        "positionId": "975"
     },
     "secondaries": [],
     "records": [
@@ -77,6 +77,18 @@
             "recordType": "RECORD_TYPE_PROMOTION",
             "recordDate": "2025-03-01",
             "recordUid": "124211"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Contract Wars. Operation Desert Blackout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-10",
+            "recordUid": "125084"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Assistant Section Leader B/3/C/ACD, Transferred and Assigned Trooper B/3/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-17",
+            "recordUid": "125279"
         }
     ],
     "awards": [

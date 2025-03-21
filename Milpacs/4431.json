@@ -43,7 +43,7 @@
         },
         {
             "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
-            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordType": "RECORD_TYPE_GRADUATION",
             "recordDate": "2025-03-14",
             "recordUid": "124653"
         },
@@ -52,6 +52,18 @@
             "recordType": "RECORD_TYPE_ASSIGNMENT",
             "recordDate": "2025-03-18",
             "recordUid": "125010"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Let Loose Tuesdays MAR25. Operation Trenched n' Tuesday 11MAR25)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-11",
+            "recordUid": "125214"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Warrior Wednesday MAR 2025. Operation Warrior Wednesday 12MAR2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-12",
+            "recordUid": "125268"
         }
     ],
     "awards": [
@@ -130,5 +142,5 @@
     "promotionDate": "2025-03-14",
     "keycloakId": "dd26c0e0-bb6e-4edc-8dff-052f6a56ba63",
     "discordId": "827798893411434514",
-    "lastForumPostDate": "2025-03-15 22:12:03"
+    "lastForumPostDate": "2025-03-21 01:43:53"
 }

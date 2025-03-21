@@ -4,10 +4,10 @@
         "username": "Westcott.R"
     },
     "rank": {
-        "rankShort": "SFC",
-        "rankFull": "Sergeant First Class",
-        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/16.jpg?1741376779",
-        "rankId": "16"
+        "rankShort": "MSG",
+        "rankFull": "Master Sergeant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/15.jpg?1741376770",
+        "rankId": "15"
     },
     "realName": "Ryan Westcott",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1436.jpg",
@@ -1380,6 +1380,12 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2025-03-07",
             "recordUid": "124806"
+        },
+        {
+            "recordDetails": "Promoted to Master Sergeant (E-8)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-03-19",
+            "recordUid": "125159"
         }
     ],
     "awards": [
@@ -2313,11 +2319,18 @@
             "awardDate": "2025-02-27",
             "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
             "awardUid": "68602"
+        },
+        {
+            "awardDetails": "Master Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2025-03-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "69483"
         }
     ],
     "joinDate": "2022-03-04",
-    "promotionDate": "2024-09-19",
+    "promotionDate": "2025-03-18",
     "keycloakId": "c89e0ac5-f401-4d3a-938b-6c00de786088",
-    "discordId": "441491471774777344",
-    "lastForumPostDate": "2025-03-17 19:07:05"
+    "discordId": "",
+    "lastForumPostDate": "2025-03-19 18:15:34"
 }

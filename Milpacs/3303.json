@@ -18,10 +18,6 @@
     },
     "secondaries": [
         {
-            "positionTitle": "S1 Milpacs Senior",
-            "positionId": "19"
-        },
-        {
             "positionTitle": "RRD AO Lead Recruiter - HLLC",
             "positionId": "963"
         }
@@ -344,6 +340,18 @@
             "recordType": "RECORD_TYPE_TRANSFER",
             "recordDate": "2025-03-15",
             "recordUid": "124865"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Breakthrough MAR25. Operation Thunderbolt 1/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-09",
+            "recordUid": "125043"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S1 Milpacs Senior per request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-03-19",
+            "recordUid": "125163"
         }
     ],
     "awards": [
@@ -555,5 +563,5 @@
     "promotionDate": "2025-03-15",
     "keycloakId": "d3ba7a67-475b-486e-89c9-70327a5b4437",
     "discordId": "1225616095919210556",
-    "lastForumPostDate": "2025-03-18 13:53:03"
+    "lastForumPostDate": "2025-03-20 16:35:17"
 }

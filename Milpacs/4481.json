@@ -4,10 +4,10 @@
         "username": "Dragomer.R"
     },
     "rank": {
-        "rankShort": "RCT",
-        "rankFull": "Recruit",
-        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
-        "rankId": "23"
+        "rankShort": "PVT",
+        "rankFull": "Private",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/22.jpg?1741376831",
+        "rankId": "22"
     },
     "realName": "Ryan Dragomer",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4481.jpg",
@@ -29,12 +29,82 @@
             "recordType": "RECORD_TYPE_TRANSFER",
             "recordDate": "2025-03-15",
             "recordUid": "124675"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2025-03-16",
+            "recordUid": "125238"
         }
     ],
-    "awards": [],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2025-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "69585"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Rifle Expert",
+            "awardDate": "2025-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "69586"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Grenade Expert",
+            "awardDate": "2025-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "69587"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69588"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69589"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69590"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69591"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69592"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69593"
+        }
+    ],
     "joinDate": "2025-03-14",
-    "promotionDate": "",
+    "promotionDate": "2025-03-16",
     "keycloakId": "7d5585b5-0ef7-4869-ac78-204b4cd8e80f",
     "discordId": "696515815029080164",
-    "lastForumPostDate": "2025-03-18 01:05:04"
+    "lastForumPostDate": "2025-03-19 02:13:42"
 }

@@ -13,8 +13,8 @@
     "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1420.jpg",
     "roster": "ROSTER_TYPE_COMBAT",
     "primary": {
-        "positionTitle": "Trooper 2/3/C/ACD",
-        "positionId": "975"
+        "positionTitle": "Section Leader 2/3/C/ACD",
+        "positionId": "973"
     },
     "secondaries": [
         {
@@ -826,6 +826,18 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2025-03-08",
             "recordUid": "124845"
+        },
+        {
+            "recordDetails": "Assigned Section Leader B/3/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-19",
+            "recordUid": "125165"
+        },
+        {
+            "recordDetails": "Completed 61st Combat Mission (Campaign Warrior Wednesday MAR 2025. Operation Warrior Wednesday 12MAR2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-12",
+            "recordUid": "125277"
         }
     ],
     "awards": [
@@ -1233,5 +1245,5 @@
     "promotionDate": "2024-12-07",
     "keycloakId": "8d6d6606-57f0-43a9-8dbc-1da4f1f9c385",
     "discordId": "140622857309782017",
-    "lastForumPostDate": "2025-03-18 02:16:57"
+    "lastForumPostDate": "2025-03-20 00:36:46"
 }

@@ -4,10 +4,10 @@
         "username": "Fougere.J"
     },
     "rank": {
-        "rankShort": "CPL",
-        "rankFull": "Corporal",
-        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
-        "rankId": "19"
+        "rankShort": "SGT",
+        "rankFull": "Sergeant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/18.jpg?1741376797",
+        "rankId": "18"
     },
     "realName": "Joseph Fougere",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2638.jpg",
@@ -239,6 +239,12 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2024-12-08",
             "recordUid": "119222"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-03-18",
+            "recordUid": "125158"
         }
     ],
     "awards": [
@@ -395,10 +401,17 @@
             "awardDate": "2024-10-31",
             "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
             "awardUid": "67839"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2025-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "69482"
         }
     ],
     "joinDate": "2023-07-13",
-    "promotionDate": "2024-08-16",
+    "promotionDate": "2025-03-17",
     "keycloakId": "d15c9bfa-5016-4333-a8ed-4501e9567010",
     "discordId": "282504549929975808",
     "lastForumPostDate": "2025-03-09 16:25:09"

@@ -13,8 +13,8 @@
     "uniformUrl": "https://7cav.us/data/roster_uniforms/0/640.jpg",
     "roster": "ROSTER_TYPE_COMBAT",
     "primary": {
-        "positionTitle": "Trooper 2/3/C/ACD",
-        "positionId": "975"
+        "positionTitle": "Trooper 3/3/C/ACD",
+        "positionId": "978"
     },
     "secondaries": [],
     "records": [
@@ -443,6 +443,18 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2025-02-19",
             "recordUid": "123487"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Campaign Contract Wars. Operation Desert Blackout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-10",
+            "recordUid": "125071"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/3/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-20",
+            "recordUid": "125283"
         }
     ],
     "awards": [
@@ -661,5 +673,5 @@
     "promotionDate": "2024-06-16",
     "keycloakId": "a523a58f-a64e-419a-81e7-17bc4fce5272",
     "discordId": "369207603546423297",
-    "lastForumPostDate": "2025-03-18 17:29:00"
+    "lastForumPostDate": "2025-03-21 02:29:52"
 }

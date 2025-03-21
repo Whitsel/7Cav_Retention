@@ -4,10 +4,10 @@
         "username": "Truppo.C"
     },
     "rank": {
-        "rankShort": "RCT",
-        "rankFull": "Recruit",
-        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
-        "rankId": "23"
+        "rankShort": "PVT",
+        "rankFull": "Private",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/22.jpg?1741376831",
+        "rankId": "22"
     },
     "realName": "Christian Truppo",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4453.jpg",
@@ -29,12 +29,68 @@
             "recordType": "RECORD_TYPE_TRANSFER",
             "recordDate": "2025-03-15",
             "recordUid": "124853"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2025-03-16",
+            "recordUid": "125241"
         }
     ],
-    "awards": [],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2025-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "69608"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69609"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69610"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69611"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69612"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69613"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "69614"
+        }
+    ],
     "joinDate": "2025-03-09",
-    "promotionDate": "",
+    "promotionDate": "2025-03-16",
     "keycloakId": "e6b6a03b-9727-40a0-b432-506497379b45",
     "discordId": "280470002795282433",
-    "lastForumPostDate": "2025-03-18 17:13:26"
+    "lastForumPostDate": "2025-03-20 05:14:56"
 }

@@ -11,10 +11,10 @@
     },
     "realName": "Miguel Heredia",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4196.jpg",
-    "roster": "ROSTER_TYPE_COMBAT",
+    "roster": "ROSTER_TYPE_ELOA",
     "primary": {
-        "positionTitle": "Trooper 1/3/C/ACD",
-        "positionId": "972"
+        "positionTitle": "ELOA",
+        "positionId": "194"
     },
     "secondaries": [],
     "records": [
@@ -143,6 +143,12 @@
             "recordType": "RECORD_TYPE_GRADUATION",
             "recordDate": "2025-02-19",
             "recordUid": "122912"
+        },
+        {
+            "recordDetails": "Placed on ELOA Due to Military Deployment",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2025-03-21",
+            "recordUid": "125299"
         }
     ],
     "awards": [

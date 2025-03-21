@@ -113,6 +113,18 @@
             "recordType": "RECORD_TYPE_GRADUATION",
             "recordDate": "2025-03-16",
             "recordUid": "124995"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation Backdoor Rampage)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-10",
+            "recordUid": "125141"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Let Loose Tuesdays MAR25. Operation Trenched n' Tuesday 11MAR25)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-11",
+            "recordUid": "125211"
         }
     ],
     "awards": [
@@ -219,5 +231,5 @@
     "promotionDate": "2025-01-25",
     "keycloakId": "349fd041-fa64-417d-b120-4f7998d83f00",
     "discordId": "348702779176386571",
-    "lastForumPostDate": "2025-03-15 22:49:58"
+    "lastForumPostDate": "2025-03-20 01:54:11"
 }

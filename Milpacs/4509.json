@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9155",
+        "username": "Ricotta.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Johnny Ricotta",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4509.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 5/2/C/ACD",
+        "positionId": "955"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-19",
+            "recordUid": "125063"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper E/2/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-19",
+            "recordUid": "125157"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-19",
+    "promotionDate": "",
+    "keycloakId": "215480db-0496-4ed4-88a0-fcb88753fa44",
+    "discordId": "266346371748069379",
+    "lastForumPostDate": "2025-03-19 01:01:34"
+}

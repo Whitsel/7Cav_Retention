@@ -13,8 +13,8 @@
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4111.jpg",
     "roster": "ROSTER_TYPE_COMBAT",
     "primary": {
-        "positionTitle": "Section Leader 2/3/C/ACD",
-        "positionId": "973"
+        "positionTitle": "Trooper 1/3/C/ACD",
+        "positionId": "972"
     },
     "secondaries": [
         {
@@ -322,6 +322,24 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2025-03-08",
             "recordUid": "124834"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Campaign Contract Wars. Operation Desert Blackout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-10",
+            "recordUid": "125087"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Section Leader B/3/C/ACD per Request, Transferred and Assigned Rotary Wing Pilot A/3/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-19",
+            "recordUid": "125164"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Warrior Wednesday MAR 2025. Operation Warrior Wednesday 12MAR2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-12",
+            "recordUid": "125267"
         }
     ],
     "awards": [
@@ -512,5 +530,5 @@
     "promotionDate": "2025-02-03",
     "keycloakId": "f262917a-6c48-4d23-aa52-ac14b4fa236c",
     "discordId": "97443780793217024",
-    "lastForumPostDate": "2025-03-16 02:24:39"
+    "lastForumPostDate": "2025-03-19 23:50:48"
 }

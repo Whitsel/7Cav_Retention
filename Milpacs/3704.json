@@ -13,8 +13,8 @@
     "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3704.jpg",
     "roster": "ROSTER_TYPE_COMBAT",
     "primary": {
-        "positionTitle": "Trooper 2/3/C/ACD",
-        "positionId": "975"
+        "positionTitle": "Trooper 3/3/C/ACD",
+        "positionId": "978"
     },
     "secondaries": [],
     "records": [
@@ -335,6 +335,12 @@
             "recordType": "RECORD_TYPE_ASSIGNMENT",
             "recordDate": "2025-03-18",
             "recordUid": "125026"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/3/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-20",
+            "recordUid": "125284"
         }
     ],
     "awards": [

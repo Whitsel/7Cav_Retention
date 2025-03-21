@@ -13,8 +13,8 @@
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4483.jpg",
     "roster": "ROSTER_TYPE_COMBAT",
     "primary": {
-        "positionTitle": "New Recruit",
-        "positionId": "193"
+        "positionTitle": "Trooper 3/1/C/ACD",
+        "positionId": "669"
     },
     "secondaries": [],
     "records": [
@@ -23,6 +23,12 @@
             "recordType": "RECORD_TYPE_TRANSFER",
             "recordDate": "2025-03-14",
             "recordUid": "124645"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Armor Crewman C/1/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-18",
+            "recordUid": "125060"
         }
     ],
     "awards": [],
@@ -30,5 +36,5 @@
     "promotionDate": "",
     "keycloakId": "7d75e24c-e058-4479-8c9f-d31974b71165",
     "discordId": "1220464080033415318",
-    "lastForumPostDate": "2025-03-18 20:59:44"
+    "lastForumPostDate": "2025-03-20 19:33:23"
 }
