@@ -11,17 +11,12 @@
     },
     "realName": "John Gardener",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3275.jpg",
-    "roster": "ROSTER_TYPE_COMBAT",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
     "primary": {
-        "positionTitle": "Trooper 4/1/C/2-7",
-        "positionId": "451"
+        "positionTitle": "Discharged",
+        "positionId": "528"
     },
-    "secondaries": [
-        {
-            "positionTitle": "FCC Analyst",
-            "positionId": "753"
-        }
-    ],
+    "secondaries": [],
     "records": [
         {
             "recordDetails": "Reinstated, Reduction in Rank to Specialist (E-4), Transferred and Assigned Trooper Star Citizen/SP/ACD",
@@ -562,6 +557,12 @@
             "recordType": "RECORD_TYPE_OPERATION",
             "recordDate": "2024-12-13",
             "recordUid": "119370"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-03-21",
+            "recordUid": "125296"
         }
     ],
     "awards": [
@@ -801,5 +802,5 @@
     "promotionDate": "2024-07-25",
     "keycloakId": "bcba34f5-e854-4764-98cc-13ba7e0b9a40",
     "discordId": "348627244425412618",
-    "lastForumPostDate": "2025-03-08 00:57:13"
+    "lastForumPostDate": "2025-03-20 12:47:33"
 }

@@ -4,17 +4,17 @@
         "username": "Tomkiewicz.I"
     },
     "rank": {
-        "rankShort": "SPC",
-        "rankFull": "Specialist",
-        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
-        "rankId": "20"
+        "rankShort": "AR",
+        "rankFull": "Reservist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/31.jpg?0",
+        "rankId": "31"
     },
     "realName": "Ilya Tomkiewicz",
     "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4133.jpg",
-    "roster": "ROSTER_TYPE_COMBAT",
+    "roster": "ROSTER_TYPE_RESERVE",
     "primary": {
-        "positionTitle": "Trooper 2/2/A/2-7",
-        "positionId": "369"
+        "positionTitle": "Reservist",
+        "positionId": "195"
     },
     "secondaries": [],
     "records": [
@@ -89,6 +89,12 @@
             "recordType": "RECORD_TYPE_PROMOTION",
             "recordDate": "2025-03-08",
             "recordUid": "124908"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Reserves",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-16",
+            "recordUid": "125281"
         }
     ],
     "awards": [
@@ -185,7 +191,7 @@
         }
     ],
     "joinDate": "2024-11-28",
-    "promotionDate": "2025-03-08",
+    "promotionDate": "2025-03-16",
     "keycloakId": "69be75ba-0d47-454c-bb5c-362c902060f2",
     "discordId": "317688011967954944",
     "lastForumPostDate": "2025-03-14 02:36:58"
