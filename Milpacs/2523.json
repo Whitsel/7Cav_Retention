@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5041",
+        "username": "Mazovian.P"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Peter Mazovian",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2523.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-01",
+            "recordUid": "78803"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-06-19",
+            "recordUid": "80173"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-06-01",
+    "promotionDate": "2023-06-01",
+    "keycloakId": "fb6adaac-2897-40cb-a3b7-06633857ce5b",
+    "discordId": "",
+    "lastForumPostDate": "2023-05-22 06:54:17"
+}

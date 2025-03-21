@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4957",
+        "username": "Andrews.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Michael Andrews",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2486.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-09",
+            "recordUid": "77465"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-05-22",
+            "recordUid": "78167"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-05-08",
+    "promotionDate": "2023-05-08",
+    "keycloakId": "43a00c7d-68a4-47b3-95ee-d9ae20279627",
+    "discordId": "",
+    "lastForumPostDate": "2023-05-05 23:57:30"
+}

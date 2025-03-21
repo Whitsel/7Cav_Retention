@@ -1,0 +1,160 @@
+{
+    "user": {
+        "userId": "7675",
+        "username": "Peterson.LM"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Larry Mark Peterson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3739.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-07-26",
+            "recordUid": "107699"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-08-04",
+            "recordUid": "108545"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry B/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-08-06",
+            "recordUid": "108637"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry B/2/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-08-14",
+            "recordUid": "109361"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Scorpion)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-25",
+            "recordUid": "111287"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-09-03",
+            "recordUid": "111920"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Ice House)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-01",
+            "recordUid": "111999"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation Purple Tornado)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-22",
+            "recordUid": "113813"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-10-31",
+            "recordUid": "116726"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2024-08-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "59778"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2024-08-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "59799"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2024-08-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "59800"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "59817"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "59830"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "59843"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "59856"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "59869"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "59882"
+        },
+        {
+            "awardDetails": "Operation Scorpion",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2024-08-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "61231"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2024-09-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "62004"
+        }
+    ],
+    "joinDate": "2024-07-26",
+    "promotionDate": "2024-09-03",
+    "keycloakId": "41b984b0-d48f-4c6e-8f0b-82aaf8e5a3c0",
+    "discordId": "252306937041911808",
+    "lastForumPostDate": "2024-10-31 15:05:24"
+}

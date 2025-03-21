@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1367",
+        "username": "Matthieu.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Colby Matthieu",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/855.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-05-25",
+            "recordUid": "35819"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-06-07",
+            "recordUid": "36749"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-05-25",
+    "promotionDate": "2021-05-25",
+    "keycloakId": "05232574-ed84-4092-81cf-1726bc2e4233",
+    "discordId": "",
+    "lastForumPostDate": "2021-05-24 00:52:54"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8562",
+        "username": "Santos.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mark Santos",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4217.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-16",
+            "recordUid": "120068"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-01-30",
+            "recordUid": "121146"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-01-15",
+    "promotionDate": "",
+    "keycloakId": "c52be469-d642-4c0e-a5c8-b9c984267216",
+    "discordId": "",
+    "lastForumPostDate": "2025-01-10 19:28:38"
+}

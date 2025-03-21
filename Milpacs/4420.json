@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9005",
+        "username": "Story.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Thomas Story",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4420.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-28",
+            "recordUid": "123520"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-03-14",
+            "recordUid": "124972"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-28",
+    "promotionDate": "",
+    "keycloakId": "2c6e1ee9-28d4-434a-a045-9c771e631c6d",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-27 00:07:05"
+}

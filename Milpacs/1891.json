@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3700",
+        "username": "Hall.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Richy Hall",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1891.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-07",
+            "recordUid": "61823"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-03",
+            "recordUid": "63322"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-09-06",
+    "promotionDate": "2022-09-06",
+    "keycloakId": "3be5f6d0-f02c-4b25-b2ac-163945384ef4",
+    "discordId": "",
+    "lastForumPostDate": "2022-09-03 17:44:50"
+}

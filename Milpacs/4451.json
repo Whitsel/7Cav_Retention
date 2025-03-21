@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9062",
+        "username": "Dups.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Denis Dups",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4451.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 3/2/B/1-7",
+        "positionId": "254"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-07",
+            "recordUid": "124111"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Mechanized Infantry C/2/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-14",
+            "recordUid": "124639"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-07",
+    "promotionDate": "",
+    "keycloakId": "8fa96221-c25a-417b-b95d-b247081eb429",
+    "discordId": "232372358323634177",
+    "lastForumPostDate": "2025-03-15 20:40:44"
+}

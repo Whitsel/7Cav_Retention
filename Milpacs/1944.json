@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3814",
+        "username": "Weinstein.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Matthew Weinstein",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1944.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-22",
+            "recordUid": "62550"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-03",
+            "recordUid": "63340"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-09-22",
+    "promotionDate": "2022-09-22",
+    "keycloakId": "158268dd-66da-411b-a1c7-804ac576eae2",
+    "discordId": "",
+    "lastForumPostDate": "2022-09-21 01:47:54"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7013",
+        "username": "Castile.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Anthony Castile",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3413.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-05",
+            "recordUid": "100920"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102733"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-05",
+    "promotionDate": "",
+    "keycloakId": "472bab1b-c271-476a-b946-ca10b993427b",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-05 23:33:14"
+}

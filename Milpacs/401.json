@@ -1,0 +1,42 @@
+{
+    "user": {
+        "userId": "268",
+        "username": "Krinkle.J"
+    },
+    "rank": {
+        "rankShort": "SGM",
+        "rankFull": "Sergeant Major",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/13.jpg?1741376750",
+        "rankId": "13"
+    },
+    "realName": "Jack Krinkle",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/401.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Retired",
+        "positionId": "525"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Retired from the 7th Cavalry Regiment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-27",
+            "recordUid": "8053"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17141"
+        }
+    ],
+    "joinDate": "2018-07-27",
+    "promotionDate": "2020-02-17",
+    "keycloakId": "d5c395f7-a8d4-47c9-94ee-3a78d3790fef",
+    "discordId": "",
+    "lastForumPostDate": "2021-02-26 21:30:58"
+}

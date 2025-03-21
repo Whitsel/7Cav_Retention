@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2482",
+        "username": "Delrie.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "John Delrie",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1384.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Dishonorably Discharged",
+        "positionId": "529"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-09",
+            "recordUid": "49353"
+        },
+        {
+            "recordDetails": "Dishonorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-22",
+            "recordUid": "50360"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-08",
+    "promotionDate": "2022-02-08",
+    "keycloakId": "ff12c8e0-1ee4-4ff4-b1dd-5dbd8ef0e9f4",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-10 15:40:43"
+}

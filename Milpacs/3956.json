@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8094",
+        "username": "Knight.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Sam Knight",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3956.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-09-20",
+            "recordUid": "112820"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-10-02",
+            "recordUid": "114297"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-09-20",
+    "promotionDate": "",
+    "keycloakId": "e62bcc93-2d48-41b8-841f-dd38a7cf817c",
+    "discordId": "",
+    "lastForumPostDate": "2024-09-19 05:29:42"
+}

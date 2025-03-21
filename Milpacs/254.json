@@ -1,0 +1,66 @@
+{
+    "user": {
+        "userId": "163",
+        "username": "Wesson.R"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Riann Wesson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/254.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-01-25",
+            "recordUid": "312"
+        },
+        {
+            "recordDetails": "Completed 60th Combat Mission (Operation Operation Stackin Bodies 2401)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-26",
+            "recordUid": "13064"
+        },
+        {
+            "recordDetails": "Completed 61st Combat Mission (Operation Devil's Den)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-31",
+            "recordUid": "13522"
+        },
+        {
+            "recordDetails": "Completed 62nd Combat Mission (Operation Moshtarak)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-20",
+            "recordUid": "18454"
+        },
+        {
+            "recordDetails": "Honorable Discharge, Not Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-28",
+            "recordUid": "20508"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17416"
+        }
+    ],
+    "joinDate": "2012-04-22",
+    "promotionDate": "2019-09-23",
+    "keycloakId": "c78bf37a-e2e1-43a0-93f0-019794c24c03",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 18:33:23"
+}

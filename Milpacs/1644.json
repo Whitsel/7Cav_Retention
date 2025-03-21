@@ -1,0 +1,139 @@
+{
+    "user": {
+        "userId": "3121",
+        "username": "Samuels.M"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Matthew Samuels",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1644.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-05",
+            "recordUid": "56292"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-08",
+            "recordUid": "56486"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-06-12",
+            "recordUid": "56837"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign June Warfare Wednesday 2022. Operation Warfare Wednesday 143)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-09",
+            "recordUid": "57207"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Charlie Company FTX)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-11",
+            "recordUid": "57450"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Blitz Killer. Operation Horse's Catch)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-18",
+            "recordUid": "57748"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Saturday Night Strike June/July 2022. Operation Broken Wing)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-26",
+            "recordUid": "58074"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-07-12",
+            "recordUid": "58728"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-20",
+            "recordUid": "60963"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-06-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "29976"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30005"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30026"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30047"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30068"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30089"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30110"
+        },
+        {
+            "awardDetails": "Operation Horse's Catch",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2022-07-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "30847"
+        }
+    ],
+    "joinDate": "2022-06-05",
+    "promotionDate": "2022-07-12",
+    "keycloakId": "3cd6c1b2-c9f6-499b-a8dc-3ccf66258675",
+    "discordId": "",
+    "lastForumPostDate": "2022-07-03 12:52:33"
+}

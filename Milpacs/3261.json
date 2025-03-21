@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6714",
+        "username": "Al-Munir.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Amine Al-Munir",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3261.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-03-24",
+            "recordUid": "97520"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-08",
+            "recordUid": "98818"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-03-23",
+    "promotionDate": "2024-03-23",
+    "keycloakId": "01fe8261-525e-44aa-b379-509eb7b74b9a",
+    "discordId": "309763262407507968",
+    "lastForumPostDate": "2024-03-20 20:57:20"
+}

@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "1359",
+        "username": "Mikkelsen.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nikolai Mikkelsen",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/849.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-05-21",
+            "recordUid": "35655"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-06-13",
+            "recordUid": "36934"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2021-05-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "22088"
+        }
+    ],
+    "joinDate": "2021-05-21",
+    "promotionDate": "2021-05-21",
+    "keycloakId": "f8e4fac9-4276-487c-b81f-5d8b4162986d",
+    "discordId": "",
+    "lastForumPostDate": "2021-05-21 01:21:25"
+}

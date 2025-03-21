@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6198",
+        "username": "Carson.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Christopher Carson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3022.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-01-12",
+            "recordUid": "92308"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-01-28",
+            "recordUid": "93248"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-01-12",
+    "promotionDate": "2024-01-12",
+    "keycloakId": "4f5b588c-cad6-4635-b9b9-06c43e4f9be8",
+    "discordId": "141226741728411648",
+    "lastForumPostDate": "2024-01-09 19:23:29"
+}

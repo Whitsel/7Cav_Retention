@@ -1,0 +1,1351 @@
+{
+    "user": {
+        "userId": "3582",
+        "username": "Rutkowski.P"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Paul Rutkowski",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2793.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/1/C/1-7",
+        "positionId": "296"
+    },
+    "secondaries": [
+        {
+            "positionTitle": "S1 Operations Lead",
+            "positionId": "26"
+        },
+        {
+            "positionTitle": "RRD Enlistment Processing Clerk",
+            "positionId": "580"
+        }
+    ],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-09-26",
+            "recordUid": "85871"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry B/1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-02",
+            "recordUid": "86189"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-01",
+            "recordUid": "86282"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Radio Communication Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-16",
+            "recordUid": "87335"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Fallen Stone)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-07",
+            "recordUid": "87545"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Airborne Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-23",
+            "recordUid": "88067"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Tra\u00edra)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-21",
+            "recordUid": "88593"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Squad Saturdays OCTOBER 2023. Operation Squad Saturdays 28OCT2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-28",
+            "recordUid": "89470"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Lost Souls)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-28",
+            "recordUid": "89505"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-11-01",
+            "recordUid": "89522"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Warfare Wednesday NOV23. Operation Warfare Wednesday 213)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-01",
+            "recordUid": "89686"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Squad Saturdays NOVEMBER 2023. Operation Squad Saturdays 11NOV2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-11",
+            "recordUid": "89747"
+        },
+        {
+            "recordDetails": "Assigned as S1 Operations Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-11-18",
+            "recordUid": "89754"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Sumava Security. Operation Ghost Town)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-11",
+            "recordUid": "89780"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Squad Saturdays NOVEMBER 2023. Operation Squad Saturdays 04NOV2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-04",
+            "recordUid": "90093"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Warfare Wednesday NOV23. Operation Warfare Wednesday 214)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-08",
+            "recordUid": "90204"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Air Assault Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-20",
+            "recordUid": "90228"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Squad Saturdays NOVEMBER 2023. Operation Squad Saturdays 18NOV2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-18",
+            "recordUid": "90471"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Warfare Wednesday NOV23. Operation Warfare Wednesday 215)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-15",
+            "recordUid": "90591"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Squad Saturdays NOVEMBER 2023. Operation Squad Saturdays 25NOV2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-25",
+            "recordUid": "90651"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Squad Saturdays DECEMBER 2023. Operation Squad Saturdays 02DEC2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-02",
+            "recordUid": "91352"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation Pride of Charlie)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-03",
+            "recordUid": "91699"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Squad Saturdays DECEMBER 2023. Operation Squad Saturdays 09DEC2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-09",
+            "recordUid": "91766"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Operation Sumava Freedom)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-09",
+            "recordUid": "91916"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-12-30",
+            "recordUid": "92044"
+        },
+        {
+            "recordDetails": "Assigned S1 Uniforms Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-01-09",
+            "recordUid": "92155"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-01-13",
+            "recordUid": "92570"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Squad Saturdays JANUARY 2024. Operation Squad Saturdays 06JAN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-06",
+            "recordUid": "92589"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Land Navigation Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-01-18",
+            "recordUid": "92641"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Squad Saturdays JANUARY 2024. Operation Squad Saturdays 13JAN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-13",
+            "recordUid": "92713"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Squad Saturdays JANUARY 2024. Operation Squad Saturdays 20JAN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-20",
+            "recordUid": "93133"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation High Waters)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-20",
+            "recordUid": "93413"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign Squad Saturdays JANUARY 2024. Operation Squad Saturdays 27JAN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-27",
+            "recordUid": "93582"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Aviation Ground School",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-02-10",
+            "recordUid": "93997"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Dynamo C/1-7 FTX. Operation Tiki Torch)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-04",
+            "recordUid": "94229"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Squad Saturdays FEBUARY 2024. Operation Squad Saturdays 03FEB2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-03",
+            "recordUid": "94272"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Aviation Basic Rotary Flight Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-02-17",
+            "recordUid": "94470"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Squad Saturdays FEBUARY 2024. Operation Squad Saturdays 10FEB2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-10",
+            "recordUid": "94592"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Squad Saturdays FEBUARY 2024. Operation Squad Saturdays 17FEB2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-17",
+            "recordUid": "94829"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Individual Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-02-26",
+            "recordUid": "95170"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Combat Lifesaver Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-10",
+            "recordUid": "96072"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign Squad Saturdays FEBUARY 2024. Operation Squad Saturdays 24FEB2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-24",
+            "recordUid": "96570"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Campaign Squad Saturdays MARCH 2024. Operation Squad Saturdays 02MAR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-02",
+            "recordUid": "97036"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Operation Razorback)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-08",
+            "recordUid": "97130"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Campaign Squad Saturdays MARCH 2024. Operation Squad Saturdays 09MAR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-09",
+            "recordUid": "97149"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-09",
+            "recordUid": "97326"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Advanced Individual Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-24",
+            "recordUid": "97537"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Battlefield Pharmacology Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-25",
+            "recordUid": "97675"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Campaign Squad Saturdays MARCH 2024. Operation Squad Saturdays 16MAR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-16",
+            "recordUid": "97679"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Squad Saturdays MARCH 2024. Operation Squad Saturdays 23MAR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-23",
+            "recordUid": "98092"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Campaign Resolute Bulwark. Operation Lesser Banners)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-24",
+            "recordUid": "98446"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Let Loose Tuesdays MAR24. Operation Trenched n' Tuesday 26MAR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-26",
+            "recordUid": "98978"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Campaign Squad Saturdays APRIL 2024. Operation Squad Saturdays 06APR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-06",
+            "recordUid": "99061"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Campaign Squad Saturdays MARCH 2024. Operation Squad Saturdays 30MAR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-30",
+            "recordUid": "99272"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Operation Into The Breach)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-06",
+            "recordUid": "99298"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Operation Pride of Charlie)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-07",
+            "recordUid": "99672"
+        },
+        {
+            "recordDetails": "Assigned S1 Operations Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-04-21",
+            "recordUid": "99753"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Operation Desert Bungie)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-13",
+            "recordUid": "99980"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Squad Saturdays APRIL 2024. Operation Squad Saturdays 20APR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-20",
+            "recordUid": "100324"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Operation Swift Freedom)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-21",
+            "recordUid": "100442"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Basic Infantry Combat Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-04-28",
+            "recordUid": "100528"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Campaign Squad Saturdays APRIL 2024. Operation Squad Saturdays 27APR2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-27",
+            "recordUid": "100724"
+        },
+        {
+            "recordDetails": "Completed 43rd Combat Mission (Operation Trail Blazer)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-27",
+            "recordUid": "101049"
+        },
+        {
+            "recordDetails": "Completed 44th Combat Mission (Campaign Let Loose Tuesdays APR24. Operation Trenched n' Tuesday 30APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-30",
+            "recordUid": "101189"
+        },
+        {
+            "recordDetails": "Completed 45th Combat Mission (Campaign Warrior Wednesday MAY 2024. Operation Warrior Wednesday 1MAY2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-01",
+            "recordUid": "101231"
+        },
+        {
+            "recordDetails": "Completed 46th Combat Mission (Campaign Squad Saturdays MAY 2024. Operation Squad Saturdays 04MAY2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-05",
+            "recordUid": "101446"
+        },
+        {
+            "recordDetails": "Completed 47th Combat Mission (Campaign Squad Saturdays MAY 2024. Operation Squad Saturdays 11MAY2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-11",
+            "recordUid": "101828"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Combat Medic Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-18",
+            "recordUid": "101933"
+        },
+        {
+            "recordDetails": "Assigned S1 Operations Lead",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-05-25",
+            "recordUid": "102382"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-25",
+            "recordUid": "102397"
+        },
+        {
+            "recordDetails": "Graduated Squad Basic Individual Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-24",
+            "recordUid": "102410"
+        },
+        {
+            "recordDetails": "Graduated Squad Basic Radio Communication Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-24",
+            "recordUid": "102416"
+        },
+        {
+            "recordDetails": "Completed 48th Combat Mission (Campaign Squad Saturdays MAY 2024. Operation Squad Saturdays 18MAY2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-18",
+            "recordUid": "102476"
+        },
+        {
+            "recordDetails": "Completed 49th Combat Mission (Campaign Let Loose Tuesdays MAY24. Operation Trenched n' Tuesday 21MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-21",
+            "recordUid": "102539"
+        },
+        {
+            "recordDetails": "Completed 50th Combat Mission (Campaign Squad Saturdays MAY 2024. Operation Squad Saturdays 25MAY2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-25",
+            "recordUid": "102840"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-05-25",
+            "recordUid": "103064"
+        },
+        {
+            "recordDetails": "Completed 51st Combat Mission (Operation Bravo Troop FTX Iron Resolve)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-26",
+            "recordUid": "103094"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-25",
+            "recordUid": "103126"
+        },
+        {
+            "recordDetails": "Completed 52nd Combat Mission (Campaign Let Loose Tuesdays MAY24. Operation Trenched n' Tuesday 28MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-28",
+            "recordUid": "103306"
+        },
+        {
+            "recordDetails": "Completed 54th Combat Mission (Campaign Dynamo. Operation Indigo Tiger)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-02",
+            "recordUid": "103646"
+        },
+        {
+            "recordDetails": "Completed 53rd Combat Mission (Campaign Squad Saturdays JUN 2024. Operation Squad Saturdays 01JUN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-01",
+            "recordUid": "103803"
+        },
+        {
+            "recordDetails": "Completed 55th Combat Mission (Operation D-Day Memorial)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-07",
+            "recordUid": "104305"
+        },
+        {
+            "recordDetails": "Completed 56th Combat Mission (Operation Operation Neptune D-1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-08",
+            "recordUid": "104364"
+        },
+        {
+            "recordDetails": "Completed 57th Combat Mission (Operation Neptune D-Day), Completed 1st Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-08",
+            "recordUid": "104496"
+        },
+        {
+            "recordDetails": "Completed 58th Combat Mission (Campaign Squad Saturdays JUN 2024. Operation Squad Saturdays 15JUN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-15",
+            "recordUid": "105329"
+        },
+        {
+            "recordDetails": "Completed 59th Combat Mission (Campaign Squad Saturdays JUN 2024. Operation Squad Saturdays 22JUN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-22",
+            "recordUid": "105675"
+        },
+        {
+            "recordDetails": "Completed 60th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-22",
+            "recordUid": "105845"
+        },
+        {
+            "recordDetails": "Completed 61st Combat Mission (Operation Katyusha II)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-28",
+            "recordUid": "106088"
+        },
+        {
+            "recordDetails": "Completed 62nd Combat Mission (Campaign Squad Saturdays JUN 2024. Operation Squad Saturdays 29JUN2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-29",
+            "recordUid": "106279"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S1 Uniforms Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-07-14",
+            "recordUid": "106744"
+        },
+        {
+            "recordDetails": "Completed 63rd Combat Mission (Campaign Squad Saturdays JUL 2024. Operation Squad Saturdays 13JUL2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-13",
+            "recordUid": "107096"
+        },
+        {
+            "recordDetails": "Completed 64th Combat Mission (Campaign Warrior Wednesday JULY 2024. Operation Warrior Wednesday 17JUL2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-17",
+            "recordUid": "107478"
+        },
+        {
+            "recordDetails": "Completed 65th Combat Mission (Campaign Squad Saturdays JUL 2024. Operation Squad Saturdays 20JUL2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-20",
+            "recordUid": "107872"
+        },
+        {
+            "recordDetails": "Completed 66th Combat Mission (Campaign Squad Saturdays JUL 2024. Operation Squad Saturdays 27JUL2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-27",
+            "recordUid": "108377"
+        },
+        {
+            "recordDetails": "Completed 67th Combat Mission (Operation Victory's Dawn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-28",
+            "recordUid": "108836"
+        },
+        {
+            "recordDetails": "Graduated Squad Ground School Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-08-11",
+            "recordUid": "109138"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Infantry Heavy Weapons Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-08-08",
+            "recordUid": "109385"
+        },
+        {
+            "recordDetails": "Completed 68th Combat Mission (Campaign Warrior Wednesday AUG 2024. Operation Warrior Wednesday 07AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-07",
+            "recordUid": "109412"
+        },
+        {
+            "recordDetails": "Completed 69th Combat Mission (Campaign Squad Saturdays AUG 2024. Operation Squad Saturdays 10AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-10",
+            "recordUid": "109547"
+        },
+        {
+            "recordDetails": "Completed 70th Combat Mission (Campaign Warrior Wednesday AUG 2024. Operation Warrior Wednesday 14AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-14",
+            "recordUid": "110013"
+        },
+        {
+            "recordDetails": "Completed 71st Combat Mission (Campaign Squad Saturdays AUG 2024. Operation Squad Saturdays 17AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-17",
+            "recordUid": "110252"
+        },
+        {
+            "recordDetails": "Completed 72nd Combat Mission (Campaign Warrior Wednesday AUG 2024. Operation Warrior Wednesday 21AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-21",
+            "recordUid": "110525"
+        },
+        {
+            "recordDetails": "Completed 73rd Combat Mission (Campaign Squad Saturdays AUG 2024. Operation Squad Saturdays 24AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-24",
+            "recordUid": "110684"
+        },
+        {
+            "recordDetails": "Graduated ARMA 3 Door Gunner Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-09-02",
+            "recordUid": "111113"
+        },
+        {
+            "recordDetails": "Completed 74th Combat Mission (Campaign Squad Saturdays AUG 2024. Operation Squad Saturdays 31AUG2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-31",
+            "recordUid": "111504"
+        },
+        {
+            "recordDetails": "Completed 75th Combat Mission (Campaign Warrior Wednesday SEP 2024. Operation Warrior Wednesday 04SEP2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-04",
+            "recordUid": "112082"
+        },
+        {
+            "recordDetails": "Completed 76th Combat Mission (Campaign Squad Saturdays SEP 2024. Operation Squad Saturdays 07SEP2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-07",
+            "recordUid": "112282"
+        },
+        {
+            "recordDetails": "Completed 77th Combat Mission (Campaign Squad Saturdays SEP 2024. Operation Squad Saturdays 14SEP2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-14",
+            "recordUid": "112891"
+        },
+        {
+            "recordDetails": "Completed 78th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-14",
+            "recordUid": "112978"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Leader Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-09-19",
+            "recordUid": "113284"
+        },
+        {
+            "recordDetails": "Completed 79th Combat Mission (Campaign Squad Saturdays SEP 2024. Operation Squad Saturdays 21SEP2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-21",
+            "recordUid": "113641"
+        },
+        {
+            "recordDetails": "Completed 80th Combat Mission (Campaign Estonian Resolve. Operation Consolidation)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-22",
+            "recordUid": "113891"
+        },
+        {
+            "recordDetails": "Completed 81st Combat Mission (Campaign Jungle Fury. Operation Typhoon's Wrath)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-28",
+            "recordUid": "114511"
+        },
+        {
+            "recordDetails": "Completed 82nd Combat Mission (Operation Sun Belt)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-05",
+            "recordUid": "115048"
+        },
+        {
+            "recordDetails": "Completed 83rd Combat Mission (Operation Tasty Reduction), Completed 2nd Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-06",
+            "recordUid": "115424"
+        },
+        {
+            "recordDetails": "Completed 84th Combat Mission (Campaign Squad Saturdays OCT 2024. Operation Squad Saturdays 12OCT2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-12",
+            "recordUid": "115649"
+        },
+        {
+            "recordDetails": "Completed 85th Combat Mission (Operation Losefast Winslow)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-13",
+            "recordUid": "115956"
+        },
+        {
+            "recordDetails": "Completed 86th Combat Mission (Campaign Squad Saturdays OCT 2024. Operation Squad Saturdays 26OCT2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-26",
+            "recordUid": "116593"
+        },
+        {
+            "recordDetails": "Completed 87th Combat Mission (Campaign Warrior Wednesday OCT 2024. Operation Warrior Wednesday 30OCT2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-30",
+            "recordUid": "116804"
+        },
+        {
+            "recordDetails": "Completed 88th Combat Mission (Campaign Black Bear 24. Operation Nordic Strike)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-02",
+            "recordUid": "117080"
+        },
+        {
+            "recordDetails": "Completed 89th Combat Mission (Campaign Squad Saturdays NOV 2024. Operation Squad Saturdays 09NOV2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-09",
+            "recordUid": "117486"
+        },
+        {
+            "recordDetails": "Completed 90th Combat Mission (Operation Wet Boot 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-10",
+            "recordUid": "117565"
+        },
+        {
+            "recordDetails": "Completed 91st Combat Mission (Campaign Warrior Wednesday NOV 2024. Operation Warrior Wednesday 13NOV2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-13",
+            "recordUid": "117643"
+        },
+        {
+            "recordDetails": "Completed 92nd Combat Mission (Campaign Squad Saturdays NOV 2024. Operation Squad Saturdays 16NOV2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-16",
+            "recordUid": "117716"
+        },
+        {
+            "recordDetails": "Completed 93rd Combat Mission (Campaign Squad Saturdays NOV 2024. Operation Squad Saturdays 23NOV2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-23",
+            "recordUid": "118152"
+        },
+        {
+            "recordDetails": "Completed 94th Combat Mission (Campaign Squad Saturdays NOV 2024. Operation Squad Saturdays 30NOV2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-30",
+            "recordUid": "118560"
+        },
+        {
+            "recordDetails": "Completed 95th Combat Mission (Campaign Warrior Wednesday DEC 2024. Operation Warrior Wednesday 11DEC2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-12-11",
+            "recordUid": "119324"
+        },
+        {
+            "recordDetails": "Assigned RRD Processing Clerk IT",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-01-06",
+            "recordUid": "119513"
+        },
+        {
+            "recordDetails": "Completed 96th Combat Mission (Campaign Squad Saturdays JAN 2025. Operation Squad Saturdays 04JAN2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-04",
+            "recordUid": "119731"
+        },
+        {
+            "recordDetails": "Completed 97th Combat Mission (Campaign Squad Saturdays JAN 2025. Operation Squad Saturdays 11JAN2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-11",
+            "recordUid": "120197"
+        },
+        {
+            "recordDetails": "Completed 98th Combat Mission (Campaign Iron Horse. Operation Liberty Falls)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-19",
+            "recordUid": "120622"
+        },
+        {
+            "recordDetails": "Completed 99th Combat Mission (Campaign Warrior Wednesday JAN 2025. Operation Warrior Wednesday 22JAN2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-23",
+            "recordUid": "121085"
+        },
+        {
+            "recordDetails": "Completed 100th Combat Mission (Campaign Squad Saturdays JAN 2025. Operation Squad Saturdays 25JAN2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-25",
+            "recordUid": "121196"
+        },
+        {
+            "recordDetails": "Completed 101st Combat Mission (Campaign Warrior Wednesday JAN 2025. Operation Warrior Wednesday 29JAN2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-30",
+            "recordUid": "121756"
+        },
+        {
+            "recordDetails": "Assigned RRD Enlistment Processing Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-02-10",
+            "recordUid": "121925"
+        },
+        {
+            "recordDetails": "Completed 102nd Combat Mission (Campaign Squad Saturdays FEB 2025. Operation Squad Saturdays 08FEB2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-08",
+            "recordUid": "122540"
+        },
+        {
+            "recordDetails": "Completed 103rd Combat Mission (Campaign Warrior Wednesday FEB 2025. Operation Warrior Wednesday 12FEB2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-12",
+            "recordUid": "122884"
+        },
+        {
+            "recordDetails": "Completed 104th Combat Mission (Campaign Squad Saturdays FEB 2025. Operation Squad Saturdays 15FEB2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-15",
+            "recordUid": "123033"
+        },
+        {
+            "recordDetails": "Completed 105th Combat Mission (Campaign Firefight Friday FEB25. Operation Firefight Friday 003)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-21",
+            "recordUid": "123515"
+        },
+        {
+            "recordDetails": "Completed 106th Combat Mission (Campaign Squad Saturdays FEB 2025. Operation Squad Saturdays 22FEB2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-22",
+            "recordUid": "123611"
+        },
+        {
+            "recordDetails": "Completed 107th Combat Mission (Operation Jungle Anvil)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-23",
+            "recordUid": "123641"
+        },
+        {
+            "recordDetails": "Completed 108th Combat Mission (Campaign Squad Saturdays MAR 2025. Operation Squad Saturdays 01MAR2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-01",
+            "recordUid": "124175"
+        },
+        {
+            "recordDetails": "Completed 109th Combat Mission (Campaign Squad Saturdays MAR 2025. Operation Squad Saturdays 08MAR2025)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-08",
+            "recordUid": "124836"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2023-10-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "46170"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2023-10-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "46179"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-10-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "46181"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46187"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46193"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46199"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46205"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46211"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46217"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-10-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "46883"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Parachutist Badge",
+            "awardDate": "2023-10-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/83.jpg?1612678149",
+            "awardUid": "47075"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "National Defense Service Medal",
+            "awardDate": "2023-11-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/30.jpg?1612676247",
+            "awardUid": "47392"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2023-11-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "47763"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Air Assault Badge",
+            "awardDate": "2023-11-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/86.jpg?1612678230",
+            "awardUid": "47953"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2023-11-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "48179"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2023-11-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "48580"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Squad Service Ribbon",
+            "awardDate": "2023-12-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/45.jpg?1612676585",
+            "awardUid": "48590"
+        },
+        {
+            "awardDetails": "S1",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2023-12-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "49179"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays November 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "49287"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2023-12-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "49550"
+        },
+        {
+            "awardDetails": "Campaign Warfare Wednesday November 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "49644"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "StackUp Donation Medal",
+            "awardDate": "2024-01-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/36.jpg?1612676402",
+            "awardUid": "50387"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Machine Gun Expert",
+            "awardDate": "2024-02-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/117.jpg?1612850659",
+            "awardUid": "50527"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "M-203 Expert",
+            "awardDate": "2025-01-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/114.jpg?1612850587",
+            "awardUid": "50535"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Recoilless Rifle Sharpshooter",
+            "awardDate": "2024-02-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/119.jpg?1612850704",
+            "awardUid": "50541"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays January 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-02-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "50565"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2024-01-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "50610"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-09-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "52054"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-10-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "52208"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-11-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "52825"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-12-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "52885"
+        },
+        {
+            "awardDetails": "5th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-01-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "52992"
+        },
+        {
+            "awardDetails": "6th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-02-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "53070"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays February 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-02-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "53612"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2024-04-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "54796"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Assault Course Ribbon",
+            "awardDate": "2024-05-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/54.jpg?1612676882",
+            "awardUid": "55552"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Field Medical Badge",
+            "awardDate": "2024-05-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/72.jpg?1612677819",
+            "awardUid": "55959"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays March 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-03-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "56201"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays April 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-04-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "56207"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays May 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-05-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "56627"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2024-06-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "57048"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D-Day Commemorative Medal",
+            "awardDate": "2024-06-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/50.jpg?1612676791",
+            "awardUid": "57278"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays June 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-06-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "59014"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays July 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-07-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "59899"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2024-08-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "60063"
+        },
+        {
+            "awardDetails": "7th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-03-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "60552"
+        },
+        {
+            "awardDetails": "8th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-04-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "60664"
+        },
+        {
+            "awardDetails": "9th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-05-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "60726"
+        },
+        {
+            "awardDetails": "10th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-06-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "60781"
+        },
+        {
+            "awardDetails": "11th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-07-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "60840"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Aeroweapons Sharpshooter",
+            "awardDate": "2024-09-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/110.jpg?1612850490",
+            "awardUid": "61323"
+        },
+        {
+            "awardDetails": "Campaign Warrior Wednesday August 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-08-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "61339"
+        },
+        {
+            "awardDetails": "Campaign Squad Saturdays August 2024",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-08-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "61522"
+        },
+        {
+            "awardDetails": "50 Operation Milestone",
+            "awardName": "Squad Service Ribbon",
+            "awardDate": "2024-09-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/45.jpg?1612676585",
+            "awardUid": "62421"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2024-10-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "64210"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2024-10-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "64257"
+        },
+        {
+            "awardDetails": "For S1 Dept. 18Nov23 - 18Nov24",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2024-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "64714"
+        },
+        {
+            "awardDetails": "S1",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2024-11-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "64773"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2024-09-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "65489"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "7th Cavalry Server Upgrade Award",
+            "awardDate": "2025-02-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/35.jpg?1612676380",
+            "awardUid": "67254"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Pistol Expert",
+            "awardDate": "2025-01-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/108.jpg?1612850440",
+            "awardUid": "67731"
+        },
+        {
+            "awardDetails": "12th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-11-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "67913"
+        },
+        {
+            "awardDetails": "13th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2024-12-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "67978"
+        },
+        {
+            "awardDetails": "14th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2025-01-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "68027"
+        },
+        {
+            "awardDetails": "15th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2025-02-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "68621"
+        }
+    ],
+    "joinDate": "2023-09-26",
+    "promotionDate": "2024-05-25",
+    "keycloakId": "591b0e4f-47b7-43f7-9e7f-b00b193e6b31",
+    "discordId": "295585424007757831",
+    "lastForumPostDate": "2025-03-18 21:31:53"
+}

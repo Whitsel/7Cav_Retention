@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2531",
+        "username": "Tabor.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jerod Tabor",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1398.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-15",
+            "recordUid": "49910"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-03-06",
+            "recordUid": "51106"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-15",
+    "promotionDate": "2022-02-15",
+    "keycloakId": "479e3f53-c12f-4174-a518-f089d0641d94",
+    "discordId": "891569867948425286",
+    "lastForumPostDate": "2022-08-22 02:07:58"
+}

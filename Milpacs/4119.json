@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8314",
+        "username": "Fowler.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jay Fowler",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4119.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-11-25",
+            "recordUid": "117920"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-01-03",
+            "recordUid": "119472"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-11-25",
+    "promotionDate": "",
+    "keycloakId": "1de17a61-b55b-4f74-846f-7fe1939e9ea5",
+    "discordId": "",
+    "lastForumPostDate": "2024-10-19 03:02:04"
+}

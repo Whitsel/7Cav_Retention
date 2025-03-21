@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8229",
+        "username": "Tilbury.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nick Tilbury",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4029.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-10-08",
+            "recordUid": "114638"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-10-21",
+            "recordUid": "115846"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-10-08",
+    "promotionDate": "",
+    "keycloakId": "c349127b-f39d-438a-b4f8-c50c2537e0f2",
+    "discordId": "",
+    "lastForumPostDate": "2024-10-06 08:58:50"
+}

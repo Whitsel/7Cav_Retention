@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5148",
+        "username": "Conrall.O"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Owen Conrall",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2607.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-07-03",
+            "recordUid": "80977"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-21",
+            "recordUid": "82138"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-07-03",
+    "promotionDate": "2023-07-03",
+    "keycloakId": "8da9ff4c-3c4b-4af7-9fef-05690cd87f29",
+    "discordId": "",
+    "lastForumPostDate": "2023-06-24 20:46:21"
+}

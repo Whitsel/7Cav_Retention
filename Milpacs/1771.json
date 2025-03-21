@@ -1,0 +1,141 @@
+{
+    "user": {
+        "userId": "3444",
+        "username": "Roswald.H"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Harvey Roswald",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1771.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-05",
+            "recordUid": "59773"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-14",
+            "recordUid": "60592"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Recruit, Assigned Hell Let Loose RTC",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-03",
+            "recordUid": "61493"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Mechanized Infantry D/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-10",
+            "recordUid": "61988"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-09-11",
+            "recordUid": "62254"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-10-11",
+            "recordUid": "63839"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-11-29",
+            "recordUid": "67686"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "32792"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Rifle Marksman",
+            "awardDate": "2022-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/100.jpg?1612850222",
+            "awardUid": "32793"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2022-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "32794"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "32935"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "32948"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "32961"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "32974"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "32987"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "33000"
+        },
+        {
+            "awardDetails": "2-7 Unit of the Year 2022",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2022-12-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "36182"
+        }
+    ],
+    "joinDate": "2022-08-04",
+    "promotionDate": "2022-10-11",
+    "keycloakId": "0faccfde-a4e2-48f4-8b8c-379bf3318c3d",
+    "discordId": "413948870419152898",
+    "lastForumPostDate": "2022-11-03 02:04:39"
+}

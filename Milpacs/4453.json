@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9045",
+        "username": "Truppo.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Christian Truppo",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4453.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/3/B/ACD",
+        "positionId": "989"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-09",
+            "recordUid": "124224"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/3/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-15",
+            "recordUid": "124853"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-09",
+    "promotionDate": "",
+    "keycloakId": "e6b6a03b-9727-40a0-b432-506497379b45",
+    "discordId": "280470002795282433",
+    "lastForumPostDate": "2025-03-18 17:13:26"
+}

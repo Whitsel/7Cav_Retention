@@ -1,0 +1,128 @@
+{
+    "user": {
+        "userId": "7456",
+        "username": "Duffy.J"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Joseph Duffy",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3630.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-24",
+            "recordUid": "105312"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-28",
+            "recordUid": "105491"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-06-30",
+            "recordUid": "106131"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/1/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-07-08",
+            "recordUid": "106241"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-07-30",
+            "recordUid": "108356"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-29",
+            "recordUid": "108707"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2024-06-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "58416"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "58444"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "58474"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "58504"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "58534"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "58564"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "58594"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Rifle Marksman",
+            "awardDate": "2024-06-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/100.jpg?1612850222",
+            "awardUid": "58634"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2024-06-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "58635"
+        }
+    ],
+    "joinDate": "2024-06-24",
+    "promotionDate": "2024-07-30",
+    "keycloakId": "4e43a735-579d-4072-af69-3aeb32e44546",
+    "discordId": "431657273232850954",
+    "lastForumPostDate": "2024-07-18 04:36:51"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8742",
+        "username": "Brady.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Matthew Brady",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4428.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/2/C/1-7",
+        "positionId": "310"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-02",
+            "recordUid": "123679"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry B/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-06",
+            "recordUid": "124578"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-02",
+    "promotionDate": "",
+    "keycloakId": "79419dc8-0dbc-4efc-943a-927bad0ea415",
+    "discordId": "235768192448987136",
+    "lastForumPostDate": "2025-03-18 21:08:40"
+}

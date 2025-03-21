@@ -1,0 +1,216 @@
+{
+    "user": {
+        "userId": "1967",
+        "username": "Patty.O"
+    },
+    "rank": {
+        "rankShort": "AR",
+        "rankFull": "Reservist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/31.jpg?0",
+        "rankId": "31"
+    },
+    "realName": "Owen Patty",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1130.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-10-28",
+            "recordUid": "44560"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-11-03",
+            "recordUid": "44852"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-11-07",
+            "recordUid": "45134"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Let Loose Tuesdays NOV21. Operation Trenched n' Tuesday 02NOV21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-03",
+            "recordUid": "45199"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-12-07",
+            "recordUid": "47351"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-02-05",
+            "recordUid": "49246"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Let Loose Tuesdays FEB22. Operation Trenched n' Tuesday 15FEB22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-16",
+            "recordUid": "50897"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation Charlie 2-7 FTX Feb22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-26",
+            "recordUid": "51410"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Combat Engineer C/2/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-08",
+            "recordUid": "56494"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry C/1/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-21",
+            "recordUid": "60737"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Mechanized Infantry C/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-09",
+            "recordUid": "61967"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry C/3/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-31",
+            "recordUid": "65530"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Tipping Point)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-30",
+            "recordUid": "66409"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation A/2-7 FTX Operation Supply Town: Deaths Road SLD)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-27",
+            "recordUid": "68340"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Reserves",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-01-11",
+            "recordUid": "69234"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-18",
+            "recordUid": "73753"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2021-11-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "23312"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2021-11-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "23319"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2021-11-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "23322"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23331"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23337"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23343"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23349"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23355"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23361"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2021-11-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "23446"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2022-12-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "36221"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2022-11-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "36235"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2022-11-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "36348"
+        }
+    ],
+    "joinDate": "2021-10-28",
+    "promotionDate": "2022-02-05",
+    "keycloakId": "1c5ae633-a2b7-41f9-a745-a6ed39865b41",
+    "discordId": "524030531604709376",
+    "lastForumPostDate": "2023-01-09 02:47:14"
+}

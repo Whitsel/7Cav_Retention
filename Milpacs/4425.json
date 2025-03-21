@@ -1,0 +1,54 @@
+{
+    "user": {
+        "userId": "9013",
+        "username": "Sandoval.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Martine Sandoval",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4425.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 3/2/C/1-7",
+        "positionId": "313"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-01",
+            "recordUid": "123589"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry C/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-07",
+            "recordUid": "124091"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Firefight Friday MAR25. Operation Firefight Friday 005)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-07",
+            "recordUid": "124799"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2025-03-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "69378"
+        }
+    ],
+    "joinDate": "2025-03-01",
+    "promotionDate": "",
+    "keycloakId": "80b179bd-e8f9-4cf4-9f3c-9ce6f98c7485",
+    "discordId": "1302428053707952228",
+    "lastForumPostDate": "2025-03-17 19:56:11"
+}

@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "685",
+        "username": "Pullem.A"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Aric Pullem",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/568.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2021-02-09",
+            "recordUid": "821"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-08",
+            "recordUid": "3556"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17691"
+        }
+    ],
+    "joinDate": "2020-11-04",
+    "promotionDate": "2021-02-08",
+    "keycloakId": "75c83ff0-7e1c-4ae0-b6ad-8228aea8a0d4",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

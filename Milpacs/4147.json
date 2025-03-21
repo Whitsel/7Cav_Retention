@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8445",
+        "username": "Garcia.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Dia Garcia",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4147.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-12-03",
+            "recordUid": "118323"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-01-14",
+            "recordUid": "120082"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-12-03",
+    "promotionDate": "",
+    "keycloakId": "d274f568-8808-4f91-9937-d86a1e75ba0a",
+    "discordId": "334016945177493504",
+    "lastForumPostDate": "2024-12-02 21:00:57"
+}

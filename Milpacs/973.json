@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1651",
+        "username": "Leenen.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Din Leenen",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/973.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-08-09",
+            "recordUid": "40128"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-08-31",
+            "recordUid": "41281"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-08-09",
+    "promotionDate": "2021-08-09",
+    "keycloakId": "a6fa5e7f-6edc-492f-a526-0c1d34f37111",
+    "discordId": "",
+    "lastForumPostDate": "2021-08-09 14:30:19"
+}

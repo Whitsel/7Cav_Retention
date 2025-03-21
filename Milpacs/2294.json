@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4555",
+        "username": "Malcom.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Daniel Malcom",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2294.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-24",
+            "recordUid": "71898"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-13",
+            "recordUid": "73438"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-02-23",
+    "promotionDate": "2023-02-23",
+    "keycloakId": "ca1bd36d-8f7f-4298-a87b-4f8742d4ace3",
+    "discordId": "",
+    "lastForumPostDate": "2023-02-19 17:45:34"
+}

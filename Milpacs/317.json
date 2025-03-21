@@ -1,0 +1,103 @@
+{
+    "user": {
+        "userId": "257",
+        "username": "Frank.E"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Ethan Frank",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/317.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Graduated Squad Combat Lifesaver Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-02-13",
+            "recordUid": "2695"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "7580"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Operation Search and Destroy)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-06",
+            "recordUid": "13666"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation Brazilian Steel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "16076"
+        },
+        {
+            "recordDetails": "Completed 21stCombat Mission (Operation Stackin Bodies 0803)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-09",
+            "recordUid": "18002"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Operation Moshtarak)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-20",
+            "recordUid": "18445"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-03-21",
+            "recordUid": "19361"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2021-03-29",
+            "recordUid": "20514"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20751"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Operation Wednesday Night Squad 24MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-24",
+            "recordUid": "20977"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2021-02-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "8202"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17347"
+        }
+    ],
+    "joinDate": "2020-08-20",
+    "promotionDate": "2021-03-21",
+    "keycloakId": "9d0d0a5b-987b-4214-80cd-aed38736b13e",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-29 01:32:02"
+}

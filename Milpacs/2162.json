@@ -1,0 +1,148 @@
+{
+    "user": {
+        "userId": "4239",
+        "username": "Marble.J"
+    },
+    "rank": {
+        "rankShort": "AR",
+        "rankFull": "Reservist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/31.jpg?0",
+        "rankId": "31"
+    },
+    "realName": "Jason Marble",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2162.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-12-08",
+            "recordUid": "68211"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Armor Crewman C/2/A/2-7",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-16",
+            "recordUid": "69051"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-12-17",
+            "recordUid": "69248"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-01-16",
+            "recordUid": "69692"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Supply Town: \u0431\u0435\u0437\u0434\u043e\u0440\u0456\u0436\u0436\u044f)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-26",
+            "recordUid": "72675"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Reserves",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-15",
+            "recordUid": "73451"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-06-28",
+            "recordUid": "80771"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-12-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "36720"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2022-12-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "36730"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2022-12-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "36731"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36737"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36744"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36751"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36758"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36765"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36772"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-02-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "38706"
+        },
+        {
+            "awardDetails": "Operation Supply Town: \u0431\u0435\u0437\u0434\u043e\u0440\u0456\u0436\u0436\u044f",
+            "awardName": "Purple Heart",
+            "awardDate": "2023-03-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/13.jpg?1612668156",
+            "awardUid": "38826"
+        }
+    ],
+    "joinDate": "2022-12-08",
+    "promotionDate": "2023-01-16",
+    "keycloakId": "8401b42a-f814-4561-a211-44f423c9da75",
+    "discordId": "",
+    "lastForumPostDate": "2023-04-16 18:02:42"
+}

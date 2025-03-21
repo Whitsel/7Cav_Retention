@@ -1,0 +1,839 @@
+{
+    "user": {
+        "userId": "1247",
+        "username": "Easy.G"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Garrett Easy",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/807.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/1/C/1-7",
+        "positionId": "293"
+    },
+    "secondaries": [
+        {
+            "positionTitle": "S1 Milpacs Clerk",
+            "positionId": "20"
+        }
+    ],
+    "records": [
+        {
+            "recordDetails": "Honorable Discharge with Eligibility for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2017-09-11",
+            "recordUid": "34497"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Campaign Nessus Blood, Operation Able Puncture)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-09-06",
+            "recordUid": "34498"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Mechanized Infantry Course, Class 035/09/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-08-28",
+            "recordUid": "34499"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Campaign Nessus Blood, Operation Slow Burn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-08-23",
+            "recordUid": "34500"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Infantry Leaders Course Phase I, Class 034/08/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-08-20",
+            "recordUid": "34501"
+        },
+        {
+            "recordDetails": "Certificate of Appreciation awarded for outstanding performance to S1 Department",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2017-08-19",
+            "recordUid": "34502"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2017-08-17",
+            "recordUid": "34503"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Campaign Nessus Blood, Operation Deep Cut)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-08-09",
+            "recordUid": "34504"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Annex Chernarus, Operation Castle Falls)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-08-05",
+            "recordUid": "34505"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Operation Manic Mayhem)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-07-30",
+            "recordUid": "34506"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S1 Operations Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-07-29",
+            "recordUid": "34507"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Betrayal, Operation White Cobra)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-07-22",
+            "recordUid": "34508"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Land Navigation Course, Class 029/07/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-07-16",
+            "recordUid": "34509"
+        },
+        {
+            "recordDetails": "Assigned Section Leader A/MED/HHC/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-07-12",
+            "recordUid": "34510"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Mechanized Crewman Course, Class 027/07/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-07-09",
+            "recordUid": "34511"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Campaign Tanoan Shield, Operation House Cleaning)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-07-08",
+            "recordUid": "34512"
+        },
+        {
+            "recordDetails": "Assigned to S1 Operational Clerk as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-07-02",
+            "recordUid": "34513"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Operation Northern Tempest)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-06-18",
+            "recordUid": "34514"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Campaign Betrayal, Operation Rhinoceros)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-06-17",
+            "recordUid": "34515"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Annex Chernarus, Operation First Steps)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-06-04",
+            "recordUid": "34516"
+        },
+        {
+            "recordDetails": "Assigned S1 Milpacs Lead",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-05-22",
+            "recordUid": "34517"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Operation Primitive Genesis)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-05-13",
+            "recordUid": "34518"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Operation Stallion Strike)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-05-06",
+            "recordUid": "34519"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Aviation Ground School, Class 018/05/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-04-29",
+            "recordUid": "34520"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Operation Nachzehrer)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-04-29",
+            "recordUid": "34521"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S2 Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-04-24",
+            "recordUid": "34522"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Armor Crewman Course Class 017/04/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-04-21",
+            "recordUid": "34523"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Peregrine, Operation Reaping Stone)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-04-12",
+            "recordUid": "34524"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Stratis Assault, Operation Sentinel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-04-08",
+            "recordUid": "34525"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign What For, Operation Guardian)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-04-07",
+            "recordUid": "34526"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S5 Graphics Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-03-30",
+            "recordUid": "34527"
+        },
+        {
+            "recordDetails": "Completed 21th Combat Mission (Campaign Peregrine, Operation Last December)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-03-18",
+            "recordUid": "34528"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation Raging Rhino)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-03-18",
+            "recordUid": "34529"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Emerald Storm, Operation Cloud Burst), Completed 3rd Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-03-17",
+            "recordUid": "34530"
+        },
+        {
+            "recordDetails": "Assigned to S2 Department (In Training) as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-03-05",
+            "recordUid": "34531"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Operation Featherweight)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-03-04",
+            "recordUid": "34532"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2017-02-26",
+            "recordUid": "34533"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Peregrine, Operation Burning Times)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-02-25",
+            "recordUid": "34534"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Combat Medic A/MED/HHC/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-02-15",
+            "recordUid": "34535"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Class 01*01-17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-02-06",
+            "recordUid": "34536"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Stratis Assault, Operation Wrecking Ball)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-12-10",
+            "recordUid": "34537"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Iron Will, Operation Bronze Sweep)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-12-04",
+            "recordUid": "34538"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation Empty Fields)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-12-02",
+            "recordUid": "34539"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Advanced Individual Training (AIT Phase II)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-11-21",
+            "recordUid": "34540"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Radio Communication Course, Class 047/11/16",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-11-21",
+            "recordUid": "34541"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Combat Medic Course, Class 047/11/16",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-11-19",
+            "recordUid": "34542"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Iron Will, Operation Brass Hearts), Completed 2nd Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-11-13",
+            "recordUid": "34543"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Stratis Assault, Operation Twilight Breach)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-11-05",
+            "recordUid": "34544"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Combat Lifesaver Course, Class 044/11/16",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-10-29",
+            "recordUid": "34545"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2016-10-28",
+            "recordUid": "34546"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation Restoring Rights Part I)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-10-22",
+            "recordUid": "34547"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Iron Will, Operation Golden Comet), Completed 1st Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-10-21",
+            "recordUid": "34548"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Castoff)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-10-09",
+            "recordUid": "34549"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Air Assault Course, Class 041/10/16",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-10-07",
+            "recordUid": "34550"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Advanced Individual Training (AIT Phase I)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-10-02",
+            "recordUid": "34551"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper D/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-09-24",
+            "recordUid": "34552"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation Ballistic Missive - Part 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-09-19",
+            "recordUid": "34553"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Band of Brothers, Operation Aggregat - Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-09-18",
+            "recordUid": "34554"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation Evergreen)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-09-18",
+            "recordUid": "34555"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Airborne Course, Class 038/09/16",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-09-16",
+            "recordUid": "34556"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Thunder Cloud)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-09-11",
+            "recordUid": "34557"
+        },
+        {
+            "recordDetails": "Assigned to S5 Graphics Department as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2016-09-10",
+            "recordUid": "34558"
+        },
+        {
+            "recordDetails": "Graduated INSURGENCY Advanced Individual Training (AIT Phase I)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-09-09",
+            "recordUid": "34559"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Band of Brothers, Operation Bastogne - Part 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-09-04",
+            "recordUid": "34560"
+        },
+        {
+            "recordDetails": "Assigned to S1 Milpacs Department as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2016-09-04",
+            "recordUid": "34561"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2016-08-29",
+            "recordUid": "34562"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Eagle, Operation Snipe Hunt)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-08-27",
+            "recordUid": "34563"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign TF November, Operation Wolfpack Surge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-08-21",
+            "recordUid": "34564"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-08-15",
+            "recordUid": "34565"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Fever Dream)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-08-06",
+            "recordUid": "34566"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-07-31",
+            "recordUid": "34567"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Combat Trooper 1/3/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-07-31",
+            "recordUid": "34568"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp 030/07/16",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-07-25",
+            "recordUid": "34569"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Specialist (E-4), Transferred and Assigned Trooper 4/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-05-12",
+            "recordUid": "35077"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-06-21",
+            "recordUid": "37383"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank as a Private (E-2), Transferred and Assigned Airborne Infantry C/1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-07",
+            "recordUid": "121784"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Campaign Firefight Friday FEB25. Operation Firefight Friday 001)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-07",
+            "recordUid": "122484"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Campaign Firefight Friday FEB25. Operation Firefight Friday 002)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-15",
+            "recordUid": "123007"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Firefight Friday FEB25. Operation Firefight Friday 003)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-21",
+            "recordUid": "123506"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Campaign Firefight Friday FEB25. Operation Firefight Friday 004)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-01",
+            "recordUid": "124123"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry A/1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-08",
+            "recordUid": "124148"
+        },
+        {
+            "recordDetails": "Assigned S1 Milpacs Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-03-11",
+            "recordUid": "124388"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Campaign Firefight Friday MAR25. Operation Firefight Friday 005)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-07",
+            "recordUid": "124782"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-03-09",
+            "recordUid": "124884"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "16494"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "16495"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "16496"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "16497"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "16498"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2016-07-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "16499"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2016-07-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "16500"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Grenade Marksman",
+            "awardDate": "2016-07-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/103.jpg?1612850295",
+            "awardUid": "16501"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2016-08-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "16502"
+        },
+        {
+            "awardDetails": "Operation Fever Dream",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2016-08-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "16503"
+        },
+        {
+            "awardDetails": "Operation Snipe Hunt",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2016-08-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "16504"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2017-07-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "16505"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2016-09-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "16506"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Parachutist Badge",
+            "awardDate": "2016-09-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/83.jpg?1612678149",
+            "awardUid": "16507"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2016-09-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "16508"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Air Assault Badge",
+            "awardDate": "2016-10-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/86.jpg?1612678230",
+            "awardUid": "16509"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2016-10-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "16510"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Field Medical Badge",
+            "awardDate": "2016-11-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/72.jpg?1612677819",
+            "awardUid": "16511"
+        },
+        {
+            "awardDetails": "S1 Milpacs",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2016-12-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "16512"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2016-12-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "16513"
+        },
+        {
+            "awardDetails": "Campaign Iron Will, Operation Bronze Sweep",
+            "awardName": "Bronze Star with Valor Device",
+            "awardDate": "2016-12-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/11.jpg?1612668108",
+            "awardUid": "16514"
+        },
+        {
+            "awardDetails": "Operation Twilight Breach",
+            "awardName": "Bronze Star",
+            "awardDate": "2016-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "16515"
+        },
+        {
+            "awardDetails": "Operation Burning Times",
+            "awardName": "Purple Heart",
+            "awardDate": "2017-03-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/13.jpg?1612668156",
+            "awardUid": "16517"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2017-03-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "16518"
+        },
+        {
+            "awardDetails": "For S1 Dept. 04SEP16 - 04MAR17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-03-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "16519"
+        },
+        {
+            "awardDetails": "For S5 Dept. 10SEP16 - 10MAR17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-03-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "16520"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2017-03-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "16521"
+        },
+        {
+            "awardDetails": "Operation Featherweight",
+            "awardName": "Prisoner of War Medal",
+            "awardDate": "2017-03-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/22.jpg?1612674621",
+            "awardUid": "16522"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Field Medical Badge",
+            "awardDate": "2017-04-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/73.jpg?1612677838",
+            "awardUid": "16523"
+        },
+        {
+            "awardDetails": "Operation Reaping Stone",
+            "awardName": "Purple Heart",
+            "awardDate": "2017-04-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/13.jpg?1612668156",
+            "awardUid": "16524"
+        },
+        {
+            "awardDetails": "Campaign Stratis Assault (Arma3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2017-05-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "16526"
+        },
+        {
+            "awardDetails": "Campaign Peregrine (Squad)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2017-07-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "16527"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2017-08-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "16528"
+        },
+        {
+            "awardDetails": "S1 Milpacs",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2017-08-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "16529"
+        },
+        {
+            "awardDetails": "For S1 Dept. 04MAR17 - 04SEP17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-09-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "16530"
+        },
+        {
+            "awardDetails": "Campaign Iron Will (Arma3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2017-11-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "16531"
+        },
+        {
+            "awardDetails": "Operation House Cleaning",
+            "awardName": "Bronze Star with Valor Device",
+            "awardDate": "2017-11-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/11.jpg?1612668108",
+            "awardUid": "16532"
+        },
+        {
+            "awardDetails": "Campaign Nessus Blood (ARMA 3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2018-01-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "16533"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17202"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2021-05-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "22086"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2025-02-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "68623"
+        },
+        {
+            "awardDetails": "Campaign Firefight Friday FEB25",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2025-02-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "69029"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2025-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "69411"
+        }
+    ],
+    "joinDate": "2016-07-25",
+    "promotionDate": "2025-03-09",
+    "keycloakId": "2da23502-60e6-4ac7-a53d-b053c7dd02b3",
+    "discordId": "967938623439765514",
+    "lastForumPostDate": "2025-03-18 20:24:38"
+}

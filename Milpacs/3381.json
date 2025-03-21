@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6989",
+        "username": "Stanley.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Edwards.Stanley",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3381.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-01",
+            "recordUid": "100538"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102721"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-02",
+    "promotionDate": "",
+    "keycloakId": "0da8872f-cf6c-4c20-80da-2edb064820bb",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-01 00:31:34"
+}

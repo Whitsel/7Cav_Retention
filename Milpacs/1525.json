@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2847",
+        "username": "Torres.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Henry Torres",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1525.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-04-14",
+            "recordUid": "53087"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-04-27",
+            "recordUid": "54190"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-04-13",
+    "promotionDate": "2022-04-13",
+    "keycloakId": "9246e9a8-9162-45ac-b028-049000ea10e4",
+    "discordId": "",
+    "lastForumPostDate": "2022-04-13 16:49:49"
+}

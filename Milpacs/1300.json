@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2334",
+        "username": "Cook.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mathew Cook",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1300.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-13",
+            "recordUid": "48176"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-01-30",
+            "recordUid": "49145"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-13",
+    "promotionDate": "2022-01-13",
+    "keycloakId": "046a1b72-4dc3-4239-ab1b-15a192ae3b1b",
+    "discordId": "",
+    "lastForumPostDate": "2022-01-12 14:58:48"
+}

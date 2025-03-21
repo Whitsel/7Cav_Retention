@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4127",
+        "username": "Marcello.G"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Giovanni Marcello",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2076.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-11-15",
+            "recordUid": "66735"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-11-29",
+            "recordUid": "67688"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-11-15",
+    "promotionDate": "2022-11-15",
+    "keycloakId": "8d8c1645-7190-4b5d-877a-cf353eeec021",
+    "discordId": "",
+    "lastForumPostDate": "2022-11-14 23:56:43"
+}

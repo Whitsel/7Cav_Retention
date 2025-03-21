@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3714",
+        "username": "Judge.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brandon Judge",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1906.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-10",
+            "recordUid": "62052"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-03",
+            "recordUid": "63327"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-09-10",
+    "promotionDate": "2022-09-10",
+    "keycloakId": "b5bc61c3-393f-44bf-890c-c6d7bf951d7d",
+    "discordId": "",
+    "lastForumPostDate": "2022-09-08 00:33:51"
+}

@@ -1,0 +1,58 @@
+{
+    "user": {
+        "userId": "6046",
+        "username": "Hamish.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Alaric Hamish",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2975.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-12-06",
+            "recordUid": "91028"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-12-15",
+            "recordUid": "91971"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Recruit (E-1), Transferred and Assigned RTC ARMA for Briefing/Bootcamp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-07-15",
+            "recordUid": "106776"
+        },
+        {
+            "recordDetails": "Name Change Approved: Recruit Steve Knightingale will now be known as Recruit Alaric Hamish",
+            "recordType": "RECORD_TYPE_NAME_CHANGE",
+            "recordDate": "2024-07-16",
+            "recordUid": "106808"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-22",
+            "recordUid": "107490"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-12-06",
+    "promotionDate": "2024-07-14",
+    "keycloakId": "4ad1b35f-b766-4fa0-b0c2-4e3312239701",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-30 10:09:16"
+}

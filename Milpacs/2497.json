@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4959",
+        "username": "Samael.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Matthew Samael",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2497.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-16",
+            "recordUid": "77943"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-05-29",
+            "recordUid": "78872"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-05-16",
+    "promotionDate": "2023-05-16",
+    "keycloakId": "796a6a8a-8d18-4ccb-b013-0d5801c546c2",
+    "discordId": "",
+    "lastForumPostDate": "2023-05-03 12:28:16"
+}

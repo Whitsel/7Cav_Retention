@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4848",
+        "username": "Stakey.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Allen Stakey",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2437.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-04-19",
+            "recordUid": "76132"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-05-02",
+            "recordUid": "77216"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-04-19",
+    "promotionDate": "2023-04-19",
+    "keycloakId": "9bd8da51-54f0-4d8a-b2d3-f0ff5fbe062c",
+    "discordId": "",
+    "lastForumPostDate": "2023-04-14 21:56:09"
+}

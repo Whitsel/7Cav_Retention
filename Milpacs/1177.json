@@ -1,0 +1,141 @@
+{
+    "user": {
+        "userId": "2045",
+        "username": "Ozman.D"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Dave Ozman",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1177.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-11-15",
+            "recordUid": "45471"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-11-20",
+            "recordUid": "45679"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-11-21",
+            "recordUid": "45920"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Let Loose Tuesdays NOV21. Operation Trenched n' Tuesday 23NOV21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-24",
+            "recordUid": "46537"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-12-21",
+            "recordUid": "48043"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Let Loose Tuesdays JAN22. Operation Trenched n' Tuesday 11JAN22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-01-12",
+            "recordUid": "48580"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-01-28",
+            "recordUid": "49039"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2021-11-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "23644"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Rifle Sharpshooter",
+            "awardDate": "2021-11-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/101.jpg?1612850250",
+            "awardUid": "23654"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2021-11-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "23669"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23678"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23688"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23698"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23708"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23718"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23728"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2021-11-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "27729"
+        }
+    ],
+    "joinDate": "2021-11-15",
+    "promotionDate": "2021-12-21",
+    "keycloakId": "12e7d574-27db-45c8-a211-ce3c01589ead",
+    "discordId": "298145812473446401",
+    "lastForumPostDate": "2022-01-12 07:13:13"
+}

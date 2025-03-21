@@ -1,0 +1,197 @@
+{
+    "user": {
+        "userId": "4043",
+        "username": "Natter.S"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Stefan Natter",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2040.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-11-02",
+            "recordUid": "65624"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/B/ACD.",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-11-05",
+            "recordUid": "65826"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-11-06",
+            "recordUid": "65965"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Forge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-03",
+            "recordUid": "68435"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Whiteout 11DEC22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-11",
+            "recordUid": "68984"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-12-06",
+            "recordUid": "69599"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation ESCAPE FURLOUGH (P.O.W.))",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-07",
+            "recordUid": "69644"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-01-21",
+            "recordUid": "69806"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-02-04",
+            "recordUid": "70907"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Round 2 - TPL. Operation TPL .v. 15PG)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-04",
+            "recordUid": "71459"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-02-14",
+            "recordUid": "71850"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Forge 25FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-25",
+            "recordUid": "72576"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Hell's Highway March 2023. Operation Hells Highway 1/4 05MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-05",
+            "recordUid": "73339"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-24",
+            "recordUid": "74424"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-11-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "34875"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34883"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34888"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34893"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34898"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34903"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34908"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Rifle Sharpshooter",
+            "awardDate": "2022-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/101.jpg?1612850250",
+            "awardUid": "35826"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2022-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "35827"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2022-12-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "36583"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2023-03-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "38427"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2023-02-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "38714"
+        }
+    ],
+    "joinDate": "2022-11-01",
+    "promotionDate": "2023-02-04",
+    "keycloakId": "359ec861-0d6d-4c09-9eee-9b0bf57031de",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-24 19:04:25"
+}

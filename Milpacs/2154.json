@@ -1,0 +1,152 @@
+{
+    "user": {
+        "userId": "4240",
+        "username": "Hamm.M"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Michael Hamm",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2154.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-12-06",
+            "recordUid": "68052"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-12-09",
+            "recordUid": "68239"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-12-11",
+            "recordUid": "68402"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-01-10",
+            "recordUid": "69386"
+        },
+        {
+            "recordDetails": "Placed on ELOA Due to Military Deployment",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-01-19",
+            "recordUid": "69441"
+        },
+        {
+            "recordDetails": "Returned from Military Deployment, Assigned Trooper A/1/A/ACD",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-02-22",
+            "recordUid": "71905"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-03-11",
+            "recordUid": "73066"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-19",
+            "recordUid": "73736"
+        },
+        {
+            "recordDetails": "Placed on ELOA Due to Military Deployment",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-05-11",
+            "recordUid": "77886"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-24",
+            "recordUid": "100353"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Hydra-70 Expert",
+            "awardDate": "2022-12-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/128.jpg?1708297370",
+            "awardUid": "36246"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36255"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36267"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-12-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "36279"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36292"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36306"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36321"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "36336"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2024-01-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "50895"
+        }
+    ],
+    "joinDate": "2022-12-06",
+    "promotionDate": "2023-03-11",
+    "keycloakId": "a3b6e146-e3be-4b8c-b42c-57a22d4cab0d",
+    "discordId": "454923481570869259",
+    "lastForumPostDate": "2024-04-16 00:38:55"
+}

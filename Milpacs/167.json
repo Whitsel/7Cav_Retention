@@ -1,0 +1,1812 @@
+{
+    "user": {
+        "userId": "504",
+        "username": "James.M"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Mack James",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/167.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/1/A/2-7",
+        "positionId": "352"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-08",
+            "recordUid": "3536"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-12-08",
+            "recordUid": "8159"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Let Loose Tuesdays DEC20. Operation Trenched N Tuesdays 08DEC20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-12-08",
+            "recordUid": "8160"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Let Loose Tuesdays DEC20. Operation Trenched N Tuesday 02DEC20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-12-02",
+            "recordUid": "8161"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-11-08",
+            "recordUid": "8162"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Basic Infantry Combat Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-11-07",
+            "recordUid": "8163"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry D/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-11-06",
+            "recordUid": "8164"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-10-28",
+            "recordUid": "8165"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Charity Run. Operation The Church)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-24",
+            "recordUid": "12982"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Let Loose Tuesdays JAN21. Operation Trenched n Tuesday 26JAN2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-26",
+            "recordUid": "13100"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Let Loose Tuesdays MAR21. Operation Trenched n Tuesday 10MAR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-09",
+            "recordUid": "17130"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Golden Toothbrush. Operation Resurrection)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17901"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Let Loose Tuesdays MAR21. Operation Trenched 'n Tuesday 17MAR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-17",
+            "recordUid": "18084"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Let Loose Tuesdays MAR21. Operation Trenched 'n Tuesday 23MAR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-23",
+            "recordUid": "20858"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Let Loose Tuesdays MAR21. Operation Trenched 'n Tuesday 30MAR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-30",
+            "recordUid": "25686"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Let Loose Tuesdays APR21. Operation Trenched 'n Tuesday 06APR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-04-06",
+            "recordUid": "26950"
+        },
+        {
+            "recordDetails": "Assigned S1 Citations IT as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-04-16",
+            "recordUid": "27158"
+        },
+        {
+            "recordDetails": "Assigned RRD Hell Let Loose Recruiter as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-04-15",
+            "recordUid": "27162"
+        },
+        {
+            "recordDetails": "Assigned S3 Hell Let Loose Operations Staff as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-04-14",
+            "recordUid": "27164"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Let Loose Tuesdays APR21. Operation Trenched 'n Tuesday 13APR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-04-13",
+            "recordUid": "32328"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Let Loose Tuesdays APR21. Operation Trenched 'n Tuesday 20APR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-04-20",
+            "recordUid": "34096"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Combat Lifesaver Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-12-16",
+            "recordUid": "34153"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Let Loose Tuesdays APR21. Operation Trenched 'n Tuesday 27APR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-04-27",
+            "recordUid": "34623"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation Clipper)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-01",
+            "recordUid": "34909"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Let Loose Tuesdays MAY21. Operation Trenched 'n Tuesday 04MAY2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-04",
+            "recordUid": "35061"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Operation King of the Hill)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-08",
+            "recordUid": "35301"
+        },
+        {
+            "recordDetails": "Assigned S1 Citations Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-05-17",
+            "recordUid": "35460"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Let Loose Tuesdays MAY21. Operation Trenched 'n Tuesday 11MAY2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-11",
+            "recordUid": "35513"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Operation Crossroads)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-16",
+            "recordUid": "35772"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Let Loose Tuesdays MAY21. Operation Trenched 'n Tuesday 18MAY2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-18",
+            "recordUid": "35953"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-05-25",
+            "recordUid": "35978"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation Werewolf)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-22",
+            "recordUid": "36351"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign Let Loose Tuesdays MAY21. Operation Trenched 'n Tuesday 25MAY2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-05-25",
+            "recordUid": "36515"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Let Loose Tuesdays JUN21. Operation Trenched 'n Tuesday 01June2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-06-01",
+            "recordUid": "36790"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-06-13",
+            "recordUid": "36913"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Let Loose Tuesdays JUN21. Operation Trenched 'n Tuesday 08June2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-06-08",
+            "recordUid": "37061"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Let Loose Tuesdays JUN21. Operation Trenched 'n Tuesday 15June2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-06-15",
+            "recordUid": "37414"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-06-22",
+            "recordUid": "37664"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Let Loose Tuesdays JUN21. Operation Trenched 'n Tuesday 22June2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-06-22",
+            "recordUid": "37706"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-06-22",
+            "recordUid": "37882"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign Let Loose Tuesdays JUN21. Operation Trenched 'n Tuesday 29June2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-06-29",
+            "recordUid": "38007"
+        },
+        {
+            "recordDetails": "Assigned Assistant Section Leader D/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-07-08",
+            "recordUid": "38104"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Public Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-07-08",
+            "recordUid": "38105"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Operation Ausbeutung)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-07-03",
+            "recordUid": "38250"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Let Loose Tuesdays JUL21. Operation Trenched 'n Tuesday 13July2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-07-13",
+            "recordUid": "38726"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Operations Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-07-27",
+            "recordUid": "39143"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Basic Land Navigation & Communications Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-07-26",
+            "recordUid": "39256"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Campaign Let Loose Tuesdays JUL21. Operation Trenched 'n Tuesday 20July2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-07-20",
+            "recordUid": "39292"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Campaign Let Loose Tuesdays JUL21. Operation Trenched 'n Tuesday 27July2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-07-27",
+            "recordUid": "40030"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Campaign Let Loose Tuesdays AUG21. Operation Trenched 'n Tuesday 03August21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-08-03",
+            "recordUid": "40238"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Operation Battle of Carentan)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-08-07",
+            "recordUid": "40374"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Campaign Let Loose Tuesdays AUG21. Operation Trenched 'n Tuesday 10August21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-08-10",
+            "recordUid": "40583"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Let Loose Tuesdays AUG21. Operation Trenched 'n Tuesday 17August21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-08-17",
+            "recordUid": "40948"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Campaign Let Loose Tuesdays AUG21. Operation Trenched 'n Tuesday 24August21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-08-24",
+            "recordUid": "41404"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Campaign Let Loose Tuesdays SEP21. Operation Trenched 'n Tuesday 07September21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-09-08",
+            "recordUid": "42044"
+        },
+        {
+            "recordDetails": "Assigned S1 Citation Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-10-07",
+            "recordUid": "43387"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Operation Rat King)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-03",
+            "recordUid": "43496"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Campaign Let Loose Tuesdays OCT21. Operation Trenched'n Tuesday 05OCT21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-06",
+            "recordUid": "43631"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Operation Zimmer Frei)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-10",
+            "recordUid": "44083"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Let Loose Tuesdays OCT21. Operation Trenched n' Tuesday 12OCT21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-13",
+            "recordUid": "44151"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Operation Ares 15th October)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-15",
+            "recordUid": "44455"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Campaign Let Loose Tuesdays OCT21. Operation Trenched n' Tuesday 26OCT21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-26",
+            "recordUid": "44946"
+        },
+        {
+            "recordDetails": "Completed 43rd Combat Mission (Operation Halloween Spooktacular)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-10-31",
+            "recordUid": "45103"
+        },
+        {
+            "recordDetails": "Completed 44th Combat Mission (Operation Diving Falcon)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-06",
+            "recordUid": "45359"
+        },
+        {
+            "recordDetails": "Assigned RRD Recruiter",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-11-14",
+            "recordUid": "45421"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-10-22",
+            "recordUid": "45637"
+        },
+        {
+            "recordDetails": "Completed 45th Combat Mission (Operation Citadel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-14",
+            "recordUid": "45959"
+        },
+        {
+            "recordDetails": "Completed 46th Combat Mission (Operation Omaha Beach)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-17",
+            "recordUid": "46254"
+        },
+        {
+            "recordDetails": "Relieved of Duty as S3 HLL Operation Senior Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-01-20",
+            "recordUid": "48564"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Assistant Section Leader 4/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-23",
+            "recordUid": "48642"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-01-21",
+            "recordUid": "48923"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Private First Class (E-3), Transferred and Assigned Airborne Infantry D/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-20",
+            "recordUid": "64179"
+        },
+        {
+            "recordDetails": "Completed 47th Combat Mission (Campaign Let Loose Tuesdays Oct22. Operation Trenched n' Tuesday 25OCT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-25",
+            "recordUid": "65674"
+        },
+        {
+            "recordDetails": "Completed 48th Combat Mission (Campaign Let Loose Tuesdays NOV22. Operation  Trenched n' Tuesday 08NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-08",
+            "recordUid": "67208"
+        },
+        {
+            "recordDetails": "Completed 49th Combat Mission (Campaign Let Loose Tuesdays NOV22. Operation Trenched n' Tuesday 15NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-15",
+            "recordUid": "67299"
+        },
+        {
+            "recordDetails": "Completed 50th Combat Mission (Campaign Let Loose Tuesdays NOV22. Operation Trenched n' Tuesday 22NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-22",
+            "recordUid": "67644"
+        },
+        {
+            "recordDetails": "Completed 51st Combat Mission (Campaign Let Loose Tuesdays NOV22. Operation Trenched n' Tuesday 29NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-29",
+            "recordUid": "68128"
+        },
+        {
+            "recordDetails": "Completed 52nd Combat Mission (Campaign Let Loose Tuesdays DEC22. Operation Trenched n' Tuesday 06DEC22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-06",
+            "recordUid": "68618"
+        },
+        {
+            "recordDetails": "Assigned Assistant Section Leader D/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-01-09",
+            "recordUid": "69134"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-12-18",
+            "recordUid": "69161"
+        },
+        {
+            "recordDetails": "Completed 53rd Combat Mission (Campaign Let Loose Tuesdays JAN23. Operation Trenched n' Tuesdays 10JAN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-10",
+            "recordUid": "69492"
+        },
+        {
+            "recordDetails": "Completed 54th Combat Mission (Campaign Let Loose Tuesdays JAN23. Operation Trenched n' Tuesday 17JAN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-17",
+            "recordUid": "69882"
+        },
+        {
+            "recordDetails": "Completed 55th Combat Mission (Operation Strongside )",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-29",
+            "recordUid": "70998"
+        },
+        {
+            "recordDetails": "Assigned Section Leader D/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-09",
+            "recordUid": "71080"
+        },
+        {
+            "recordDetails": "Completed 56th Combat Mission (Campaign Battle of Foy. Operation Battle of Foy Pt.1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-04",
+            "recordUid": "71201"
+        },
+        {
+            "recordDetails": "Completed 58th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation 7th Cavalry Expeditionary Force Training 08FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-08",
+            "recordUid": "71430"
+        },
+        {
+            "recordDetails": "Completed 57th Combat Mission (Campaign Let Loose Tuesdays 07FEB23. Operation Trenched n' Tuesday 07FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-07",
+            "recordUid": "71488"
+        },
+        {
+            "recordDetails": "Completed 60th Combat Mission (Campaign Death Race. Operation First Blood)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-18",
+            "recordUid": "72083"
+        },
+        {
+            "recordDetails": "Completed 59th Combat Mission (Operation 7th Cavalry Expeditionary Force Training 18FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-18",
+            "recordUid": "72176"
+        },
+        {
+            "recordDetails": "Completed 61st Combat Mission (Campaign Let Loose Tuesdays 14FEB23. Operation Trenched n' Tuesday 21FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-21",
+            "recordUid": "72384"
+        },
+        {
+            "recordDetails": "Completed 62nd Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation Expeditionary Force Training 22FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-22",
+            "recordUid": "72454"
+        },
+        {
+            "recordDetails": "Completed 64th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation Expeditionary Force Training 01MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-01",
+            "recordUid": "72786"
+        },
+        {
+            "recordDetails": "Completed 63rd Combat Mission (Campaign Let Loose Tuesdays 28FEB23. Operation Trenched n' Tuesday 28FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-28",
+            "recordUid": "72845"
+        },
+        {
+            "recordDetails": "Completed 65th Combat Mission (Campaign Let Loose Tuesdays MAR23. Operation Trenched n' Tuesday 07MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-07",
+            "recordUid": "73407"
+        },
+        {
+            "recordDetails": "Completed 66th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation 7th Cavalry Expeditionary Force Training 08MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-08",
+            "recordUid": "73471"
+        },
+        {
+            "recordDetails": "Completed 67th Combat Mission (Campaign Let Loose Tuesdays MAR23. Operation Trenched n' Tuesday 14MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-14",
+            "recordUid": "74083"
+        },
+        {
+            "recordDetails": "Completed 68th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation 7th Cavalry Expeditionary Force Training 15MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-14",
+            "recordUid": "74209"
+        },
+        {
+            "recordDetails": "Completed 69th Combat Mission (Operation HOWITZER 24h 17MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-17",
+            "recordUid": "74486"
+        },
+        {
+            "recordDetails": "Completed 70th Combat Mission (Campaign Let Loose Tuesdays MAR23. Operation Trenched n' Tuesday 21MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-21",
+            "recordUid": "74925"
+        },
+        {
+            "recordDetails": "Completed 71st Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation 7th Cavalry Expeditionary Force Training 22Mar23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-21",
+            "recordUid": "74952"
+        },
+        {
+            "recordDetails": "Completed 72nd Combat Mission (Campaign Death Race (#2). Operation Flat Bush)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-26",
+            "recordUid": "75063"
+        },
+        {
+            "recordDetails": "Completed 73rd Combat Mission (Campaign Let Loose Tuesdays MAR23. Operation Trenched n' Tuesday 28MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-28",
+            "recordUid": "75165"
+        },
+        {
+            "recordDetails": "Completed 74th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q1 2023. Operation 7th Cavalry Expeditionary Force Training 29MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-29",
+            "recordUid": "75394"
+        },
+        {
+            "recordDetails": "Completed 75th Combat Mission (Operation Riddle of Steel 01APR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-01",
+            "recordUid": "75488"
+        },
+        {
+            "recordDetails": "Assigned S3 Hell Let Loose Operations Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-04-17",
+            "recordUid": "75969"
+        },
+        {
+            "recordDetails": "Completed 76th Combat Mission (Campaign Let Loose Tuesdays APR23. Operation Trenched n' Tuesday 11APR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-11",
+            "recordUid": "75995"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-04-17",
+            "recordUid": "76073"
+        },
+        {
+            "recordDetails": "Completed 77th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 12APR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-12",
+            "recordUid": "76209"
+        },
+        {
+            "recordDetails": "Completed 78th Combat Mission (Operation Hammer and Stone 15APR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-15",
+            "recordUid": "76292"
+        },
+        {
+            "recordDetails": "Completed 79th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 19APR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-19",
+            "recordUid": "76678"
+        },
+        {
+            "recordDetails": "Completed 80th Combat Mission (Campaign Let Loose Tuesdays MAY23. Operation Trenched n' Tuesday 02MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-02",
+            "recordUid": "77667"
+        },
+        {
+            "recordDetails": "Completed 81st Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 03MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-03",
+            "recordUid": "77779"
+        },
+        {
+            "recordDetails": "Completed 82nd Combat Mission (Campaign Let Loose Tuesdays MAY23. Operation Trenched n' Tuesday 09MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-09",
+            "recordUid": "77992"
+        },
+        {
+            "recordDetails": "Completed 83rd Combat Mission (Campaign Let Loose Tuesdays MAY23. Operation Trenched n' Tuesday 16MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-16",
+            "recordUid": "78493"
+        },
+        {
+            "recordDetails": "Completed 84th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 17MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-17",
+            "recordUid": "78521"
+        },
+        {
+            "recordDetails": "Completed 85th Combat Mission (Campaign Let Loose Tuesdays MAY23. Operation Trenched n' Tuesday 30MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-30",
+            "recordUid": "79369"
+        },
+        {
+            "recordDetails": "Completed 86th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 31MAY23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-31",
+            "recordUid": "79461"
+        },
+        {
+            "recordDetails": "Completed 87th Combat Mission (Operation Slinkee 03JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-03",
+            "recordUid": "79522"
+        },
+        {
+            "recordDetails": "Completed 88th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 07JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-07",
+            "recordUid": "79902"
+        },
+        {
+            "recordDetails": "Completed 89th Combat Mission (Operation Disposable Heroes: Back to the Front)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-10",
+            "recordUid": "80103"
+        },
+        {
+            "recordDetails": "Completed 90th Combat Mission (Campaign Campaign Let Loose Tuesdays JUN23. Operation Trenched n' Tuesday 13JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-13",
+            "recordUid": "80237"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Advanced Infantry Training 1 Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-06-21",
+            "recordUid": "80288"
+        },
+        {
+            "recordDetails": "Completed 91st Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 14JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-14",
+            "recordUid": "80326"
+        },
+        {
+            "recordDetails": "Graduated Officer Development School",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-06-10",
+            "recordUid": "80377"
+        },
+        {
+            "recordDetails": "Completed 93rd Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 21JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-21",
+            "recordUid": "80840"
+        },
+        {
+            "recordDetails": "Completed 92nd Combat Mission (Campaign Let Loose Tuesdays JUN23. Operation Trenched n' Tuesday 20JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-20",
+            "recordUid": "80928"
+        },
+        {
+            "recordDetails": "Completed 94th Combat Mission (Operation A.Co FTX Operation Supply Town: Desert Rats)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-25",
+            "recordUid": "81126"
+        },
+        {
+            "recordDetails": "Completed 96th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 28JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-28",
+            "recordUid": "81353"
+        },
+        {
+            "recordDetails": "Completed 97th Combat Mission (Campaign Death Race. Operation Neon Lightning)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-01",
+            "recordUid": "81389"
+        },
+        {
+            "recordDetails": "Completed 95th Combat Mission (Campaign Let Loose Tuesdays JUN23. Operation Trenched n' Tuesday 27JUN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-27",
+            "recordUid": "81562"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Leader 2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-07-20",
+            "recordUid": "82050"
+        },
+        {
+            "recordDetails": "Promoted to Second Lieutenant (O-1)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-07-20",
+            "recordUid": "82054"
+        },
+        {
+            "recordDetails": "Completed 99th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q2 2023. Operation 7th Cavalry Expeditionary Force Training 12JUL23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-12",
+            "recordUid": "82104"
+        },
+        {
+            "recordDetails": "Completed 98th Combat Mission (Campaign Let Loose Tuesdays JUL23. Operation Trenched n' Tuesday 11JUL23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-11",
+            "recordUid": "82192"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Assault and Automatic Rifleman Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-07-19",
+            "recordUid": "82241"
+        },
+        {
+            "recordDetails": "Completed 100th Combat Mission (Operation Eagle Fury)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-15",
+            "recordUid": "82430"
+        },
+        {
+            "recordDetails": "Completed 102nd Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 19JUL23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-19",
+            "recordUid": "82476"
+        },
+        {
+            "recordDetails": "Completed 101st Combat Mission (Campaign Let Loose Tuesdays JUL23. Operation Trenched n' Tuesday 18JUL23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-18",
+            "recordUid": "82516"
+        },
+        {
+            "recordDetails": "Completed 103rd Combat Mission (Campaign Death Race. Operation Sand Trap)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-30",
+            "recordUid": "83083"
+        },
+        {
+            "recordDetails": "Completed 104th Combat Mission (Campaign Let Loose Tuesdays AUG23. Operation Trenched n' Tuesday 01AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-02",
+            "recordUid": "83158"
+        },
+        {
+            "recordDetails": "Completed 105th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 02AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-02",
+            "recordUid": "83394"
+        },
+        {
+            "recordDetails": "Completed 106th Combat Mission (Campaign Let Loose Tuesdays AUG23. Operation Trenched n' Tuesday 08AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-08",
+            "recordUid": "83714"
+        },
+        {
+            "recordDetails": "Completed 107th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 09AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-09",
+            "recordUid": "83745"
+        },
+        {
+            "recordDetails": "Completed 108th Combat Mission (Campaign Let Loose Tuesdays AUG23. Operation Trenched n' Tuesday 15AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-15",
+            "recordUid": "84186"
+        },
+        {
+            "recordDetails": "Completed 110th Combat Mission (Campaign Let Loose Tuesdays AUG23. Operation Trenched n' Tuesday 22AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-22",
+            "recordUid": "84266"
+        },
+        {
+            "recordDetails": "Completed 109th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 16AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-16",
+            "recordUid": "84402"
+        },
+        {
+            "recordDetails": "Completed 111th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 23AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-23",
+            "recordUid": "84590"
+        },
+        {
+            "recordDetails": "Completed 112th Combat Mission (Campaign Victory Vendetta. Operation Retribution Rising)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-26",
+            "recordUid": "84722"
+        },
+        {
+            "recordDetails": "Completed 115th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 30AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-30",
+            "recordUid": "84881"
+        },
+        {
+            "recordDetails": "Completed 113th Combat Mission (Operation A.Co & C.Co Joint FTX Operation SpyMaster)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-27",
+            "recordUid": "84958"
+        },
+        {
+            "recordDetails": "Completed 114th Combat Mission (Campaign Trenched n' Tuesday AUG23. Operation Trenched n' Tuesday 29AUG23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-29",
+            "recordUid": "85123"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Operations Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-09-15",
+            "recordUid": "85283"
+        },
+        {
+            "recordDetails": "Completed 116th Combat Mission (Campaign Let Loose Tuesdays SEP23. Operation Trenched n' Tuesday 05SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-05",
+            "recordUid": "85422"
+        },
+        {
+            "recordDetails": "Completed 117th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 06SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-06",
+            "recordUid": "85474"
+        },
+        {
+            "recordDetails": "Completed 118th Combat Mission (Campaign Let Loose Tuesdays SEP23. Operation Trenched n' Tuesday 12SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-12",
+            "recordUid": "85558"
+        },
+        {
+            "recordDetails": "Completed 119th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 13SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-13",
+            "recordUid": "85656"
+        },
+        {
+            "recordDetails": "Completed 120th Combat Mission (Operation  B.Co FTX Operation Resilient Steel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-16",
+            "recordUid": "85840"
+        },
+        {
+            "recordDetails": "Completed 121st Combat Mission (Campaign Let Loose Tuesdays SEP23. Operation Trenched n' Tuesday 19SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-19",
+            "recordUid": "86081"
+        },
+        {
+            "recordDetails": "Completed 122nd Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 20SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-20",
+            "recordUid": "86157"
+        },
+        {
+            "recordDetails": "Completed 125th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q3 2023. Operation 7th Cavalry Expeditionary Force Training 27SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-27",
+            "recordUid": "86413"
+        },
+        {
+            "recordDetails": "Completed 123rd Combat Mission (Operation Fireball)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-24",
+            "recordUid": "86525"
+        },
+        {
+            "recordDetails": "Completed 124th Combat Mission (Campaign Let Loose Tuesdays SEP23. Operation Trenched n' Tuesday 26SEP23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-26",
+            "recordUid": "86584"
+        },
+        {
+            "recordDetails": "Completed 127th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q4 2023. Operation 7th Cavalry Expeditionary Force Training 04OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-04",
+            "recordUid": "87239"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Advanced Infantry Training 2 Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-18",
+            "recordUid": "87566"
+        },
+        {
+            "recordDetails": "Completed 126th Combat Mission (Campaign Let Loose Tuesdays OCT23. Operation Trenched n' Tuesday 03OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-03",
+            "recordUid": "87615"
+        },
+        {
+            "recordDetails": "Completed 128th Combat Mission (Campaign Let Loose Tuesdays OCT23. Operation Trenched n' Tuesday 10OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-10",
+            "recordUid": "87880"
+        },
+        {
+            "recordDetails": "Completed 129th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q4 2023. Operation 7th Cavalry Expeditionary Force Training 11OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-11",
+            "recordUid": "88105"
+        },
+        {
+            "recordDetails": "Completed 130th Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q4 2023. Operation 7th Cavalry Expeditionary Force Training18OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-18",
+            "recordUid": "88637"
+        },
+        {
+            "recordDetails": "Completed 132nd Combat Mission (Campaign 7th Cavalry Expeditionary Force Training Q4 2023. Operation 7th Cavalry Expeditionary Force Training 24OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-24",
+            "recordUid": "88928"
+        },
+        {
+            "recordDetails": "Completed 131st Combat Mission (Campaign Let Loose Tuesdays OCT23. Operation Trenched n' Tuesday 24OCT23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-24",
+            "recordUid": "89386"
+        },
+        {
+            "recordDetails": "Completed 133rd Combat Mission (Operation  Archway)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-04",
+            "recordUid": "89971"
+        },
+        {
+            "recordDetails": "Completed 134th Combat Mission (Campaign Let Loose Tuesdays NOV23. Operation Trenched n' Tuesday 21NOV23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-21",
+            "recordUid": "90687"
+        },
+        {
+            "recordDetails": "Completed 135th Combat Mission (Campaign Let Loose Tuesdays DEC23. Operation Trenched n' Tuesday 05DEC23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-05",
+            "recordUid": "91626"
+        },
+        {
+            "recordDetails": "Completed 136th Combat Mission (Campaign Let Loose Tuesdays DEC23. Operation Trenched n' Tuesday 12DEC23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-12",
+            "recordUid": "92283"
+        },
+        {
+            "recordDetails": "Completed 137th Combat Mission (Operation 2-7 FTX Winter Warriors 16DEC23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-16",
+            "recordUid": "92436"
+        },
+        {
+            "recordDetails": "Completed 138th Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 09JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-09",
+            "recordUid": "92794"
+        },
+        {
+            "recordDetails": "Promoted to First Lieutenant (O-2)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-01-21",
+            "recordUid": "92940"
+        },
+        {
+            "recordDetails": "Completed 139th Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 16JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-16",
+            "recordUid": "93074"
+        },
+        {
+            "recordDetails": "Completed 140th Combat Mission (Operation Dark Horizon 21JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-21",
+            "recordUid": "93229"
+        },
+        {
+            "recordDetails": "Completed 141st Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 23JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-23",
+            "recordUid": "93732"
+        },
+        {
+            "recordDetails": "Completed 142nd Combat Mission (Operation Darkstar)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-11",
+            "recordUid": "94667"
+        },
+        {
+            "recordDetails": "Completed 143rd Combat Mission (Campaign Let Loose Tuesdays FEB24. Operation Trenched n' Tuesday 13FEB24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-13",
+            "recordUid": "95376"
+        },
+        {
+            "recordDetails": "Completed 144th Combat Mission (Operation Switchback)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-18",
+            "recordUid": "95430"
+        },
+        {
+            "recordDetails": "Completed 145th Combat Mission (Campaign Let Loose Tuesdays FEB24. Operation Trenched n' Tuesday 20FEB24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-20",
+            "recordUid": "95864"
+        },
+        {
+            "recordDetails": "Completed 146th Combat Mission (Campaign Let Loose Tuesdays FEB24. Operation Trenched n' Tuesday 27FEB24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-27",
+            "recordUid": "96552"
+        },
+        {
+            "recordDetails": "Completed 147th Combat Mission (Campaign Let Loose Tuesdays MAR24. Operation Trenched n' Tuesday 19MAR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-19",
+            "recordUid": "97869"
+        },
+        {
+            "recordDetails": "Completed 148th Combat Mission (Operation Iskra)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-23",
+            "recordUid": "98578"
+        },
+        {
+            "recordDetails": "Completed 150th Combat Mission (Campaign Let Loose Tuesdays APR24. Operation  Trenched n' Tuesday 2APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-02",
+            "recordUid": "98861"
+        },
+        {
+            "recordDetails": "Completed 149th Combat Mission (Campaign Let Loose Tuesdays MAR24. Operation Trenched n' Tuesday 26MAR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-26",
+            "recordUid": "98972"
+        },
+        {
+            "recordDetails": "Completed 151st Combat Mission (Operation Grand Master)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-07",
+            "recordUid": "99350"
+        },
+        {
+            "recordDetails": "Completed 152nd Combat Mission (Operation Combat Acharn\u00e9)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-14",
+            "recordUid": "99626"
+        },
+        {
+            "recordDetails": "Completed 153rd Combat Mission (Campaign Let Loose Tuesdays APR24. Operation Trenched n' Tuesday 16APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-17",
+            "recordUid": "100151"
+        },
+        {
+            "recordDetails": "Completed 154th Combat Mission (Campaign Let Loose Tuesdays APR24. Operation Trenched n' Tuesday 23APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-23",
+            "recordUid": "100497"
+        },
+        {
+            "recordDetails": "Completed 155th Combat Mission (Campaign Let Loose Tuesdays APR24. Operation Trenched n' Tuesday 30APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-30",
+            "recordUid": "101182"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Executive Officer B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-15",
+            "recordUid": "101584"
+        },
+        {
+            "recordDetails": "Completed 156th Combat Mission (Operation Ozymandias)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-04",
+            "recordUid": "101700"
+        },
+        {
+            "recordDetails": "Completed 157th Combat Mission (Campaign Let Loose Tuesdays MAY24. Operation Trenched n' Tuesday 14MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-14",
+            "recordUid": "102154"
+        },
+        {
+            "recordDetails": "Completed 158th Combat Mission (Campaign Let Loose Tuesdays MAY24. Operation Trenched n' Tuesday 28MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-28",
+            "recordUid": "103299"
+        },
+        {
+            "recordDetails": "Completed 159th Combat Mission (Campaign Let Loose Tuesdays JUN24. Operation Trenched n' Tuesday 4JUN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-04",
+            "recordUid": "103941"
+        },
+        {
+            "recordDetails": "Completed 160th Combat Mission (Campaign Let Loose Tuesdays JUN24. Operation Trenched n' Tuesday 11JUN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-11",
+            "recordUid": "104828"
+        },
+        {
+            "recordDetails": "Completed 161st Combat Mission (Operation Combat Steep Terrain)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-15",
+            "recordUid": "105108"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S3 HLL Operations Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-07-10",
+            "recordUid": "106379"
+        },
+        {
+            "recordDetails": "Completed 162nd Combat Mission (Operation Mistletoe)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-13",
+            "recordUid": "107363"
+        },
+        {
+            "recordDetails": "Completed 163rd Combat Mission (Campaign Let Loose Tuesdays JUL24. Operation Trenched n' Tuesday 16JUL24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-16",
+            "recordUid": "107523"
+        },
+        {
+            "recordDetails": "Completed 164th Combat Mission (Operation Luttich)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-19",
+            "recordUid": "107615"
+        },
+        {
+            "recordDetails": "Completed 165th Combat Mission (Operation H\u00fcrt Breaker)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-21",
+            "recordUid": "107916"
+        },
+        {
+            "recordDetails": "Completed 166th Combat Mission (Campaign Let Loose Tuesdays JUL24. Operation Trenched n' Tuesday 23JUL24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-23",
+            "recordUid": "108171"
+        },
+        {
+            "recordDetails": "Completed 167th Combat Mission (Campaign Let Loose Tuesdays JUL24. Operation Trenched n' Tuesday 30JUL24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-30",
+            "recordUid": "108592"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-08-10",
+            "recordUid": "108949"
+        },
+        {
+            "recordDetails": "Completed 168th Combat Mission (Operation Retribution)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-03",
+            "recordUid": "109040"
+        },
+        {
+            "recordDetails": "Completed 169th Combat Mission (Operation Darling Picky)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-04",
+            "recordUid": "109161"
+        },
+        {
+            "recordDetails": "Completed 170th Combat Mission (Campaign Let Loose Tuesdays AUG24. Operation Trenched n' Tuesday 06AUG24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-06",
+            "recordUid": "109493"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Specialist (E-4), Transferred and Assigned Infantry A/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-10",
+            "recordUid": "119661"
+        },
+        {
+            "recordDetails": "Completed 171st Combat Mission (Operation Frequency Shuffle 25JAN25)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-26",
+            "recordUid": "121280"
+        },
+        {
+            "recordDetails": "Completed 172nd Combat Mission (Campaign Let Loose Tuesdays JAN25. Operation Trenched n' Tuesday 28JAN25)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-28",
+            "recordUid": "121709"
+        },
+        {
+            "recordDetails": "Completed 173rd Combat Mission (Operation Woodwork)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-02",
+            "recordUid": "121979"
+        },
+        {
+            "recordDetails": "Completed 174th Combat Mission (Campaign Vanilla. Operation Milkshake)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-16",
+            "recordUid": "123232"
+        },
+        {
+            "recordDetails": "Completed 175th Combat Mission (Operation The Ridge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-24",
+            "recordUid": "123807"
+        },
+        {
+            "recordDetails": "Completed 176th Combat Mission (Campaign Let Loose Tuesdays MAR25. Operation Trenched n' Tuesday 04MAR25)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-04",
+            "recordUid": "124724"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "3967"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "3969"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "3970"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "3971"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "3972"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Assault Course Ribbon",
+            "awardDate": "2020-11-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/54.jpg?1612676882",
+            "awardUid": "3974"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2020-11-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "3975"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2020-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "3977"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2021-03-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "8121"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2021-03-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "8244"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays MAR21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "11657"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2021-04-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "12807"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays APR21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-05-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "16736"
+        },
+        {
+            "awardDetails": "Operation Clipper",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2021-05-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "16791"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2021-05-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "16874"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17231"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2021-06-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "18336"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2021-05-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "18354"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays MAY21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-06-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "18430"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2021-06-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "18466"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2021-06-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "18467"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JUN21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-07-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "19167"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2021-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "20538"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JUL21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "20556"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays AUG21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-09-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "21556"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2021-05-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "22084"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2021-10-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "22488"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays OCT21",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-11-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "23601"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2021-10-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "23607"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2021-11-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23995"
+        },
+        {
+            "awardDetails": "RRD Dept. FY2021",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2021-12-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "24810"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays NOV22",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-12-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "36556"
+        },
+        {
+            "awardDetails": "5th Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2023-03-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "39515"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays MAR23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-03-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "39980"
+        },
+        {
+            "awardDetails": "Bravo Company, Second Battalion 2023 Q1 Trooper of the Quarter",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2023-04-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "40107"
+        },
+        {
+            "awardDetails": "Q1 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2023-04-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "40177"
+        },
+        {
+            "awardDetails": "For S7",
+            "awardName": "Outstanding Volunteer Service Medal",
+            "awardDate": "2023-05-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/37.jpg?1612676426",
+            "awardUid": "41607"
+        },
+        {
+            "awardDetails": "Campaign 7th Cavalry Expeditionary Force Training Q1 2023 MAR23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-05-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "41630"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D-Day Commemorative Medal",
+            "awardDate": "2023-06-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/50.jpg?1612676791",
+            "awardUid": "42225"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays MAY23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-06-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "42519"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Field Medical Badge",
+            "awardDate": "2020-12-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/72.jpg?1612677819",
+            "awardUid": "42856"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2023-06-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "43270"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2023-06-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "43271"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Pistol Expert",
+            "awardDate": "2023-06-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/108.jpg?1612850440",
+            "awardUid": "43275"
+        },
+        {
+            "awardDetails": "Q2 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2023-07-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "43303"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JUN23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-07-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "44462"
+        },
+        {
+            "awardDetails": "Campaign Death Race",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-08-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "44819"
+        },
+        {
+            "awardDetails": "1st Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2023-08-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "45228"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays AUG23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-09-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "45658"
+        },
+        {
+            "awardDetails": "Q3 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2023-09-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "46015"
+        },
+        {
+            "awardDetails": "Operation Fireball",
+            "awardName": "Joint Meritorious Unit Citation",
+            "awardDate": "2023-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/62.jpg?1612677171",
+            "awardUid": "46030"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays SEP23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-10-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "46584"
+        },
+        {
+            "awardDetails": "Q4 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2023-11-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "47503"
+        },
+        {
+            "awardDetails": "Campaign 7th Cavalry Expeditionary Force Training Q3 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "48391"
+        },
+        {
+            "awardDetails": "Campaign 7th Cavalry Expeditionary Force Training Q4 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "48426"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays OCT23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "48500"
+        },
+        {
+            "awardDetails": "S3 HLL PC Operations",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2023-12-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "48691"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JAN24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-02-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "51051"
+        },
+        {
+            "awardDetails": "2-7 Officer Of the Quarter",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2024-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "53422"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays FEB24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-02-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "53655"
+        },
+        {
+            "awardDetails": "Q1 7th Cavalry Expeditionary Force",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2024-04-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "54046"
+        },
+        {
+            "awardDetails": "50 Operation Milestone",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2024-05-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "55279"
+        },
+        {
+            "awardDetails": "100 Operation Milestone",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2024-05-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "55329"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Master Mission Controller Badge",
+            "awardDate": "2024-05-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/137.jpg?1699812219",
+            "awardUid": "55585"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2024-05-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "55838"
+        },
+        {
+            "awardDetails": "2nd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2024-08-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "56575"
+        },
+        {
+            "awardDetails": "Q2 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2024-06-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "57502"
+        }
+    ],
+    "joinDate": "2020-10-28",
+    "promotionDate": "2025-01-09",
+    "keycloakId": "d66c4492-1ed2-4d9e-9bad-b53a8dd66b0f",
+    "discordId": "319236517274976256",
+    "lastForumPostDate": "2025-03-10 23:39:56"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9102",
+        "username": "Mason.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Storm Mason",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4464.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/1/B/ACD",
+        "positionId": "602"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-11",
+            "recordUid": "124359"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-13",
+            "recordUid": "124581"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-11",
+    "promotionDate": "",
+    "keycloakId": "e753c190-48e3-4c7a-8db2-5e315d1a1704",
+    "discordId": "380037162898554892",
+    "lastForumPostDate": "2025-03-16 22:24:02"
+}

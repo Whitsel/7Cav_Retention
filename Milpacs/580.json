@@ -1,0 +1,182 @@
+{
+    "user": {
+        "userId": "253",
+        "username": "Tester.B"
+    },
+    "rank": {
+        "rankShort": "32",
+        "rankFull": "Tester",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/32.jpg?1741365517",
+        "rankId": "32"
+    },
+    "realName": "John Arma",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/580.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "S1 Test Account",
+        "positionId": "7"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "test",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-01-31",
+            "recordUid": "49103"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "test",
+            "awardName": "Bronze Star",
+            "awardDate": "2022-01-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "25852"
+        },
+        {
+            "awardDetails": "Testing",
+            "awardName": "DCS World Service Ribbon",
+            "awardDate": "2022-11-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/130.jpg?1668019648",
+            "awardUid": "34947"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "CQB Badge",
+            "awardDate": "2023-03-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/131.jpg?1677879796",
+            "awardUid": "38366"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Cavalry Spurs",
+            "awardDate": "2023-03-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/92.jpg?1612678496",
+            "awardUid": "38367"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Ready or Not Service Ribbon",
+            "awardDate": "2023-03-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/129.jpg?1668019576",
+            "awardUid": "38816"
+        },
+        {
+            "awardDetails": "Initinal",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2023-07-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "43703"
+        },
+        {
+            "awardDetails": "50 operation milestone",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2023-07-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "43704"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2023-07-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "43993"
+        },
+        {
+            "awardDetails": "TEST FOR STRIDER",
+            "awardName": "Tank Weapons Expert",
+            "awardDate": "2023-07-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/132.jpg?1690342819",
+            "awardUid": "43997"
+        },
+        {
+            "awardDetails": "TEST FOR STRIDER",
+            "awardName": "Tank Weapons Sharpshooter",
+            "awardDate": "2023-07-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/134.jpg?1690342855",
+            "awardUid": "44002"
+        },
+        {
+            "awardDetails": "TEST FOR STRIDER",
+            "awardName": "Tank Weapons Marksman",
+            "awardDate": "2023-07-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/133.jpg?1690342844",
+            "awardUid": "44003"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Console Service Ribbon",
+            "awardDate": "2023-08-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/135.jpg?1716321904",
+            "awardUid": "44430"
+        },
+        {
+            "awardDetails": "ACD Officer of the Quarter",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2023-10-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "46879"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hydra-70 Expert",
+            "awardDate": "2023-11-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/128.jpg?1708297370",
+            "awardUid": "47740"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Field Medical Badge",
+            "awardDate": "2023-11-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/73.jpg?1612677838",
+            "awardUid": "47745"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Master Forward Air Controller Badge",
+            "awardDate": "2023-11-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/138.jpg?1700765122",
+            "awardUid": "47998"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Forward Air Controller Badge",
+            "awardDate": "2023-11-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/139.jpg?1700765152",
+            "awardUid": "47999"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hydra-70 Marksman",
+            "awardDate": "2024-02-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/126.jpg?1708297568",
+            "awardUid": "50871"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hydra-70 Sharpshooter",
+            "awardDate": "2024-02-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/127.jpg?1708297713",
+            "awardUid": "50872"
+        },
+        {
+            "awardDetails": "Operation Bravo testing",
+            "awardName": "Purple Heart",
+            "awardDate": "2024-08-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/13.jpg?1612668156",
+            "awardUid": "60338"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Air Medal",
+            "awardDate": "2025-03-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/16.jpg?1612668390",
+            "awardUid": "69344"
+        }
+    ],
+    "joinDate": "2021-02-08",
+    "promotionDate": "2021-02-08",
+    "keycloakId": "",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-18 22:23:41"
+}

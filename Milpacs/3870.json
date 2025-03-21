@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7936",
+        "username": "Howard.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Larry Howard",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3870.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-08-31",
+            "recordUid": "110784"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-09-16",
+            "recordUid": "112617"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-08-31",
+    "promotionDate": "",
+    "keycloakId": "f0e92500-f41f-453a-a1b8-872871479b2d",
+    "discordId": "",
+    "lastForumPostDate": "2024-08-30 21:51:56"
+}

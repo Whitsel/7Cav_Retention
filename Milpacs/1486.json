@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2727",
+        "username": "Rose.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Marcel Rose",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1486.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-03-23",
+            "recordUid": "52043"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-04-03",
+            "recordUid": "52812"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-03-23",
+    "promotionDate": "2022-03-23",
+    "keycloakId": "561cc461-7023-4873-b72e-97c7bc6729ea",
+    "discordId": "817173999611805736",
+    "lastForumPostDate": "2022-03-23 01:44:31"
+}

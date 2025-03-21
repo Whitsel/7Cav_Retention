@@ -1,0 +1,179 @@
+{
+    "user": {
+        "userId": "8602",
+        "username": "Raptor.T"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Tyler Raptor",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4211.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/2/B/ACD",
+        "positionId": "617"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-14",
+            "recordUid": "119897"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-15",
+            "recordUid": "120004"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2025-01-19",
+            "recordUid": "120527"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Monday Mayhem JAN25. Operation Monday Mayhem 20JAN25 [3/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-20",
+            "recordUid": "120870"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Breakthrough JAN25. Operation Shock and Awe)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-26",
+            "recordUid": "121392"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Monday Mayhem JAN25. Operation Monday Mayhem 27JAN25 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-28",
+            "recordUid": "121543"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Monday Mayhem FEB25. Operation Monday Mayhem 03FEB25 [1/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-03",
+            "recordUid": "122099"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/2/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-14",
+            "recordUid": "122381"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Monday Mayhem FEB25. Operation Monday Mayhem 10FEB25 [2/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-10",
+            "recordUid": "122782"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-02-18",
+            "recordUid": "123302"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Monday Mayhem MAR25. Operation Monday Mayhem 03MAR25 [1/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-04",
+            "recordUid": "124549"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2025-01-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "66363"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Rifle Sharpshooter",
+            "awardDate": "2025-01-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/101.jpg?1612850250",
+            "awardUid": "66449"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2025-01-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "66450"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "66461"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "66469"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "66477"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "66485"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "66493"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "66501"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2025-01-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "67158"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Hell Let Loose Console Service Ribbon",
+            "awardDate": "2025-02-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/135.jpg?1716321904",
+            "awardUid": "68197"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2025-02-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "68229"
+        }
+    ],
+    "joinDate": "2025-01-14",
+    "promotionDate": "2025-02-18",
+    "keycloakId": "171f50ce-b6c7-4446-8556-b70d9a308271",
+    "discordId": "248997350650019842",
+    "lastForumPostDate": "2025-03-16 05:27:38"
+}

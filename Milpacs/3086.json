@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6305",
+        "username": "Hernandez.Jay"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jay Hernandez",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3086.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-02-03",
+            "recordUid": "93493"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-02-12",
+            "recordUid": "94388"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-02-03",
+    "promotionDate": "2024-02-03",
+    "keycloakId": "0849d5f6-01e5-4219-b6e9-af6059ffa595",
+    "discordId": "",
+    "lastForumPostDate": "2024-01-30 21:39:15"
+}

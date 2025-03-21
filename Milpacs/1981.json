@@ -1,0 +1,397 @@
+{
+    "user": {
+        "userId": "3926",
+        "username": "Cornell.J"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Jeff Cornell",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1981.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 3/2/B/1-7",
+        "positionId": "254"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-11",
+            "recordUid": "63627"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-13",
+            "recordUid": "63671"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation High Threat Thursday - 13OCT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-13",
+            "recordUid": "64595"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Squad Saturdays OCT22. Operation Squad Saturdays 15OCT2022)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-15",
+            "recordUid": "64612"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-10-16",
+            "recordUid": "64763"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Starter Platoon Member 4/SP/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-27",
+            "recordUid": "64940"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation High Threat Thursday - 20OCT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-20",
+            "recordUid": "64987"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Shutdown)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-22",
+            "recordUid": "65463"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/D/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-31",
+            "recordUid": "65580"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation High Threat Thursday - 27OCT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-27",
+            "recordUid": "66096"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation High Threat Thursday - 03NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-03",
+            "recordUid": "66842"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-11-15",
+            "recordUid": "66988"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation High Threat Thursday - 10NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-10",
+            "recordUid": "67142"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Sentinel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-21",
+            "recordUid": "67616"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation High Threat Thursday 17NOV2022)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-18",
+            "recordUid": "67786"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation High Threat Thursdays 08DEC2022)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-08",
+            "recordUid": "68872"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation High Threat Thursdays 15DEC2022)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-15",
+            "recordUid": "68992"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-01-14",
+            "recordUid": "69404"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign High Threat Thursdays 12JAN2023. Operation To befriend a foe )",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-12",
+            "recordUid": "69610"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign High Threat Thursdays 19JAN2023. Operation Heaven or Hell)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-19",
+            "recordUid": "70552"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign High Threat Thursdays 26JAN2023. Operation Rainbow 6 Siege)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-26",
+            "recordUid": "70644"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign High Threat Thursdays 2FEB2023. Operation Left 4 Dead)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-02",
+            "recordUid": "71352"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign High Threat Thursdays 9FEB2023. Operation Operation: WW2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-09",
+            "recordUid": "71755"
+        },
+        {
+            "recordDetails": "Graduated Ready or Not CQB Basic Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-02-20",
+            "recordUid": "71847"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign High Threat Thursday - FEB16. Operation Hot Products)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-16",
+            "recordUid": "72010"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign High Threat Thursday - 23FEB23. Operation Modern Warfare)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-23",
+            "recordUid": "72817"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign High Threat Thursday - 9MAR23. Operation Criminal Minds)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-09",
+            "recordUid": "73568"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign High Threat Thursdays 16MAR2023. Operation Goose Vamoose)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-15",
+            "recordUid": "74221"
+        },
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-04-14",
+            "recordUid": "75899"
+        },
+        {
+            "recordDetails": "Returned from ELOA, Transferred and Assigned Trooper B/1/D/ACD",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-05-01",
+            "recordUid": "76910"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/D/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-05-11",
+            "recordUid": "77706"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign High Threat Thursdays 11MAY2023. Operation Party Pooper)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-11",
+            "recordUid": "78015"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign High Threat Thursdays. Operation High Threat Thursdays 18MAY2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-18",
+            "recordUid": "78458"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Cavalry Scout C/2/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-14",
+            "recordUid": "79756"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Reserves",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-02-01",
+            "recordUid": "93342"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-07",
+            "recordUid": "104418"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank as Private (E-2), Transferred and Assigned Mechanized Infantry C/2/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-06",
+            "recordUid": "121772"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-03-07",
+            "recordUid": "124185"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-10-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "34046"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34096"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34111"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34126"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34158"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34165"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "34171"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2022-10-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "35706"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2022-10-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "36590"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2022-12-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "36591"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2023-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "39332"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Ready or Not Service Ribbon",
+            "awardDate": "2023-03-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/129.jpg?1668019576",
+            "awardUid": "39538"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2023-02-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "41376"
+        },
+        {
+            "awardDetails": "Awarded for completing one or more weapons qualification courses with excellent scores.",
+            "awardName": "M-203 Expert",
+            "awardDate": "2023-06-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/114.jpg?1612850587",
+            "awardUid": "44345"
+        },
+        {
+            "awardDetails": "Awarded for completing one or more weapons qualification courses with excellent scores.",
+            "awardName": "Machine Gun Expert",
+            "awardDate": "2023-06-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/117.jpg?1612850659",
+            "awardUid": "44357"
+        },
+        {
+            "awardDetails": "Awarded for completing one or more weapons qualification courses with average scores.",
+            "awardName": "Recoilless Rifle Marksman",
+            "awardDate": "2023-06-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/118.jpg?1612850681",
+            "awardUid": "44377"
+        },
+        {
+            "awardDetails": "Awarded for completing one or more weapons qualification courses with excellent scores.",
+            "awardName": "Pistol Expert",
+            "awardDate": "2023-06-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/108.jpg?1612850440",
+            "awardUid": "44385"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2023-06-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "44731"
+        },
+        {
+            "awardDetails": "Awarded for completing one or more weapons qualification courses with above-average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2023-06-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "44738"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2023-11-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "51505"
+        }
+    ],
+    "joinDate": "2022-10-11",
+    "promotionDate": "2025-03-07",
+    "keycloakId": "7e5d715a-1db1-4a24-a533-fb559189a1b9",
+    "discordId": "417866398728192011",
+    "lastForumPostDate": "2025-03-15 17:51:57"
+}

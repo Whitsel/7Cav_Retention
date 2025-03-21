@@ -1,0 +1,54 @@
+{
+    "user": {
+        "userId": "457",
+        "username": "Trent.J"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Jenkins Trent",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/275.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-08",
+            "recordUid": "3552"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper 3/1/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-02-25",
+            "recordUid": "7943"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22928"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17737"
+        }
+    ],
+    "joinDate": "2020-11-06",
+    "promotionDate": "2021-02-08",
+    "keycloakId": "c7aace84-d81b-4c22-b168-9b08363c0478",
+    "discordId": "",
+    "lastForumPostDate": "2021-02-22 00:02:33"
+}

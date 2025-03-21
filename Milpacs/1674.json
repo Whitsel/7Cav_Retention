@@ -1,0 +1,141 @@
+{
+    "user": {
+        "userId": "3204",
+        "username": "Krupp.J"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Jake Krupp",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1674.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-16",
+            "recordUid": "57233"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Armor Crewman B/1/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-21",
+            "recordUid": "57507"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-06-26",
+            "recordUid": "57970"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-07-15",
+            "recordUid": "58626"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Rotary-Wing Pilot in Training A/1/A/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-07-22",
+            "recordUid": "59040"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-07-26",
+            "recordUid": "59437"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-01",
+            "recordUid": "59596"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "M-203 Marksman",
+            "awardDate": "2022-06-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/112.jpg?1612850545",
+            "awardUid": "30773"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Recoilless Rifle Expert",
+            "awardDate": "2022-06-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/120.jpg?1612850723",
+            "awardUid": "30774"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Pistol Sharpshooter",
+            "awardDate": "2022-06-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/107.jpg?1612850395",
+            "awardUid": "30775"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-06-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "30857"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30871"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30893"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30915"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30937"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30959"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "30981"
+        }
+    ],
+    "joinDate": "2022-06-16",
+    "promotionDate": "2022-07-26",
+    "keycloakId": "dd556b95-1c0a-4f6c-8438-2ed91c3f1228",
+    "discordId": "",
+    "lastForumPostDate": "2022-07-29 23:57:37"
+}

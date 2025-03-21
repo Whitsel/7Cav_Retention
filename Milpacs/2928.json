@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5955",
+        "username": "Jacobs.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Cyrus Jacobs",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2928.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-11-15",
+            "recordUid": "89301"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-11-27",
+            "recordUid": "90428"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-11-15",
+    "promotionDate": "2023-11-15",
+    "keycloakId": "dcb43cfc-3c7d-4f42-911f-ea35e9e06fb2",
+    "discordId": "",
+    "lastForumPostDate": "2023-11-11 02:51:15"
+}

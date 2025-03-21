@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "944",
+        "username": "Avery.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brandon Avery",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/676.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-14",
+            "recordUid": "11967"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-21",
+            "recordUid": "19349"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-03-14",
+    "promotionDate": "2021-03-14",
+    "keycloakId": "2263bd03-1acc-49ea-84bf-96ab73124c2e",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-13 04:53:11"
+}

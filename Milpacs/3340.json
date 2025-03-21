@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6862",
+        "username": "Steel.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Albert Steel",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3340.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-14",
+            "recordUid": "99195"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-30",
+            "recordUid": "100690"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-14",
+    "promotionDate": "2024-04-14",
+    "keycloakId": "5681a08c-3e46-4409-a71e-a273ac572d91",
+    "discordId": "",
+    "lastForumPostDate": "2024-04-14 00:38:40"
+}

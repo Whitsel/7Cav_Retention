@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5600",
+        "username": "Jackson.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Etch Jackson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3659.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-30",
+            "recordUid": "105630"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-08",
+            "recordUid": "106712"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-30",
+    "promotionDate": "",
+    "keycloakId": "77bb59f4-dcee-4dde-8a84-0c138e45f6cd",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-29 18:58:38"
+}

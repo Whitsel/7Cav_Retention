@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4946",
+        "username": "Hernandez.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brandon Hernandez",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2477.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-08",
+            "recordUid": "77456"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-05-22",
+            "recordUid": "78165"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-05-08",
+    "promotionDate": "2023-05-08",
+    "keycloakId": "1c5a20cc-a963-4eab-ac7e-5d7b00bc7d3f",
+    "discordId": "431828811483447317",
+    "lastForumPostDate": "2023-04-30 18:11:42"
+}

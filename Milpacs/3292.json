@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6781",
+        "username": "Horne.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jarvis Horne",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3292.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-03-31",
+            "recordUid": "98413"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-22",
+            "recordUid": "99891"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-03-31",
+    "promotionDate": "2024-03-31",
+    "keycloakId": "61445601-3057-47a0-934c-680fddbc578e",
+    "discordId": "",
+    "lastForumPostDate": "2024-03-31 21:06:52"
+}

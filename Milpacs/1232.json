@@ -1,0 +1,146 @@
+{
+    "user": {
+        "userId": "2172",
+        "username": "Goulet.C"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Charles Goulet",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1232.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-12-03",
+            "recordUid": "46487"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Starter Platoon Member 2/SP/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-12-07",
+            "recordUid": "46723"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-12-12",
+            "recordUid": "47457"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-01-11",
+            "recordUid": "48397"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Shocking Saturday's January. Operation Shell Shocked Saturday 29JAN22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-01-29",
+            "recordUid": "49566"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-03-09",
+            "recordUid": "51237"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-03-12",
+            "recordUid": "51475"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper  B/2/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-03-19",
+            "recordUid": "51734"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-05-11",
+            "recordUid": "54959"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2021-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "24945"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "24958"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "24974"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "24990"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25006"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25022"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25038"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2022-01-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "26295"
+        },
+        {
+            "awardDetails": "HLL Console Starter Platoon",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2022-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "27224"
+        }
+    ],
+    "joinDate": "2021-12-03",
+    "promotionDate": "2022-03-12",
+    "keycloakId": "3cc6707b-0a23-41b6-8c47-5fd82818a925",
+    "discordId": "",
+    "lastForumPostDate": "2022-04-10 00:44:13"
+}

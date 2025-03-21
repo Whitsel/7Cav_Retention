@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3502",
+        "username": "Escareno.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Noah Escareno",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1801.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-11",
+            "recordUid": "60280"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61427"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-11",
+    "promotionDate": "2022-08-11",
+    "keycloakId": "2890ed7a-5e86-42fd-a5f1-8e7480d904a3",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-10 06:57:51"
+}

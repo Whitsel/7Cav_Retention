@@ -1,0 +1,55 @@
+{
+    "user": {
+        "userId": "190",
+        "username": "Yazar.E"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Erol Yazar",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/328.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-01",
+            "recordUid": "812"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22933"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2021-01-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "8059"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17752"
+        }
+    ],
+    "joinDate": "2020-10-28",
+    "promotionDate": "2021-02-01",
+    "keycloakId": "e8bf7869-5e32-4551-9f43-7df55b7b74b4",
+    "discordId": "",
+    "lastForumPostDate": "2021-04-01 19:34:44"
+}

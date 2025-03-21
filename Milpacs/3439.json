@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7044",
+        "username": "Hartmann.G"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Gerhard Hartmann",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3439.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-12",
+            "recordUid": "101416"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102735"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-12",
+    "promotionDate": "",
+    "keycloakId": "f1389087-95b2-4c38-b63e-d7ae8a7e9155",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-10 15:32:00"
+}

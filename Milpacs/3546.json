@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7266",
+        "username": "Jones.JA"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jack Alexander Jones",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3546.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-06",
+            "recordUid": "103356"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-17",
+            "recordUid": "105136"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-06",
+    "promotionDate": "",
+    "keycloakId": "91ac8de5-5757-481a-95b4-3e4c072723d6",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-05 20:11:10"
+}

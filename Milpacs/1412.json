@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2550",
+        "username": "Calderon.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Chris Calderon",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1412.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-21",
+            "recordUid": "50323"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-03-06",
+            "recordUid": "51103"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-21",
+    "promotionDate": "2022-02-21",
+    "keycloakId": "1414751a-33d1-4dce-abfa-3b5f569a1802",
+    "discordId": "",
+    "lastForumPostDate": "2022-02-19 02:06:26"
+}

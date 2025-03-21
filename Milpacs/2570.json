@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5157",
+        "username": "McRae.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Lee McRae",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2570.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-17",
+            "recordUid": "79911"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-03",
+            "recordUid": "81055"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-06-17",
+    "promotionDate": "2023-06-17",
+    "keycloakId": "7a28af23-c562-4bd6-9462-1729c9820109",
+    "discordId": "",
+    "lastForumPostDate": "2023-06-16 15:44:53"
+}

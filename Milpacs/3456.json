@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7058",
+        "username": "Penning.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Cooper Penning",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3456.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-17",
+            "recordUid": "101758"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102731"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-17",
+    "promotionDate": "",
+    "keycloakId": "0461d9c5-51e5-4867-90a1-18c13f3a82d7",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-12 23:12:41"
+}

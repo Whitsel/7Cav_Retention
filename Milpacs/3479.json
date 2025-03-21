@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7108",
+        "username": "Ritterburg.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Rolf Ritterburg",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3479.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-23",
+            "recordUid": "102255"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-03",
+            "recordUid": "103516"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-23",
+    "promotionDate": "",
+    "keycloakId": "71784ac2-7317-4c2b-8091-5ce53c825843",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-28 02:46:09"
+}

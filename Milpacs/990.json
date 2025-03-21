@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1687",
+        "username": "Bombard.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Aiden Bombard",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/990.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-08-19",
+            "recordUid": "40538"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-08-31",
+            "recordUid": "41279"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-08-18",
+    "promotionDate": "2021-08-18",
+    "keycloakId": "ea8acaad-7be1-4f44-a12f-2b46edab9dea",
+    "discordId": "",
+    "lastForumPostDate": "2021-08-18 23:34:26"
+}

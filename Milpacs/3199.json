@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6597",
+        "username": "Erwin.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "John Erwin",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3199.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-03-01",
+            "recordUid": "95560"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-03-11",
+            "recordUid": "96268"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-03-01",
+    "promotionDate": "2024-03-01",
+    "keycloakId": "922e2561-9901-4cf9-a894-28c5c92cc75a",
+    "discordId": "",
+    "lastForumPostDate": "2024-02-29 01:31:52"
+}

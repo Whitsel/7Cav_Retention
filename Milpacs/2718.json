@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5484",
+        "username": "White.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Donovan White",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2718.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-08-15",
+            "recordUid": "83546"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-11",
+            "recordUid": "85091"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-08-15",
+    "promotionDate": "2023-08-15",
+    "keycloakId": "f69b5990-aa9d-4a6e-af1b-b6cad4500e86",
+    "discordId": "",
+    "lastForumPostDate": "2023-08-11 06:02:31"
+}

@@ -1,0 +1,115 @@
+{
+    "user": {
+        "userId": "5253",
+        "username": "Kellar.J"
+    },
+    "rank": {
+        "rankShort": "PVT",
+        "rankFull": "Private",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/22.jpg?1741376831",
+        "rankId": "22"
+    },
+    "realName": "Jack Kellar",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2619.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-07-06",
+            "recordUid": "81156"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper E/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-07-08",
+            "recordUid": "81173"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-07-09",
+            "recordUid": "81428"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Tactical Tuesdays July 2023. Operation Slim Comet)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-19",
+            "recordUid": "82657"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-08-05",
+            "recordUid": "82961"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-07-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "43498"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Hydra-70 Sharpshooter",
+            "awardDate": "2023-07-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/127.jpg?1708297713",
+            "awardUid": "43522"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "43538"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "43555"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "43572"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "43589"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "43606"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "43623"
+        }
+    ],
+    "joinDate": "2023-07-06",
+    "promotionDate": "2023-07-09",
+    "keycloakId": "b5f40e3b-2c43-43de-bc9b-16414de26282",
+    "discordId": "122142671635480576",
+    "lastForumPostDate": "2023-08-02 22:07:14"
+}

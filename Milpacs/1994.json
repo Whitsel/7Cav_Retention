@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3947",
+        "username": "Crow.V"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Vincent Crow",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1994.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-13",
+            "recordUid": "63698"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-24",
+            "recordUid": "65735"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-10-13",
+    "promotionDate": "2022-10-13",
+    "keycloakId": "64d669a8-f968-4234-beb0-96774d9a0ce6",
+    "discordId": "",
+    "lastForumPostDate": "2022-10-10 22:10:42"
+}

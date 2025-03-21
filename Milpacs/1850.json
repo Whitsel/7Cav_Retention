@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3594",
+        "username": "Forrest.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Timothy Forrest",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1850.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-24",
+            "recordUid": "61065"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-09-07",
+            "recordUid": "62067"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-24",
+    "promotionDate": "2022-08-24",
+    "keycloakId": "34e9035f-4770-492c-9c42-50ce19e109b0",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-22 02:28:20"
+}

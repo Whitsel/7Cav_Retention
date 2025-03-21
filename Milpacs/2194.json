@@ -1,0 +1,52 @@
+{
+    "user": {
+        "userId": "2817",
+        "username": "Bruce.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Caleb Bruce",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2194.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-12",
+            "recordUid": "69240"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-01-23",
+            "recordUid": "69836"
+        },
+        {
+            "recordDetails": "Reinstated, Transferred and Assigned RTC HLL Console",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-08-09",
+            "recordUid": "83044"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-16",
+            "recordUid": "87292"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-01-11",
+    "promotionDate": "2023-01-11",
+    "keycloakId": "398d7323-aae3-46d0-9339-2c9e963f5643",
+    "discordId": "",
+    "lastForumPostDate": "2023-08-08 11:01:37"
+}

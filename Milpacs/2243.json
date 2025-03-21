@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4439",
+        "username": "Clapton.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Don Clapton",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2243.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-03",
+            "recordUid": "70657"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-02-21",
+            "recordUid": "71909"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-02-02",
+    "promotionDate": "2023-02-02",
+    "keycloakId": "51ae7172-925c-4925-9172-50f4a8249135",
+    "discordId": "",
+    "lastForumPostDate": "2023-01-29 18:53:46"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1690",
+        "username": "Zimmerman.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Tommy Zimmerman",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1001.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-08-23",
+            "recordUid": "40853"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-08-28",
+            "recordUid": "41182"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-08-23",
+    "promotionDate": "2021-08-23",
+    "keycloakId": "bdbcfa1e-1216-4936-b5ae-6925158a0cf5",
+    "discordId": "",
+    "lastForumPostDate": "2021-08-25 00:38:51"
+}

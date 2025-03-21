@@ -1,0 +1,58 @@
+{
+    "user": {
+        "userId": "8543",
+        "username": "Case.J"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Justin Case",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4197.jpg",
+    "roster": "ROSTER_TYPE_ELOA",
+    "primary": {
+        "positionTitle": "ELOA",
+        "positionId": "194"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Private First Class (E-3), Transferred and Assigned Mechanized Infantry A/2/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-09",
+            "recordUid": "119956"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Land Navigation Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2025-01-24",
+            "recordUid": "120673"
+        },
+        {
+            "recordDetails": "Name Change Approved: Private First Class (E-3) Mario Pauls will be known as Private First Class(E-3) Justin Case",
+            "recordType": "RECORD_TYPE_NAME_CHANGE",
+            "recordDate": "2025-01-25",
+            "recordUid": "120686"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Iron Horse. Operation Valley Forge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-27",
+            "recordUid": "121465"
+        },
+        {
+            "recordDetails": "Placed on Medical ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2025-03-05",
+            "recordUid": "123944"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2015-06-28",
+    "promotionDate": "2025-01-10",
+    "keycloakId": "b826cff6-06ee-45a7-911c-e1ca554e8b04",
+    "discordId": "323429727316606976",
+    "lastForumPostDate": "2025-03-02 14:22:53"
+}

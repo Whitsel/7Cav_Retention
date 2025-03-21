@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5816",
+        "username": "Gray.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Eian Gray",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2858.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-20",
+            "recordUid": "87577"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-31",
+            "recordUid": "88465"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-19",
+    "promotionDate": "2023-10-19",
+    "keycloakId": "722071db-ed13-4cd2-bb36-0f1c40d4c082",
+    "discordId": "",
+    "lastForumPostDate": "2023-10-18 21:48:04"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4697",
+        "username": "Vera.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Emiliano Vera",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2352.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-19",
+            "recordUid": "73708"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-04-03",
+            "recordUid": "75211"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-19",
+    "promotionDate": "2023-03-19",
+    "keycloakId": "490fd28f-8df5-449f-852b-d6f6691904f4",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-17 07:28:22"
+}

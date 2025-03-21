@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2362",
+        "username": "Churchill.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jacob Churchill",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1323.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-16",
+            "recordUid": "48458"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-01-23",
+            "recordUid": "49017"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-16",
+    "promotionDate": "2022-01-16",
+    "keycloakId": "55aef3c1-11e5-46eb-ad91-fe1ee61791f4",
+    "discordId": "",
+    "lastForumPostDate": "2023-07-18 09:28:21"
+}

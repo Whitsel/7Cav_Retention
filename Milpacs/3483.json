@@ -1,0 +1,207 @@
+{
+    "user": {
+        "userId": "7127",
+        "username": "Hendew.M"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Mateo Hendew",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3483.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/1/A/ACD",
+        "positionId": "565"
+    },
+    "secondaries": [
+        {
+            "positionTitle": "S3 DCS Staff",
+            "positionId": "646"
+        }
+    ],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-24",
+            "recordUid": "102313"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/1/B/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-01",
+            "recordUid": "102792"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-06-02",
+            "recordUid": "103595"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-07-02",
+            "recordUid": "106157"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-08-31",
+            "recordUid": "111911"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/A/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-10-28",
+            "recordUid": "116283"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-18",
+            "recordUid": "120288"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-23",
+            "recordUid": "120565"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Tactical Tuesday January 2025. Operation Thunder Run)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-28",
+            "recordUid": "121549"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Reforger. Operation Sierra I)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-01",
+            "recordUid": "121887"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Reforger. Operation Sierra II)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-07",
+            "recordUid": "122516"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Reforger. Operation Hidden Spur I)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-16",
+            "recordUid": "123133"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Reforger. Operation TT_0225)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-25",
+            "recordUid": "123891"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Reforger. Operation Stalagmite)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-02",
+            "recordUid": "124143"
+        },
+        {
+            "recordDetails": "Assigned S3 DCS Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-03-16",
+            "recordUid": "124922"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2025-03-16",
+            "recordUid": "124992"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2024-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "56785"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Hydra-70 Sharpshooter",
+            "awardDate": "2024-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/127.jpg?1708297713",
+            "awardUid": "56807"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "56855"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "56884"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "56913"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "56942"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "56971"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "57000"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2025-01-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "67492"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "DCS World Service Ribbon",
+            "awardDate": "2025-03-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/130.jpg?1668019648",
+            "awardUid": "69025"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2025-02-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "69098"
+        }
+    ],
+    "joinDate": "2024-05-24",
+    "promotionDate": "2024-08-31",
+    "keycloakId": "7fbf1135-d3c7-4ac7-b851-a228c7f97731",
+    "discordId": "575803065022545960",
+    "lastForumPostDate": "2025-03-14 19:35:05"
+}

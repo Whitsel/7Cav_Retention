@@ -1,0 +1,186 @@
+{
+    "user": {
+        "userId": "5936",
+        "username": "Matteson.D"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Damion Matteson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2917.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-11-09",
+            "recordUid": "89093"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-11-19",
+            "recordUid": "89608"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-19",
+            "recordUid": "90068"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Nighthawk. Operation Nightshade [1/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-25",
+            "recordUid": "90953"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem 27NOV23 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-27",
+            "recordUid": "91269"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation POW Event Operation: Watch on the Rhine)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-02",
+            "recordUid": "91571"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-12-18",
+            "recordUid": "92101"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Small Blind)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-21",
+            "recordUid": "93141"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-02-16",
+            "recordUid": "94124"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign High Tide. Operation Tidal Wave 3/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-11",
+            "recordUid": "94500"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-04",
+            "recordUid": "98527"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-11-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "47931"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2023-11-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "47989"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48016"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48027"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48040"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48052"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48064"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48076"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-11-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "49075"
+        },
+        {
+            "awardDetails": "Operation Watch on the Rhine",
+            "awardName": "Prisoner of War Medal",
+            "awardDate": "2023-12-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/22.jpg?1612674621",
+            "awardUid": "49107"
+        },
+        {
+            "awardDetails": "Gold Knot",
+            "awardName": "StackUp Donation Medal",
+            "awardDate": "2024-01-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/36.jpg?1612676402",
+            "awardUid": "50358"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Hell Let Loose Console Service Ribbon",
+            "awardDate": "2024-02-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/135.jpg?1716321904",
+            "awardUid": "51093"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2024-02-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "51392"
+        }
+    ],
+    "joinDate": "2023-11-09",
+    "promotionDate": "2024-02-16",
+    "keycloakId": "f4a28851-264d-414a-9ef3-62358806f541",
+    "discordId": "",
+    "lastForumPostDate": "2024-02-23 01:31:46"
+}

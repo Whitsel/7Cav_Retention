@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3286",
+        "username": "Chen.O"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Owen Chen",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1702.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-30",
+            "recordUid": "57943"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-24",
+            "recordUid": "65728"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-30",
+    "promotionDate": "2022-06-30",
+    "keycloakId": "48c44fe4-aa86-4516-b684-62dfc9238ebe",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-30 03:48:51"
+}

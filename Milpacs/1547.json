@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2881",
+        "username": "Rudy.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Austin Rudy",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1547.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-04-24",
+            "recordUid": "53954"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-05-16",
+            "recordUid": "55300"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-04-24",
+    "promotionDate": "2022-04-24",
+    "keycloakId": "89c0d21b-ac69-4ab4-acb8-135986a8ca73",
+    "discordId": "",
+    "lastForumPostDate": "2022-04-23 03:31:49"
+}

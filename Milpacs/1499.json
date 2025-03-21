@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2777",
+        "username": "Pendygraft.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Hunter Pendygraft",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1499.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-04-01",
+            "recordUid": "52456"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-04-13",
+            "recordUid": "53080"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-04-01",
+    "promotionDate": "2022-04-01",
+    "keycloakId": "9649be92-bdc5-44cb-af3c-bf8c00767a66",
+    "discordId": "",
+    "lastForumPostDate": "2022-04-01 03:48:19"
+}

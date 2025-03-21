@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3755",
+        "username": "King.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Harry King",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1932.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-22",
+            "recordUid": "62538"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-03",
+            "recordUid": "63337"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-09-22",
+    "promotionDate": "2022-09-22",
+    "keycloakId": "05c81da6-4f1e-4088-8262-836f39d168cf",
+    "discordId": "",
+    "lastForumPostDate": "2022-09-14 12:56:05"
+}

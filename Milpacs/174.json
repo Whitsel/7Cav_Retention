@@ -1,0 +1,54 @@
+{
+    "user": {
+        "userId": "230",
+        "username": "Anderson.D"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Drew Anderson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/174.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Trooper 4/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-04-01",
+            "recordUid": "21207"
+        },
+        {
+            "recordDetails": "Reduction in Rank to Corporal (E-4), Transferred and Assigned C/EFT/HHC",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-04-04",
+            "recordUid": "24738"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-05",
+            "recordUid": "25637"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17311"
+        }
+    ],
+    "joinDate": "2019-01-09",
+    "promotionDate": "2021-04-04",
+    "keycloakId": "909adbce-aa05-438f-b387-4e4eb10353a6",
+    "discordId": "",
+    "lastForumPostDate": "2021-04-05 03:44:11"
+}

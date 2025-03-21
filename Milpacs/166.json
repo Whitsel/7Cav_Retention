@@ -1,0 +1,54 @@
+{
+    "user": {
+        "userId": "478",
+        "username": "Gargo.M"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Mike Gargo",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/166.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 16th Combat Mission (Operation Stackin Bodies 2802)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-28",
+            "recordUid": "16946"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20770"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22915"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17214"
+        }
+    ],
+    "joinDate": "2017-05-31",
+    "promotionDate": "2019-11-27",
+    "keycloakId": "b6df51c3-0f8e-4531-929d-81164b51a603",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-29 17:34:13"
+}

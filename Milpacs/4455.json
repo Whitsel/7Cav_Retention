@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9008",
+        "username": "Moore.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ryan Moore",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4455.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/3/B/ACD",
+        "positionId": "992"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-09",
+            "recordUid": "124226"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/3/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-15",
+            "recordUid": "124852"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-09",
+    "promotionDate": "",
+    "keycloakId": "db77c375-c60d-411e-8079-9ae8c1abae23",
+    "discordId": "1113935747666428015",
+    "lastForumPostDate": "2025-03-18 17:56:44"
+}

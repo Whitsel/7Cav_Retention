@@ -1,0 +1,153 @@
+{
+    "user": {
+        "userId": "8364",
+        "username": "Brown.L"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Lucius Brown",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4109.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/1/A/ACD",
+        "positionId": "565"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-11-05",
+            "recordUid": "116746"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-12-08",
+            "recordUid": "118845"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/2/A/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-12-13",
+            "recordUid": "118956"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-01-07",
+            "recordUid": "120042"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-18",
+            "recordUid": "120296"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Saturday Night Throwdown. Operation Gemini)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-18",
+            "recordUid": "120665"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Reforger. Operation Hidden Spur I)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-16",
+            "recordUid": "123132"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Reforger. Operation Stalagmite)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-02",
+            "recordUid": "124142"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2025-03-08",
+            "recordUid": "124912"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2024-12-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "65408"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Hydra-70 Sharpshooter",
+            "awardDate": "2024-12-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/127.jpg?1708297713",
+            "awardUid": "65426"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2024-11-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "65446"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "65556"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "65574"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "65592"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "65610"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "65628"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "65646"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2025-01-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "68048"
+        }
+    ],
+    "joinDate": "2024-11-05",
+    "promotionDate": "2025-03-08",
+    "keycloakId": "437f064c-a65c-4286-a302-7e1d86bdce40",
+    "discordId": "1202025083426840597",
+    "lastForumPostDate": "2025-03-14 18:57:33"
+}

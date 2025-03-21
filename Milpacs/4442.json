@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9049",
+        "username": "Bolt.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "John Bolt",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4442.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-05",
+            "recordUid": "123941"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-03-14",
+            "recordUid": "124977"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-05",
+    "promotionDate": "",
+    "keycloakId": "dec829b2-9301-4470-85ad-af2bfd5cf535",
+    "discordId": "102139999037689856",
+    "lastForumPostDate": "2025-03-05 00:20:07"
+}

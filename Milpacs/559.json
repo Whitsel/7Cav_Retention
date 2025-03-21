@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "720",
+        "username": "de Bruin.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Alex de Bruin",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/559.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-02-02",
+            "recordUid": "95"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-14",
+            "recordUid": "6976"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-02-02",
+    "promotionDate": "2021-02-02",
+    "keycloakId": "f650dc01-b42c-4343-a72b-0adba6843b14",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-31 05:37:31"
+}

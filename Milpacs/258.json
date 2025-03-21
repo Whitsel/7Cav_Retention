@@ -1,0 +1,84 @@
+{
+    "user": {
+        "userId": "305",
+        "username": "Siler.K"
+    },
+    "rank": {
+        "rankShort": "WO1",
+        "rankFull": "Warrant Officer 1",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/30.jpg?1741365656",
+        "rankId": "30"
+    },
+    "realName": "Kyle Siler",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/258.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 160th Combat Mission (Operation Last Minute)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-14",
+            "recordUid": "14805"
+        },
+        {
+            "recordDetails": "Completed 161st Combat Mission (Operation Stackin Bodies 1502)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-15",
+            "recordUid": "14829"
+        },
+        {
+            "recordDetails": "Completed 162nd Combat Mission (Operation SCS)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-21",
+            "recordUid": "16359"
+        },
+        {
+            "recordDetails": "Completed 163rd Combat Mission (Operation Stackin Bodies 2802)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-28",
+            "recordUid": "16945"
+        },
+        {
+            "recordDetails": "Completed 164th Combat Mission (Operation Hamburger Hill Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-06",
+            "recordUid": "17051"
+        },
+        {
+            "recordDetails": "Completed 165th Combat Mission (Operation Moshtarak)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-20",
+            "recordUid": "18452"
+        },
+        {
+            "recordDetails": "Honorable Discharge, Not Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-28",
+            "recordUid": "20503"
+        },
+        {
+            "recordDetails": "Completed 166th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20766"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17786"
+        }
+    ],
+    "joinDate": "2018-11-11",
+    "promotionDate": "2020-06-04",
+    "keycloakId": "adc58cb3-d313-488f-87a5-63443f47237a",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-27 22:34:12"
+}

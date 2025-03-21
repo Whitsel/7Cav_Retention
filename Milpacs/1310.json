@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2355",
+        "username": "Verrilli.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Sebastian Verrilli",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1310.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-15",
+            "recordUid": "48240"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-01-30",
+            "recordUid": "49152"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-15",
+    "promotionDate": "2022-01-15",
+    "keycloakId": "a043e9ee-48fa-4a86-a607-3c4e90a97286",
+    "discordId": "",
+    "lastForumPostDate": "2022-01-15 03:22:01"
+}

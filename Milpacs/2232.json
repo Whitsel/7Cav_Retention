@@ -1,0 +1,384 @@
+{
+    "user": {
+        "userId": "4421",
+        "username": "Rook.AM"
+    },
+    "rank": {
+        "rankShort": "CW2",
+        "rankFull": "Chief Warrant Officer 2",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/29.jpg?1741365650",
+        "rankId": "29"
+    },
+    "realName": "Andrei Mike Rook",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2232.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-27",
+            "recordUid": "70052"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper D/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-01",
+            "recordUid": "70388"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-02-05",
+            "recordUid": "70862"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Tactical Tuesdays February 2023. Operation Blind Tornado)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-15",
+            "recordUid": "71937"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-03-07",
+            "recordUid": "73074"
+        },
+        {
+            "recordDetails": "Graduated DCS Ground School",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-03-19",
+            "recordUid": "73871"
+        },
+        {
+            "recordDetails": "Passed DCS Ground School Evaluation",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-03-21",
+            "recordUid": "74531"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Ivory Pattern. Operation Aegis Arising)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-26",
+            "recordUid": "75077"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-04-07",
+            "recordUid": "75429"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Fallen Angel redux. Operation End Of The Road)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-01",
+            "recordUid": "75532"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Saturday Night Strike 2023. Operation Thunder)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-08",
+            "recordUid": "75949"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-04-21",
+            "recordUid": "76367"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-04-21",
+            "recordUid": "76948"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Saturday Afternoon Strike April 2023. Operation Palmyra Burning)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-29",
+            "recordUid": "77483"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-05-06",
+            "recordUid": "77536"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader D/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-09",
+            "recordUid": "79636"
+        },
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-07-17",
+            "recordUid": "81904"
+        },
+        {
+            "recordDetails": "ELOA Extension",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-08-31",
+            "recordUid": "84474"
+        },
+        {
+            "recordDetails": "Returned from ELOA, Transferred and Assigned Trooper E/1/A/ACD",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-09-12",
+            "recordUid": "85084"
+        },
+        {
+            "recordDetails": "Assigned DCS S3 Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-09-26",
+            "recordUid": "85868"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Lexington-Concord-Redux. Operation Sucker Punch)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-16",
+            "recordUid": "85971"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Broken Arrow. Operation Lightning)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-23",
+            "recordUid": "86371"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Tactical Tuesdays September 2023. Operation Roundhouse)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-26",
+            "recordUid": "87339"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Tenacious Turnover. Operation Early Dawn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-30",
+            "recordUid": "87417"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Ivory Pattern. Operation Aegis Arising Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-11",
+            "recordUid": "87923"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Winter's Moon. Operation Gravity)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-14",
+            "recordUid": "88395"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Throwdown Tuesdays October 2023. Operation Syrian Pretense)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-18",
+            "recordUid": "88661"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Medusa. Operation Damascus Slam)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-22",
+            "recordUid": "88938"
+        },
+        {
+            "recordDetails": "Promoted to Warrant Officer 1 (W-1)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-11-18",
+            "recordUid": "89796"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign Forcer Refund. Operation Cornerstone)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-16",
+            "recordUid": "92349"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader D/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-01-13",
+            "recordUid": "92454"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Barborosa. Operation White Shark)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-24",
+            "recordUid": "96475"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader D/1/A/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-01",
+            "recordUid": "98158"
+        },
+        {
+            "recordDetails": "Promoted to Chief Warrant Officer 2 (W-2)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-06-08",
+            "recordUid": "103670"
+        },
+        {
+            "recordDetails": "Relieved of duties as S3 DCS Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-08-15",
+            "recordUid": "110128"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Anchor Guard. Operation Sonoran)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-10",
+            "recordUid": "113398"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-10-17",
+            "recordUid": "115539"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-02-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "37596"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Hydra-70 Sharpshooter",
+            "awardDate": "2023-02-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/127.jpg?1708297713",
+            "awardUid": "37603"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "37607"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "37611"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "37615"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "37619"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "37623"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "37627"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Aviator Badge",
+            "awardDate": "2023-03-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/77.jpg?1612677958",
+            "awardUid": "39782"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-02-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "41361"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "DCS World Service Ribbon",
+            "awardDate": "2023-05-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/130.jpg?1668019648",
+            "awardUid": "41520"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2023-04-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "41590"
+        },
+        {
+            "awardDetails": "1/A/ACD Trooper of the Quarter Q2 2023",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2023-07-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "43378"
+        },
+        {
+            "awardDetails": "Operation Lightning",
+            "awardName": "Bronze Star",
+            "awardDate": "2023-10-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "46156"
+        },
+        {
+            "awardDetails": "A/ACD",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2023-10-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "47121"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2024-03-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "53577"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2023-10-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "54255"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2024-02-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "54256"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2024-04-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "55138"
+        }
+    ],
+    "joinDate": "2023-01-27",
+    "promotionDate": "2024-06-08",
+    "keycloakId": "e1ac8f0d-d71f-4637-80f8-aabea54fe482",
+    "discordId": "330763783649886208",
+    "lastForumPostDate": "2024-10-17 03:00:33"
+}

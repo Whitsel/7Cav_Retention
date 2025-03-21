@@ -1,0 +1,976 @@
+{
+    "user": {
+        "userId": "2010",
+        "username": "Wolcott.C"
+    },
+    "rank": {
+        "rankShort": "1LT",
+        "rankFull": "First Lieutenant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/10.jpg?1741379571",
+        "rankId": "10"
+    },
+    "realName": "Chris Wolcott",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1148.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Retired",
+        "positionId": "525"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Retired from the 7th Cavalry Regiment with Honors",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2018-03-25",
+            "recordUid": "44857"
+        },
+        {
+            "recordDetails": "Relieved of CAG duties, Group stood down",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-03-23",
+            "recordUid": "44858"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Operation Pronghorn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-15",
+            "recordUid": "44859"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Operation Crimson Hammer)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-05-14",
+            "recordUid": "44860"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Leader 1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-04-18",
+            "recordUid": "44861"
+        },
+        {
+            "recordDetails": "Graduated from Halo Jump Class 042/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-02-24",
+            "recordUid": "44862"
+        },
+        {
+            "recordDetails": "Promoted to First Lieutenant (O-2)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2016-01-19",
+            "recordUid": "44863"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Ranger Class 042-15",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2015-12-13",
+            "recordUid": "44864"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Mythology, Operation Kraken)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-10-31",
+            "recordUid": "44865"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Army Reconnaissance Course, Class 036/09/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-10-07",
+            "recordUid": "44866"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Leader 3/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2015-09-16",
+            "recordUid": "44867"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Combat Engineering Course, 036/09/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-09-05",
+            "recordUid": "44868"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Sapper Course, Class 032/08/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-08-22",
+            "recordUid": "44869"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Armored Fighting Vehicle Commander Course, Class 029/07/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-07-18",
+            "recordUid": "44870"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Operation Longest Day)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-07-17",
+            "recordUid": "44871"
+        },
+        {
+            "recordDetails": "Received Battlefield Commission to 2nd Lieutenant (O-1), Assigned Platoon Leader 2/C/1-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2015-06-25",
+            "recordUid": "44872"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign Valhalla, Operation Valkyrie)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-06-12",
+            "recordUid": "44873"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Fallen Empire, Operation Dragoon Patrol)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-05-24",
+            "recordUid": "44874"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Valhalla, Operation Midgard)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-04-18",
+            "recordUid": "44875"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Marathon, Operation Sleepless Night)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-01-23",
+            "recordUid": "44876"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Operation Spartan - Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-11-07",
+            "recordUid": "44877"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Operation Serpents Cradle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-10-31",
+            "recordUid": "44878"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation AFOR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-10-24",
+            "recordUid": "44879"
+        },
+        {
+            "recordDetails": "Relieved of Duties within the Recruit Training Command as NCOIC",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-09-08",
+            "recordUid": "44880"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant First Class (E-7)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2014-08-22",
+            "recordUid": "44881"
+        },
+        {
+            "recordDetails": "Assigned to S3 SOA as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-08-16",
+            "recordUid": "44882"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Explosive Ordnance Disposal Course, Class 30/07/14",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2014-07-24",
+            "recordUid": "44883"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Operation Desperation)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-06-28",
+            "recordUid": "44884"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-05-31",
+            "recordUid": "44885"
+        },
+        {
+            "recordDetails": "Negative Counseling Statement - (No Favorable Action for 30 Days)",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2014-05-19",
+            "recordUid": "44886"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Flashpoint, Operation Topaz)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-05-17",
+            "recordUid": "44887"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Flashpoint, Operation Time Out)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-04-25",
+            "recordUid": "44888"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Flashpoint, Operation Titan)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-04-11",
+            "recordUid": "44889"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Flashpoint, Operation Trojan)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-01-24",
+            "recordUid": "44890"
+        },
+        {
+            "recordDetails": "Promoted to Staff Sergeant (E-6)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2014-01-17",
+            "recordUid": "44891"
+        },
+        {
+            "recordDetails": "Assigned Platoon Sergeant 1/E/1-7",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-01-12",
+            "recordUid": "44892"
+        },
+        {
+            "recordDetails": "Assigned NCOIC of Recruit Training Command",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-01-05",
+            "recordUid": "44893"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation For The People)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2013-12-06",
+            "recordUid": "44894"
+        },
+        {
+            "recordDetails": "Assigned Acting Platoon Sergeant 1/E/1-7",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2013-11-19",
+            "recordUid": "44895"
+        },
+        {
+            "recordDetails": "Assigned Senior Drill Instructor for RTC",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2013-09-11",
+            "recordUid": "44896"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2013-09-07",
+            "recordUid": "44897"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation Screaming Eagles)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2013-08-16",
+            "recordUid": "44898"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation Purple Haze)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2013-06-29",
+            "recordUid": "44899"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Voodoo Child)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2013-06-15",
+            "recordUid": "44900"
+        },
+        {
+            "recordDetails": "Named Non-Commissioned Officer of the Month for April 2013",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2013-06-06",
+            "recordUid": "44901"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader A/1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2013-05-09",
+            "recordUid": "44902"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2013-05-03",
+            "recordUid": "44903"
+        },
+        {
+            "recordDetails": "Graduated Drill Instructor Course, Assigned Drill Instructor",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-04-27",
+            "recordUid": "44904"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Spartans)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2013-04-27",
+            "recordUid": "44905"
+        },
+        {
+            "recordDetails": "Graduated ARMA2 Basic Air Assault Course, Class 017/04/13",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-04-22",
+            "recordUid": "44906"
+        },
+        {
+            "recordDetails": "Graduated Basic Cannon Crewman Course (ARMA2 Phase I), Class 013/04/13",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-04-20",
+            "recordUid": "44907"
+        },
+        {
+            "recordDetails": "Graduated ARMA2 Basic Radio Communication Course, Class 015/04/13",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-04-09",
+            "recordUid": "44908"
+        },
+        {
+            "recordDetails": "Completed Advanced Individual Training (ARMA2 AIT Phase II)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-03-16",
+            "recordUid": "44909"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Devil Dog Part Deuce), Completed 3rd Combat Mission (Operation Heartbreaker Part Deuce)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2013-03-15",
+            "recordUid": "44910"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Combat Engineer C/1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2013-03-04",
+            "recordUid": "44911"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course, Class 05/06/12",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-03-01",
+            "recordUid": "44912"
+        },
+        {
+            "recordDetails": "Graduated ARMA2 Basic Armor Crewman Course, Class 007/02/13",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-02-16",
+            "recordUid": "44913"
+        },
+        {
+            "recordDetails": "Assigned to the Recruit Training Command, Drill Instructor (In Training) as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2013-01-25",
+            "recordUid": "44914"
+        },
+        {
+            "recordDetails": "Graduated ARMA2 Basic Jump School, Class 003/01/13, Graduated ARMA2 Land Navigation Course, Class 003/01/13",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-01-19",
+            "recordUid": "44915"
+        },
+        {
+            "recordDetails": "Graduated ARMA2 Field Medical Course, Class 002/01/13",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2013-01-12",
+            "recordUid": "44916"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2013-01-04",
+            "recordUid": "44917"
+        },
+        {
+            "recordDetails": "Completed Advanced Individual Training (ARMA2 AIT Phase I)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2012-12-09",
+            "recordUid": "44918"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Heartbreaker)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2012-12-07",
+            "recordUid": "44919"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2012-11-02",
+            "recordUid": "44920"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Heavy Weapons B/2/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2012-10-30",
+            "recordUid": "44921"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Heavy Weapons D/1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2012-10-28",
+            "recordUid": "44922"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2), Assigned Combat Engineer A/1/E/1-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2012-10-07",
+            "recordUid": "44923"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp 038/09/12",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2012-09-18",
+            "recordUid": "44924"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "1st Award",
+            "awardName": "7th Cavalry Server Upgrade Award",
+            "awardDate": "2013-01-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/35.jpg?1612676380",
+            "awardUid": "23224"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "7th Cavalry Server Upgrade Award",
+            "awardDate": "2014-04-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/35.jpg?1612676380",
+            "awardUid": "23225"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Air Assault Badge",
+            "awardDate": "2013-04-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/86.jpg?1612678230",
+            "awardUid": "23226"
+        },
+        {
+            "awardDetails": "For RTC Dept. 29APR13-28OCT13",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2013-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23227"
+        },
+        {
+            "awardDetails": "For E/1-7. 10MAY13-10NOV13",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2014-05-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23228"
+        },
+        {
+            "awardDetails": "For RTC Dept. 26JAN14-26JUL14",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2014-07-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23229"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17AUG14-17FEB15",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2015-02-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23230"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17FEB15-17AUG15",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2015-08-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23231"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17AUG15 - 17FEB16",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-02-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23232"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17FEB16 - 17AUG16",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-08-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23233"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17AUG16 - 17FEB17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-02-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23234"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17FEB17 - 17AUG17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-08-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23235"
+        },
+        {
+            "awardDetails": "For S3 Dept. 17AUG17 - 17FEB18",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2018-02-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "23236"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2013-06-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "23237"
+        },
+        {
+            "awardDetails": "Enlisted - May 2013",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2013-06-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "23238"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2013-08-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "23239"
+        },
+        {
+            "awardDetails": "Operation Sleepless Night",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2015-02-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "23240"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Parachutist Badge",
+            "awardDate": "2013-01-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/83.jpg?1612678149",
+            "awardUid": "23241"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2012-10-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "23242"
+        },
+        {
+            "awardDetails": "Operation Time Out",
+            "awardName": "Bronze Star",
+            "awardDate": "2014-06-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "23243"
+        },
+        {
+            "awardDetails": "Operation Topaz",
+            "awardName": "Bronze Star",
+            "awardDate": "2014-05-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "23244"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2013-06-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "23245"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2014-04-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "23246"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2014-11-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "23247"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2015-06-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "23248"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Defense Distinguished Service Medal",
+            "awardDate": "2013-08-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/4.jpg?1612667879",
+            "awardUid": "23249"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Field Medical Badge",
+            "awardDate": "2013-01-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/72.jpg?1612677819",
+            "awardUid": "23250"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2012-12-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "23251"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores",
+            "awardName": "Grenade Expert",
+            "awardDate": "2013-04-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "23252"
+        },
+        {
+            "awardDetails": "Operation AFOR",
+            "awardName": "Joint Service Commendation Medal",
+            "awardDate": "2014-11-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/17.jpg?1612668420",
+            "awardUid": "23253"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Master High Altitude Low Opening (HALO) Freefall Badge",
+            "awardDate": "2015-12-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/88.jpg?1612678348",
+            "awardUid": "23254"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2013-09-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "23255"
+        },
+        {
+            "awardDetails": "Staff Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2014-01-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "23256"
+        },
+        {
+            "awardDetails": "Sergeant First Class Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2014-08-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "23257"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Outstanding Volunteer Service Medal",
+            "awardDate": "2013-10-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/37.jpg?1612676426",
+            "awardUid": "23258"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Outstanding Volunteer Service Medal",
+            "awardDate": "2013-02-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/37.jpg?1612676426",
+            "awardUid": "23259"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Ranger Tab",
+            "awardDate": "2015-12-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/89.jpg?1612678367",
+            "awardUid": "23260"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2013-05-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "23261"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores",
+            "awardName": "Rifle Expert",
+            "awardDate": "2013-04-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "23262"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Sapper Tab",
+            "awardDate": "2015-08-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/90.jpg?1612678393",
+            "awardUid": "23263"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Senior Explosive Ordnance Disposal Badge",
+            "awardDate": "2014-07-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/75.jpg?1612677913",
+            "awardUid": "23264"
+        },
+        {
+            "awardDetails": "Campaign Flashpoint (ARMA3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2014-05-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "23265"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2013-01-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23266"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2013-04-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23267"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2013-09-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23268"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2014-01-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23269"
+        },
+        {
+            "awardDetails": "5th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2015-07-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23270"
+        },
+        {
+            "awardDetails": "6th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2016-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23271"
+        },
+        {
+            "awardDetails": "7th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2017-04-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "23272"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2013-05-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "23273"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2013-05-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "23274"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2013-05-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "23275"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2013-05-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "23276"
+        },
+        {
+            "awardDetails": "5th Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2013-11-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "23277"
+        },
+        {
+            "awardDetails": "6th Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2014-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "23278"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2012-11-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23279"
+        },
+        {
+            "awardDetails": "1st Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2013-03-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23280"
+        },
+        {
+            "awardDetails": "2nd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2013-07-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23281"
+        },
+        {
+            "awardDetails": "3rd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2013-11-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23282"
+        },
+        {
+            "awardDetails": "4th Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2014-03-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23283"
+        },
+        {
+            "awardDetails": "5th Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2014-07-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23284"
+        },
+        {
+            "awardDetails": "1st Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2014-11-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23285"
+        },
+        {
+            "awardDetails": "2nd Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2015-03-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23286"
+        },
+        {
+            "awardDetails": "3rd Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2015-07-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23287"
+        },
+        {
+            "awardDetails": "4th Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2015-11-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23288"
+        },
+        {
+            "awardDetails": "5th Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2016-03-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23289"
+        },
+        {
+            "awardDetails": "1st Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2016-07-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23290"
+        },
+        {
+            "awardDetails": "2nd Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2016-11-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23291"
+        },
+        {
+            "awardDetails": "3rd Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2017-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23292"
+        },
+        {
+            "awardDetails": "4th Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2017-07-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23293"
+        },
+        {
+            "awardDetails": "5th Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2017-11-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "23294"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23295"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23296"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23297"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-08-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23298"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23299"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23300"
+        }
+    ],
+    "joinDate": "2012-09-19",
+    "promotionDate": "2016-01-19",
+    "keycloakId": "61c7e816-7ae3-47f5-8f82-f9b970edbb6e",
+    "discordId": "148548686669021184",
+    "lastForumPostDate": ""
+}

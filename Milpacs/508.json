@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "180",
+        "username": "Giron.C"
+    },
+    "rank": {
+        "rankShort": "SGT",
+        "rankFull": "Sergeant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/18.jpg?1741376797",
+        "rankId": "18"
+    },
+    "realName": "Christopher Giron",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/508.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 63rd Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20745"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22938"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17125"
+        }
+    ],
+    "joinDate": "2019-01-27",
+    "promotionDate": "2020-02-14",
+    "keycloakId": "774fa7ca-47a6-49c1-acee-d6458e63b517",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-29 22:05:11"
+}

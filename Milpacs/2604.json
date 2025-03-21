@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5183",
+        "username": "Knox.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Aaron Knox",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2604.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-06-30",
+            "recordUid": "80885"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-10",
+            "recordUid": "81527"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-06-30",
+    "promotionDate": "2023-06-30",
+    "keycloakId": "62078a80-9fd2-4ab1-8ac9-6f930b59851a",
+    "discordId": "",
+    "lastForumPostDate": "2023-07-02 19:54:19"
+}

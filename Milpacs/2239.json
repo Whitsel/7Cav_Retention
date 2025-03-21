@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4429",
+        "username": "Stipic.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nikola Stipic",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2239.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-31",
+            "recordUid": "70282"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-02-14",
+            "recordUid": "71408"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-01-31",
+    "promotionDate": "2023-01-31",
+    "keycloakId": "60d46407-2cf2-4e83-9182-e0165b192202",
+    "discordId": "",
+    "lastForumPostDate": "2023-01-26 14:07:01"
+}

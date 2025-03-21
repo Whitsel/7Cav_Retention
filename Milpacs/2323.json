@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4632",
+        "username": "Weeber.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jake Weeber",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2323.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-10",
+            "recordUid": "72928"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-21",
+            "recordUid": "74037"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-09",
+    "promotionDate": "2023-03-09",
+    "keycloakId": "606fb969-0cd1-419c-a806-53053d72b9a7",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-06 04:30:00"
+}

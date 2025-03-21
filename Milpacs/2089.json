@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4147",
+        "username": "Clarke.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "James Clarke",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2089.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-11-21",
+            "recordUid": "67002"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-12-05",
+            "recordUid": "68222"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-11-21",
+    "promotionDate": "2022-11-21",
+    "keycloakId": "4068058a-7835-4df8-b525-8d16db0a7212",
+    "discordId": "",
+    "lastForumPostDate": "2022-11-22 23:46:27"
+}

@@ -1,0 +1,790 @@
+{
+    "user": {
+        "userId": "5796",
+        "username": "LaRoche.P"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Pierre LaRoche",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2862.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/2/E/2-7",
+        "positionId": "501"
+    },
+    "secondaries": [
+        {
+            "positionTitle": "S1 Uniforms Clerk",
+            "positionId": "24"
+        }
+    ],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-22",
+            "recordUid": "87709"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry A/3/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-31",
+            "recordUid": "88384"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-29",
+            "recordUid": "88451"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation  Archway)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-04",
+            "recordUid": "89980"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Artillery Crewman Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-25",
+            "recordUid": "90274"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Rusty Anvil)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-11",
+            "recordUid": "90351"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Basic Infantry Combat Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-27",
+            "recordUid": "90553"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Let Loose Tuesdays NOV23. Operation Trenched n' Tuesday 21NOV23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-21",
+            "recordUid": "90695"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Let Loose Tuesdays NOV23. Operation Trenched n' Tuesday 14NOV23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-14",
+            "recordUid": "90764"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-11-28",
+            "recordUid": "90849"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Midnight Falcon 18NOV23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-18",
+            "recordUid": "91206"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Let Loose Tuesdays NOV23. Operation Trenched n' Tuesday 28NOV23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-28",
+            "recordUid": "91431"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Let Loose Tuesdays DEC23. Operation Trenched n' Tuesday 05DEC23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-05",
+            "recordUid": "91635"
+        },
+        {
+            "recordDetails": "Assigned S1 Uniforms Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-01-09",
+            "recordUid": "92156"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation 2-7 FTX Winter Warriors 16DEC23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-16",
+            "recordUid": "92421"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 09JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-09",
+            "recordUid": "92804"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 16JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-16",
+            "recordUid": "93083"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation Dark Horizon 21JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-21",
+            "recordUid": "93203"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-01-27",
+            "recordUid": "93254"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Basic Armor Crewman Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-01-28",
+            "recordUid": "93290"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 23JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-23",
+            "recordUid": "93742"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Let Loose Tuesdays JAN24. Operation Trenched n' Tuesday 30JAN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-30",
+            "recordUid": "93886"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-02-11",
+            "recordUid": "94441"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation Darkstar)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-11",
+            "recordUid": "94680"
+        },
+        {
+            "recordDetails": "Graduated  Hell Let Loose Tank Driver Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-02-25",
+            "recordUid": "95014"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Operation Switchback)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-18",
+            "recordUid": "95439"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-02",
+            "recordUid": "95698"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Assault and Automatic Rifleman Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-11",
+            "recordUid": "96189"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-02",
+            "recordUid": "96202"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Operation Holy Smoke)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-26",
+            "recordUid": "96356"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Machine Gunner Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-03-15",
+            "recordUid": "96513"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry A/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-03-19",
+            "recordUid": "96784"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-09",
+            "recordUid": "97331"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Operation Iskra)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-23",
+            "recordUid": "98588"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Let Loose Tuesdays APR24. Operation  Trenched n' Tuesday 2APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-02",
+            "recordUid": "98869"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Combat Lifesaver Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-04-10",
+            "recordUid": "98899"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Engineer and Support Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-04-05",
+            "recordUid": "98907"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation Grand Master)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-07",
+            "recordUid": "99340"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign Let Loose Tuesdays APR24. Operation Trenched n' Tuesday 09APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-09",
+            "recordUid": "99545"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Operation Combat Acharn\u00e9)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-14",
+            "recordUid": "99633"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Let Loose Tuesdays APR24. Operation Trenched n' Tuesday 16APR24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-17",
+            "recordUid": "100159"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Operation Triple Frontier)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-29",
+            "recordUid": "100795"
+        },
+        {
+            "recordDetails": "Assigned Assistant Section Leader A/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-09",
+            "recordUid": "101081"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Operation Ozymandias)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-04",
+            "recordUid": "101710"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Tank Gunner's Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-23",
+            "recordUid": "102323"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-05-26",
+            "recordUid": "102793"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Basic Recon Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-06-01",
+            "recordUid": "102869"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Operation Verborgene Bedrohung)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-26",
+            "recordUid": "103210"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Operation Double Day)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-09",
+            "recordUid": "104706"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Operation Combat Steep Terrain)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-15",
+            "recordUid": "105114"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-22",
+            "recordUid": "105843"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Campaign Let Loose Tuesdays JUN24. Operation Trenched n' Tuesday 25JUN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-25",
+            "recordUid": "106053"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Operation Ender's Aim)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-29",
+            "recordUid": "106443"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Operation Mistletoe)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-13",
+            "recordUid": "107374"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Operation Luttich)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-19",
+            "recordUid": "107637"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Operation H\u00fcrt Breaker)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-21",
+            "recordUid": "107928"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Operation Bridge to Bilderberg)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-27",
+            "recordUid": "108458"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Campaign Let Loose Tuesdays JUL24. Operation Trenched n' Tuesday 30JUL24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-30",
+            "recordUid": "108598"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Operation Retribution)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-03",
+            "recordUid": "109052"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Operation Darling Picky)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-04",
+            "recordUid": "109223"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Sniper Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-08-24",
+            "recordUid": "110161"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Campaign Let Loose Tuesdays AUG24. Operation Trenched n' Tuesday 13AUG24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-13",
+            "recordUid": "110288"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Let Loose Tuesdays AUG24. Operation Trenched n' Tuesday 20AUG24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-20",
+            "recordUid": "110862"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Operation Scorpion)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-25",
+            "recordUid": "111273"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Operation Ice House)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-01",
+            "recordUid": "112014"
+        },
+        {
+            "recordDetails": "Completed 43rd Combat Mission (Campaign Let Loose Tuesdays SEP24. Operation Trenched n' Tuesday 10SEP24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-11",
+            "recordUid": "112571"
+        },
+        {
+            "recordDetails": "Completed 44th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-14",
+            "recordUid": "112982"
+        },
+        {
+            "recordDetails": "Completed 45th Combat Mission (Campaign Let Loose Tuesdays SEP24. Operation Trenched n' Tuesday 17SEP24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-18",
+            "recordUid": "113325"
+        },
+        {
+            "recordDetails": "Completed 46th Combat Mission (Operation Purple Tornado)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-22",
+            "recordUid": "113828"
+        },
+        {
+            "recordDetails": "Graduated Hell Let Loose Advanced Infantry Tactics I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-10-01",
+            "recordUid": "114379"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-10-05",
+            "recordUid": "114479"
+        },
+        {
+            "recordDetails": "Completed 47th Combat Mission (Operation Tijgerlelie)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-29",
+            "recordUid": "115000"
+        },
+        {
+            "recordDetails": "Completed 48th Combat Mission (Operation Gambler )",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-06",
+            "recordUid": "115263"
+        },
+        {
+            "recordDetails": "Completed 49th Combat Mission (Campaign Let Loose Tuesdays OCT24. Operation Trenched n' Tuesday 08OCT24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-08",
+            "recordUid": "115485"
+        },
+        {
+            "recordDetails": "Completed 50th Combat Mission (Operation Bloody Gulch)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-19",
+            "recordUid": "116454"
+        },
+        {
+            "recordDetails": "Completed 51st Combat Mission (Campaign Let Loose Tuesdays OCT24. Operation Trenched n' Tuesday 29OCT24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-29",
+            "recordUid": "116906"
+        },
+        {
+            "recordDetails": "Completed 52nd Combat Mission (Operation Nightmare on Purple Heart Lane)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-31",
+            "recordUid": "117007"
+        },
+        {
+            "recordDetails": "Completed 53rd Combat Mission (Operation Starburst)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-10",
+            "recordUid": "117462"
+        },
+        {
+            "recordDetails": "Completed 54th Combat Mission (Operation Shut Eyes 24h)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-16",
+            "recordUid": "117774"
+        },
+        {
+            "recordDetails": "Completed 55th Combat Mission (Operation Hamburger Hill)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-24",
+            "recordUid": "118382"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Assistant Section Leader A/2/E/2-7, Reduction in rank to Corporal (E-4), Assigned Infantry A/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-23",
+            "recordUid": "120568"
+        },
+        {
+            "recordDetails": "Completed 56th Combat Mission (Operation Frequency Shuffle 25JAN25)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-26",
+            "recordUid": "121304"
+        },
+        {
+            "recordDetails": "Completed 57th Combat Mission (Operation The Ridge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-24",
+            "recordUid": "123823"
+        },
+        {
+            "recordDetails": "Completed 58th Combat Mission (Operation Cold Freedom)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-03",
+            "recordUid": "124513"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2023-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "47153"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2023-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "47154"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "47155"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "47240"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "47249"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "47258"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "47268"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "47276"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "47284"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Assault Course Ribbon",
+            "awardDate": "2023-11-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/54.jpg?1612676882",
+            "awardUid": "48222"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2023-12-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "49083"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays NOV23",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "49339"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2023-11-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "49501"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-11-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "49813"
+        },
+        {
+            "awardDetails": "Operation Dark Horizon",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2024-01-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "50113"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2024-01-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "50338"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JAN24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-02-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "51080"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2024-02-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "51758"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Field Medical Badge",
+            "awardDate": "2024-04-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/72.jpg?1612677819",
+            "awardUid": "53803"
+        },
+        {
+            "awardDetails": "Q1 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2024-04-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "54088"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2024-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "54357"
+        },
+        {
+            "awardDetails": "S1",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2024-04-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "54629"
+        },
+        {
+            "awardDetails": "Let Loose Tuesdays APR24 - 30APR24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-04-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "56597"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D-Day Commemorative Medal",
+            "awardDate": "2024-06-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/50.jpg?1612676791",
+            "awardUid": "57173"
+        },
+        {
+            "awardDetails": "Q2 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2024-06-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "57527"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Pistol Expert",
+            "awardDate": "2024-06-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/108.jpg?1612850440",
+            "awardUid": "58223"
+        },
+        {
+            "awardDetails": "Operation Ender's Aim",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2024-07-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "58805"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Field Medical Badge",
+            "awardDate": "2024-08-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/73.jpg?1612677838",
+            "awardUid": "59904"
+        },
+        {
+            "awardDetails": "Operation Scorpion",
+            "awardName": "Bronze Star",
+            "awardDate": "2024-08-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "61238"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2024-10-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "63106"
+        },
+        {
+            "awardDetails": "S7",
+            "awardName": "Outstanding Volunteer Service Medal",
+            "awardDate": "2024-10-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/37.jpg?1612676426",
+            "awardUid": "63563"
+        },
+        {
+            "awardDetails": "50 Operation Milestone",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2024-11-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "64207"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2024-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "64214"
+        },
+        {
+            "awardDetails": "S1",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2024-12-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "65364"
+        },
+        {
+            "awardDetails": "S1 09JAN24-09JAN25",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2025-01-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "66677"
+        },
+        {
+            "awardDetails": "Operation Frequency Shuffle",
+            "awardName": "Bronze Star",
+            "awardDate": "2025-01-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "66696"
+        }
+    ],
+    "joinDate": "2023-10-22",
+    "promotionDate": "2025-01-24",
+    "keycloakId": "6e526eec-433c-4a10-af98-f8f586fad45d",
+    "discordId": "730575367085228064",
+    "lastForumPostDate": "2025-03-17 22:46:44"
+}

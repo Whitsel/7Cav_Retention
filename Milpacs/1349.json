@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2300",
+        "username": "Wilemon.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Dominick Wilemon",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1349.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-26",
+            "recordUid": "48995"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-06",
+            "recordUid": "49675"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-26",
+    "promotionDate": "2022-01-26",
+    "keycloakId": "2e371ed9-5abd-408e-8d2f-082c8d7f7ea3",
+    "discordId": "",
+    "lastForumPostDate": "2022-01-23 20:07:34"
+}

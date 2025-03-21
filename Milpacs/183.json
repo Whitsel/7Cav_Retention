@@ -1,0 +1,104 @@
+{
+    "user": {
+        "userId": "134",
+        "username": "Beamer. J"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Justin Beamer",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/183.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 28th Combat Mission (Operation Search and Destroy)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-06",
+            "recordUid": "13671"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Operation Stackin Bodies 1502)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-15",
+            "recordUid": "14826"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Operation Stackin Bodies 2802)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-28",
+            "recordUid": "16939"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Golden Toothbrush. Operation Resurrection)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17890"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Operation Sunday Night Skirmishes 14MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17980"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Operation Stackin Bodies 0803)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-09",
+            "recordUid": "17999"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Operation Stackin Bodies 1403)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-15",
+            "recordUid": "18020"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20760"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22887"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Bronze Knot",
+            "awardName": "StackUp Donation Medal",
+            "awardDate": "2021-01-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/36.jpg?1612676402",
+            "awardUid": "1818"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17156"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2021-01-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "22018"
+        }
+    ],
+    "joinDate": "2019-08-12",
+    "promotionDate": "2019-11-18",
+    "keycloakId": "24550f1d-947c-464c-b035-0aad1354f4ad",
+    "discordId": "724721018052018287",
+    "lastForumPostDate": "2021-03-29 00:22:29"
+}

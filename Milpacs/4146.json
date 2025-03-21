@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8443",
+        "username": "Little.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jordon Little",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4146.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-12-03",
+            "recordUid": "118322"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-01-03",
+            "recordUid": "119475"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-12-03",
+    "promotionDate": "",
+    "keycloakId": "f4bcf14d-2d0e-42d7-a593-486121ff0d82",
+    "discordId": "",
+    "lastForumPostDate": "2024-12-01 21:08:08"
+}

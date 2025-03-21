@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8294",
+        "username": "Braund.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Lee Braund",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4070.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-10-18",
+            "recordUid": "115587"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-11-05",
+            "recordUid": "116739"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-10-18",
+    "promotionDate": "2024-10-18",
+    "keycloakId": "c235b031-1e32-4f38-9858-ba44b2d78ba0",
+    "discordId": "",
+    "lastForumPostDate": "2024-10-15 19:16:59"
+}

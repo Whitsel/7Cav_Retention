@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4304",
+        "username": "Hamp.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brendan Hamp",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2196.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-12",
+            "recordUid": "69242"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-01-23",
+            "recordUid": "69838"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-01-11",
+    "promotionDate": "2023-01-11",
+    "keycloakId": "6ef62e15-6704-4aa9-b967-b96ae164c0f8",
+    "discordId": "",
+    "lastForumPostDate": "2023-01-11 20:40:24"
+}

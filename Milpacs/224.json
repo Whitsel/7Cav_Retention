@@ -1,0 +1,60 @@
+{
+    "user": {
+        "userId": "406",
+        "username": "Cundiff.M"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Mason Cundiff",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/224.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-01-21",
+            "recordUid": "780"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Days NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2021-01-30",
+            "recordUid": "3206"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Days NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2021-02-08",
+            "recordUid": "3840"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-15",
+            "recordUid": "6980"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17182"
+        }
+    ],
+    "joinDate": "2015-11-14",
+    "promotionDate": "2021-01-21",
+    "keycloakId": "d521f1eb-e21f-4f80-8c84-6fda61612f97",
+    "discordId": "",
+    "lastForumPostDate": "2022-05-22 00:16:56"
+}

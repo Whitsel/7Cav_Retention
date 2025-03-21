@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5660",
+        "username": "Papa.V"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Viktor Papa",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2790.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-09-23",
+            "recordUid": "85605"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-09",
+            "recordUid": "86777"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-09-23",
+    "promotionDate": "2023-09-23",
+    "keycloakId": "6d9b8b99-2a10-434b-931e-b8d90694a02f",
+    "discordId": "256822980741431296",
+    "lastForumPostDate": "2023-09-19 23:18:13"
+}

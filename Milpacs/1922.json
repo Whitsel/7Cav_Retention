@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3751",
+        "username": "Cobbs.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nathan Cobbs",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1922.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-15",
+            "recordUid": "62203"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-03",
+            "recordUid": "63335"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-09-15",
+    "promotionDate": "2022-09-15",
+    "keycloakId": "0b2f79a2-aa16-4747-88d4-ea02130b734b",
+    "discordId": "",
+    "lastForumPostDate": "2022-09-14 01:12:17"
+}

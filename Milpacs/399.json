@@ -1,0 +1,54 @@
+{
+    "user": {
+        "userId": "17",
+        "username": "Parsons.B"
+    },
+    "rank": {
+        "rankShort": "COL",
+        "rankFull": "Colonel",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/6.jpg?1741364844",
+        "rankId": "6"
+    },
+    "realName": "Bryden Parsons",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/399.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Regimental Officer Pool",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-15",
+            "recordUid": "12780"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the Regimental Recruiting Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-03-21",
+            "recordUid": "17357"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22900"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17018"
+        }
+    ],
+    "joinDate": "2014-12-10",
+    "promotionDate": "2020-05-06",
+    "keycloakId": "1afaf764-232a-427b-aa66-0e68f78b2871",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 21:39:57"
+}

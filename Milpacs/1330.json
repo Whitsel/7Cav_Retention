@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2359",
+        "username": "Khan.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Joseph Khan",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1330.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-17",
+            "recordUid": "48482"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-14",
+            "recordUid": "49917"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-17",
+    "promotionDate": "2022-01-17",
+    "keycloakId": "db1b1be4-df06-451a-95c5-c0f55be8a1ca",
+    "discordId": "",
+    "lastForumPostDate": "2022-01-15 06:51:05"
+}

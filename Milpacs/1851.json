@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3510",
+        "username": "O'Connor.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Art O'Connor",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1851.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-24",
+            "recordUid": "61066"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-09-07",
+            "recordUid": "62064"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-24",
+    "promotionDate": "2022-08-24",
+    "keycloakId": "0501dbc0-a176-4192-8b39-a019c8eac52f",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-10 20:24:07"
+}

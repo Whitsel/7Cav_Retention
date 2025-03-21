@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5456",
+        "username": "Sanchez.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Tyson Sanchez",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2740.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-08-23",
+            "recordUid": "83938"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-11",
+            "recordUid": "85093"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-08-22",
+    "promotionDate": "2023-08-22",
+    "keycloakId": "4d0660c8-d16b-465a-95f4-6aa6e004d87d",
+    "discordId": "",
+    "lastForumPostDate": "2023-08-07 15:29:58"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8983",
+        "username": "Zohaib.F"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Farhan Zohaib",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4404.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-23",
+            "recordUid": "123107"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-26",
+            "recordUid": "123475"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-23",
+    "promotionDate": "",
+    "keycloakId": "8c43e200-123e-475c-8516-9ddd9182c17d",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-22 23:22:36"
+}

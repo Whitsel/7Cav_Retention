@@ -1,0 +1,60 @@
+{
+    "user": {
+        "userId": "314",
+        "username": "Jordan.T"
+    },
+    "rank": {
+        "rankShort": "WO1",
+        "rankFull": "Warrant Officer 1",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/30.jpg?1741365656",
+        "rankId": "30"
+    },
+    "realName": "Travis Jordan",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/252.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 183rd Combat Mission (Operation Operation Stackin Bodies 2401)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-26",
+            "recordUid": "13069"
+        },
+        {
+            "recordDetails": "Completed 184th Combat Mission (Operation Wednesday Night Squad 10MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-10",
+            "recordUid": "17238"
+        },
+        {
+            "recordDetails": "Completed 185th Combat Mission (Operation Wednesday Night Squad 24MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-24",
+            "recordUid": "21004"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22898"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17777"
+        }
+    ],
+    "joinDate": "2015-08-25",
+    "promotionDate": "2020-04-26",
+    "keycloakId": "a713d71d-d579-416b-8ad3-f9bba7573bbc",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 21:46:12"
+}

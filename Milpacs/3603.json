@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7385",
+        "username": "Keates.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jason Keates",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3603.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-17",
+            "recordUid": "104591"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-23",
+            "recordUid": "105411"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-17",
+    "promotionDate": "",
+    "keycloakId": "a7d74892-2315-438c-8d08-a792d963ea00",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-17 03:32:48"
+}

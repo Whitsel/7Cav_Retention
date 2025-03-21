@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6752",
+        "username": "Romero.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jeff Romero",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3285.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-03-28",
+            "recordUid": "97958"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-08",
+            "recordUid": "98825"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-03-28",
+    "promotionDate": "2024-03-28",
+    "keycloakId": "ef22dcae-3f9d-4bdf-a31b-a66ee296843a",
+    "discordId": "637718509626982411",
+    "lastForumPostDate": "2024-04-12 01:14:04"
+}

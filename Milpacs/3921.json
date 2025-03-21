@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7939",
+        "username": "Magana.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Hugo Magana",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3921.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-09-11",
+            "recordUid": "112064"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-09-23",
+            "recordUid": "113480"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-09-11",
+    "promotionDate": "2024-09-11",
+    "keycloakId": "2b5d4b60-d22b-4651-8e29-a4af71696049",
+    "discordId": "",
+    "lastForumPostDate": "2024-09-06 04:22:00"
+}

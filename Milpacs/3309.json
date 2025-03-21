@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4659",
+        "username": "Sheehan.Z"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Zach Sheehan",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3309.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-04",
+            "recordUid": "98486"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-22",
+            "recordUid": "99901"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-04",
+    "promotionDate": "2024-04-04",
+    "keycloakId": "d9f2b23c-3bc4-406c-845d-5872fd27d2d0",
+    "discordId": "",
+    "lastForumPostDate": "2024-03-31 15:34:29"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8800",
+        "username": "Powell.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Harry Powell",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4312.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-05",
+            "recordUid": "121667"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-18",
+            "recordUid": "122896"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-05",
+    "promotionDate": "",
+    "keycloakId": "85bc1b66-b33b-46a3-9be7-0d7e8d4aa673",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-05 12:23:10"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6167",
+        "username": "Hincliff.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jim Hinchliff",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3002.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-01-07",
+            "recordUid": "92032"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-01-14",
+            "recordUid": "92493"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-01-07",
+    "promotionDate": "2024-01-07",
+    "keycloakId": "b81c8387-2d2f-485d-8748-c64e3a969196",
+    "discordId": "",
+    "lastForumPostDate": "2024-01-05 21:49:50"
+}

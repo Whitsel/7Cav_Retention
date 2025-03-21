@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1343",
+        "username": "Winters.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Blake Winters",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/843.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-05-16",
+            "recordUid": "35436"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-05-31",
+            "recordUid": "36310"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-05-16",
+    "promotionDate": "2021-05-16",
+    "keycloakId": "4cab049f-f0f6-476e-aade-db759de05e83",
+    "discordId": "",
+    "lastForumPostDate": "2021-05-15 19:16:37"
+}

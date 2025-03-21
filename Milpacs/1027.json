@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1764",
+        "username": "Rees.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Alex Rees",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1027.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-09-09",
+            "recordUid": "41713"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-09-27",
+            "recordUid": "42912"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-09-09",
+    "promotionDate": "2021-09-09",
+    "keycloakId": "f9456279-52b7-481f-bd77-322b2326761d",
+    "discordId": "",
+    "lastForumPostDate": "2021-09-08 17:21:32"
+}

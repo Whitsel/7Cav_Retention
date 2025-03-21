@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5005",
+        "username": "Mcgragen.P"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Phil Mcgragen",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2504.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-21",
+            "recordUid": "78130"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-06-05",
+            "recordUid": "79197"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-05-21",
+    "promotionDate": "2023-05-21",
+    "keycloakId": "f2bb8088-969e-46db-aa8d-76dc0000f94f",
+    "discordId": "",
+    "lastForumPostDate": "2023-05-15 23:49:11"
+}

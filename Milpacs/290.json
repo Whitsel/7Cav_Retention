@@ -1,0 +1,72 @@
+{
+    "user": {
+        "userId": "248",
+        "username": "Conquest.C"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Cody Conquest",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/290.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-11-25",
+            "recordUid": "12762"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "21218"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Specialist (E-4), Transferred and Assigned RTC DCS",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-09",
+            "recordUid": "86840"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-23",
+            "recordUid": "87712"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-11-03",
+            "recordUid": "88702"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-12-14",
+            "recordUid": "91967"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17330"
+        }
+    ],
+    "joinDate": "2017-08-31",
+    "promotionDate": "2023-10-09",
+    "keycloakId": "464b8766-df8d-4f50-bb7c-3593058c24bd",
+    "discordId": "377262407325843457",
+    "lastForumPostDate": "2023-12-02 22:30:45"
+}

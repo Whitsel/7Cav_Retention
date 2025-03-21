@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6550",
+        "username": "Zmerzlikar.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Josh Zmerzlikar",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3177.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-02-24",
+            "recordUid": "94795"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-03-04",
+            "recordUid": "95729"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-02-24",
+    "promotionDate": "2024-02-24",
+    "keycloakId": "10c25c78-6830-4f89-9df0-fd70ab4f7572",
+    "discordId": "",
+    "lastForumPostDate": "2024-02-22 23:05:47"
+}

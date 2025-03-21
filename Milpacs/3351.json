@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6865",
+        "username": "Belt.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "David Belt",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3351.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-18",
+            "recordUid": "99498"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-30",
+            "recordUid": "100691"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-18",
+    "promotionDate": "2024-04-18",
+    "keycloakId": "d8568f4a-ce1d-4721-86ac-4bdd949cfc38",
+    "discordId": "226707115803279361",
+    "lastForumPostDate": "2024-04-14 01:34:48"
+}

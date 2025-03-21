@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5160",
+        "username": "Coritz.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Albert Coritz",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2578.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-21",
+            "recordUid": "80205"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-17",
+            "recordUid": "81908"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-06-21",
+    "promotionDate": "2023-06-21",
+    "keycloakId": "c1950e50-cd2c-4e51-a983-3baee3328479",
+    "discordId": "",
+    "lastForumPostDate": "2023-06-17 18:19:04"
+}

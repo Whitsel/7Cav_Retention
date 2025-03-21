@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7997",
+        "username": "Hammond.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jeremy Hammond",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3914.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-09-09",
+            "recordUid": "111685"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-09-23",
+            "recordUid": "113479"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-09-09",
+    "promotionDate": "",
+    "keycloakId": "e6957bb7-706c-42f9-a643-8fa673a06b92",
+    "discordId": "",
+    "lastForumPostDate": "2024-09-06 19:58:04"
+}

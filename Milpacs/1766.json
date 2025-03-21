@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3441",
+        "username": "Cruz.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Juan Cruz",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1766.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-05",
+            "recordUid": "59768"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61434"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-04",
+    "promotionDate": "2022-08-04",
+    "keycloakId": "106077c0-cd83-4217-a0fc-6c6aa0e70fc8",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-02 21:32:02"
+}

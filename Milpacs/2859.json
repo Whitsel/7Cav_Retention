@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5793",
+        "username": "Weisse.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Donald Weisse",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2859.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-20",
+            "recordUid": "87578"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-31",
+            "recordUid": "88464"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-19",
+    "promotionDate": "2023-10-19",
+    "keycloakId": "95c5d5ce-6a76-4e1e-bb21-6aab0ba49760",
+    "discordId": "",
+    "lastForumPostDate": "2024-03-07 22:30:47"
+}

@@ -1,0 +1,42 @@
+{
+    "user": {
+        "userId": "208",
+        "username": "Drake.D"
+    },
+    "rank": {
+        "rankShort": "AR",
+        "rankFull": "Reservist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/31.jpg?0",
+        "rankId": "31"
+    },
+    "realName": "Dean Drake",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/689.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-07",
+            "recordUid": "18034"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17037"
+        }
+    ],
+    "joinDate": "2018-05-11",
+    "promotionDate": "2020-07-23",
+    "keycloakId": "298d4d5a-fc10-4535-b8d0-6ed8df0a0d2c",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-21 22:33:20"
+}

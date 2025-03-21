@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4148",
+        "username": "Thompson.BT"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brian Taylor Thompson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2096.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-11-23",
+            "recordUid": "67113"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-12-05",
+            "recordUid": "68223"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-11-23",
+    "promotionDate": "2022-11-23",
+    "keycloakId": "0a3190d2-e09e-4a98-9761-ffab53668317",
+    "discordId": "",
+    "lastForumPostDate": "2022-11-19 18:52:40"
+}

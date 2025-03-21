@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8801",
+        "username": "LeVaar.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Marco LeVaar",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4313.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-05",
+            "recordUid": "121668"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-26",
+            "recordUid": "123465"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-05",
+    "promotionDate": "",
+    "keycloakId": "4307cbe3-2b27-47bc-804f-2a2867d9bc36",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-05 16:56:01"
+}

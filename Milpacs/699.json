@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1004",
+        "username": "Randy.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jack Randy",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/699.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-23",
+            "recordUid": "18144"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-04",
+            "recordUid": "25629"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-03-23",
+    "promotionDate": "2021-03-23",
+    "keycloakId": "d4212988-8124-4f80-af22-ab75e55a4c1f",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-23 19:21:48"
+}

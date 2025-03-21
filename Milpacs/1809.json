@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3511",
+        "username": "Jacobson.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Charlie Jacobson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1809.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-13",
+            "recordUid": "60381"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61426"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-13",
+    "promotionDate": "2022-08-13",
+    "keycloakId": "36ec5590-934a-4f34-9e23-48d9ffbfdb15",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-20 19:19:32"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2681",
+        "username": "Nikolai.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Makarov Nikolai",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1550.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-04-26",
+            "recordUid": "54174"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-05-16",
+            "recordUid": "55302"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-04-26",
+    "promotionDate": "2022-04-26",
+    "keycloakId": "248bf4c6-5cce-49c6-9db3-c8727e857174",
+    "discordId": "",
+    "lastForumPostDate": "2022-03-13 02:46:30"
+}

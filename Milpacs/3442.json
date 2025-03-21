@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7062",
+        "username": "Elkas.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Reid Elkas",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3442.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-14",
+            "recordUid": "101467"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-03",
+            "recordUid": "103517"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-14",
+    "promotionDate": "",
+    "keycloakId": "3e1d1c2d-8f38-4de1-8f51-aeb0198d9a98",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-13 19:35:05"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4100",
+        "username": "Badman.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Edward Badman",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2069.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-11-13",
+            "recordUid": "66568"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-11-29",
+            "recordUid": "67687"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-11-13",
+    "promotionDate": "2022-11-13",
+    "keycloakId": "f00d171b-d539-4f5f-ab93-ba752b413da8",
+    "discordId": "",
+    "lastForumPostDate": "2022-11-10 22:55:02"
+}

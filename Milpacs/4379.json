@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8933",
+        "username": "Raymond.JR"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jay Reese Raymond",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4379.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-19",
+            "recordUid": "122903"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-03-04",
+            "recordUid": "124071"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-19",
+    "promotionDate": "",
+    "keycloakId": "6775fd00-330f-4289-953a-5c1937e119f3",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-18 20:34:42"
+}

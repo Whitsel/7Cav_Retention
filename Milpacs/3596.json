@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7349",
+        "username": "Lowe.BE"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brent Edward Lowe",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3596.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-16",
+            "recordUid": "104369"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-01",
+            "recordUid": "105992"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-16",
+    "promotionDate": "",
+    "keycloakId": "103f3fae-d824-4048-9bee-f6553730cac9",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-15 22:35:40"
+}

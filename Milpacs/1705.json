@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3237",
+        "username": "Ramirez.F"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Felipe Ramirez",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1705.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-07-05",
+            "recordUid": "58152"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-07-31",
+            "recordUid": "59598"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-07-04",
+    "promotionDate": "2022-07-04",
+    "keycloakId": "cacccbc9-7e8c-42fe-afda-1a8609bf463d",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-22 05:02:25"
+}

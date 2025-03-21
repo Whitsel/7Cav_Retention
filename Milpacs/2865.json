@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5837",
+        "username": "Al-Moquin.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jabari Al-Moquin",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2865.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-24",
+            "recordUid": "87974"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-11-06",
+            "recordUid": "89068"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-24",
+    "promotionDate": "2023-10-24",
+    "keycloakId": "339bf186-4aef-47b1-8582-1f8d3b8eb3ab",
+    "discordId": "",
+    "lastForumPostDate": "2023-10-21 02:30:18"
+}

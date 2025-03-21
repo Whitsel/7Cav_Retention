@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5336",
+        "username": "Miller.I"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Isaac Miller",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2676.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-07-31",
+            "recordUid": "82622"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-08-14",
+            "recordUid": "83580"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-07-31",
+    "promotionDate": "2023-07-31",
+    "keycloakId": "c00b818d-80a5-43fb-9a33-8673d8de5033",
+    "discordId": "",
+    "lastForumPostDate": "2023-07-17 07:02:22"
+}

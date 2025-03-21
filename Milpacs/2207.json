@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4356",
+        "username": "Koji.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Torikai Koji",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2207.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-18",
+            "recordUid": "69406"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-01-30",
+            "recordUid": "70384"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-01-18",
+    "promotionDate": "2023-01-18",
+    "keycloakId": "5fde9cd0-ffb2-4273-aef2-878fc624f603",
+    "discordId": "",
+    "lastForumPostDate": "2023-01-15 03:47:55"
+}

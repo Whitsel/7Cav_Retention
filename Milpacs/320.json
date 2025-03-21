@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "235",
+        "username": "Karlson.M"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Martin Karlson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/320.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-01-11",
+            "recordUid": "774"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-01-26",
+            "recordUid": "3228"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17240"
+        }
+    ],
+    "joinDate": "2020-10-04",
+    "promotionDate": "2021-01-11",
+    "keycloakId": "4fa8c792-c16c-4fab-8c67-cbcf73b61258",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

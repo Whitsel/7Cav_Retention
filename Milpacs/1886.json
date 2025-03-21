@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3680",
+        "username": "Figueroa.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Raymond Figueroa",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1886.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-09-04",
+            "recordUid": "61663"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-03",
+            "recordUid": "63323"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-09-04",
+    "promotionDate": "2022-09-04",
+    "keycloakId": "e5da873f-0684-4b9d-8fed-6f441e6e0c00",
+    "discordId": "",
+    "lastForumPostDate": "2022-09-01 21:49:37"
+}

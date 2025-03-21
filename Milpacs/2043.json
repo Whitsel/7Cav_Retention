@@ -1,0 +1,576 @@
+{
+    "user": {
+        "userId": "4053",
+        "username": "Judge.C"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Christian Judge",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2043.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-11-02",
+            "recordUid": "65627"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-11-09",
+            "recordUid": "66318"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-11-13",
+            "recordUid": "66641"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Tactical Tuesday. Operation Cautious Turkey)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-16",
+            "recordUid": "67398"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Saturday Night Strike November 2022. Operation River Rapids)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-20",
+            "recordUid": "67573"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Saturday Night Strike November 2022. Operation 1st Down)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-27",
+            "recordUid": "68257"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Saturday Night Strike December 2022. Operation Dawn Anvil)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-10",
+            "recordUid": "68561"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Saturday Night Strike December 2022. Operation Returning River Rapids)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-04",
+            "recordUid": "68638"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-12-13",
+            "recordUid": "69040"
+        },
+        {
+            "recordDetails": "Assigned S7 DCS ITW Instructor",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-10",
+            "recordUid": "69209"
+        },
+        {
+            "recordDetails": "Assigned Section Leader A/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-01-11",
+            "recordUid": "69227"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Tactical Tuesday. Operation Nightmare)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-11",
+            "recordUid": "69769"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Saturday Night Strike January 2023. Operation River Spear Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-22",
+            "recordUid": "70558"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Cyclops. Operation Desert Thunderstorm - Day 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-29",
+            "recordUid": "70793"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-02-05",
+            "recordUid": "70883"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Fallen Angel. Operation Mazikeen)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-04",
+            "recordUid": "71147"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Tactical Tuesdays February 2023. Operation Re-Ignition)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-08",
+            "recordUid": "71525"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-02-11",
+            "recordUid": "71656"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Saturday Night Strike February 2023. Operation Dawn Hammer Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-12",
+            "recordUid": "71683"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Tactical Tuesdays February 2023. Operation Blind Tornado)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-15",
+            "recordUid": "71938"
+        },
+        {
+            "recordDetails": "Graduated DCS Ground School Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-02-25",
+            "recordUid": "72039"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Fallen Angel. Operation Beelzebub)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-18",
+            "recordUid": "72051"
+        },
+        {
+            "recordDetails": "Passed DCS Ground School Evaluation",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-03-03",
+            "recordUid": "72598"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Winter Scythe. Operation Myrmiddon)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-26",
+            "recordUid": "72619"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign Tactical Tuesdays February 2023. Operation Eye Opener)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-22",
+            "recordUid": "72751"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Tactical Tuesdays February 2023. Operation Epiphany)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-28",
+            "recordUid": "72890"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-02-14",
+            "recordUid": "73050"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Sands. Operation The Maw)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-05",
+            "recordUid": "73518"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Saturday Night Strike March 2023. Operation Mammons Greed 11MAR23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-11",
+            "recordUid": "73644"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader C/2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-19",
+            "recordUid": "73732"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Saturday Night Strike March 2023. Operation Last Crusade)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-19",
+            "recordUid": "74606"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign Tactical Tuesdays March 2023. Operation Yellow Rain)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-20",
+            "recordUid": "74842"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign Ivory Pattern. Operation Aegis Arising)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-26",
+            "recordUid": "75081"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Fallen Angel redux. Operation End Of The Road)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-01",
+            "recordUid": "75536"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Saturday Night Strike 2023. Operation Black Rain)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-01",
+            "recordUid": "75555"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Saturday Night Strike 2023. Operation Palmyra Rising)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-15",
+            "recordUid": "76349"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-04-21",
+            "recordUid": "76375"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Tactical Tuesdays April 2023. Operation Swamp Meteor)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-18",
+            "recordUid": "76651"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-04-26",
+            "recordUid": "76690"
+        },
+        {
+            "recordDetails": "Promoted to Chief Warrant Officer 2 (W-2) - Not eligible for CW3 until 11APR24 (fast track promotion)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-04-26",
+            "recordUid": "76691"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign Fallen Angel Rising. Operation Rising Mammons Greed)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-22",
+            "recordUid": "76774"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Campaign Saturday Night Strike April 2023. Operation Rose Thorn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-30",
+            "recordUid": "77510"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Saturday Night Strike May 2023. Operation Mazikeen's Revenge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-06",
+            "recordUid": "77918"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Campaign Stubborn Resolve. Operation Razor Maw)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-14",
+            "recordUid": "78341"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Campaign Tenacious Turnover. Operation Early Dawn Raid)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-20",
+            "recordUid": "78599"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Campaign Last Crusade. Operation Tip Of The Spear)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-05-27",
+            "recordUid": "79116"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Brass Thunder. Operation Blind Freedom)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-03",
+            "recordUid": "79766"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Campaign Blind Freedom. Operation Blazing Snowfall)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-11",
+            "recordUid": "79976"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign The Tzar Rises. Operation Poking The Bear)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-18",
+            "recordUid": "80410"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Campaign Lexington-Concord. Operation SuckerPunch)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-27",
+            "recordUid": "81027"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Campaign Desert Wind. Operation Palmyran Catapult)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-02",
+            "recordUid": "81581"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Campaign Brass Thunder. Operation Blazing Snowfall Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-27",
+            "recordUid": "81598"
+        },
+        {
+            "recordDetails": "Assigned S1 Uniforms Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-07-20",
+            "recordUid": "82030"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Campaign Sands. Operation Open Maw)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-16",
+            "recordUid": "82350"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Operation A/ACD Top Gun Tournament Q3 2023)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-23",
+            "recordUid": "82712"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Platoon Sergeant 2/A/ACD, Transferred and Assigned Section Leader B/2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-08-08",
+            "recordUid": "83042"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Fallen Angel. Operation Mazikeen's Revenge redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-30",
+            "recordUid": "83053"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Campaign Medusa. Operation Power Play)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-13",
+            "recordUid": "83905"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-07",
+            "recordUid": "84821"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Campaign Saturday Night Throwdown 2023. Operation Curtain Fall)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-26",
+            "recordUid": "84836"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank as Specialist (E-4), Transferred and Assigned Trooper A/1/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-01",
+            "recordUid": "121345"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment after 12 months.",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-16",
+            "recordUid": "122735"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-11-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "35110"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "35137"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "35147"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "35157"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "35167"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "35177"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "35187"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2022-11-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "35715"
+        },
+        {
+            "awardDetails": "Operation Returning River Rapids",
+            "awardName": "Silver Star",
+            "awardDate": "2023-01-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/6.jpg?1612667944",
+            "awardUid": "36952"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Aviator Badge",
+            "awardDate": "2023-03-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/77.jpg?1612677958",
+            "awardUid": "38392"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2023-02-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "38725"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2022-12-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "38726"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2023-02-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "38727"
+        },
+        {
+            "awardDetails": "Campaign Tactical Tuesdays February 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-03-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "39284"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "DCS World Service Ribbon",
+            "awardDate": "2023-03-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/130.jpg?1668019648",
+            "awardUid": "39584"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2023-03-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "39592"
+        },
+        {
+            "awardDetails": "Campaign Fallen Angel",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-03-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "39944"
+        },
+        {
+            "awardDetails": "ACD Trooper of the Quarter Q1 2023",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2023-04-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "40152"
+        },
+        {
+            "awardDetails": "Campaign Saturday Night Strike March 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-03-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "40809"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-04-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "41186"
+        },
+        {
+            "awardDetails": "Campaign Saturday Night Strike April 2023",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-05-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "41809"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-05-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "42085"
+        },
+        {
+            "awardDetails": "Campaign Fallen Angel",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-06-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "42427"
+        },
+        {
+            "awardDetails": "Campaign Fallen Angel",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "45788"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Hydra-70 Marksman",
+            "awardDate": "2023-09-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/126.jpg?1708297568",
+            "awardUid": "50019"
+        }
+    ],
+    "joinDate": "2022-11-01",
+    "promotionDate": "2025-02-01",
+    "keycloakId": "d9e59a9b-060e-4a77-9a15-2c1fd99f312f",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-01 06:14:51"
+}

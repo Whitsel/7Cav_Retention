@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4760",
+        "username": "Beltre.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Anyelo Beltre",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2378.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-29",
+            "recordUid": "74655"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-31",
+            "recordUid": "74873"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-29",
+    "promotionDate": "2023-03-29",
+    "keycloakId": "d5be097a-408b-48d6-ac94-cf572066adf0",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-26 13:49:41"
+}

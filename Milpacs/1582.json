@@ -1,0 +1,66 @@
+{
+    "user": {
+        "userId": "2838",
+        "username": "Lowe.R"
+    },
+    "rank": {
+        "rankShort": "AR",
+        "rankFull": "Reservist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/31.jpg?0",
+        "rankId": "31"
+    },
+    "realName": "Rachel Lowe",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1582.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Reservist",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-05-12",
+            "recordUid": "55227"
+        },
+        {
+            "recordDetails": "Assigned S5 Graphics In Training",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-05-14",
+            "recordUid": "55244"
+        },
+        {
+            "recordDetails": "Assigned S5 Graphics",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-06-27",
+            "recordUid": "57820"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S5 Graphics Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-30",
+            "recordUid": "78709"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-06-28",
+            "recordUid": "80768"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "S5 Dept.",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2022-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "35763"
+        }
+    ],
+    "joinDate": "2022-05-13",
+    "promotionDate": "2022-05-13",
+    "keycloakId": "bfb38dd9-5f6a-462b-a98d-59f71c93f22c",
+    "discordId": "962779721198866493",
+    "lastForumPostDate": "2023-05-12 02:39:58"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4190",
+        "username": "Akil.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Can Akil",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2146.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-12-03",
+            "recordUid": "67851"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-01-16",
+            "recordUid": "69365"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-12-03",
+    "promotionDate": "2022-12-03",
+    "keycloakId": "2b7998b5-2d2e-4e69-bd11-d4d25b6723d2",
+    "discordId": "",
+    "lastForumPostDate": "2022-11-25 20:18:57"
+}

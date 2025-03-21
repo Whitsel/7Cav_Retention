@@ -1,0 +1,52 @@
+{
+    "user": {
+        "userId": "1449",
+        "username": "Delao.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Christian Delao",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/935.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-07-15",
+            "recordUid": "38325"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-08-09",
+            "recordUid": "40150"
+        },
+        {
+            "recordDetails": "Reinstated, Assigned Bootcamp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-09-02",
+            "recordUid": "41346"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-09-20",
+            "recordUid": "42421"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-07-15",
+    "promotionDate": "2021-09-02",
+    "keycloakId": "818eddc3-2641-44de-9489-314780a11fed",
+    "discordId": "",
+    "lastForumPostDate": "2021-09-09 12:14:32"
+}

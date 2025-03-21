@@ -1,0 +1,66 @@
+{
+    "user": {
+        "userId": "307",
+        "username": "Thorpe.C"
+    },
+    "rank": {
+        "rankShort": "1SG",
+        "rankFull": "First Sergeant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/14.jpg?1741875996",
+        "rankId": "14"
+    },
+    "realName": "Craig Thorpe",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/162.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 97th Combat Mission (Operation Stackin Bodies 1502)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-15",
+            "recordUid": "14816"
+        },
+        {
+            "recordDetails": "Completed 98th Combat Mission (Operation Stackin Bodies 2802)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-28",
+            "recordUid": "16932"
+        },
+        {
+            "recordDetails": "Completed 99th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20747"
+        },
+        {
+            "recordDetails": "Completed 96th Combat Mission (Operation Stackin Bodies 2401)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-25",
+            "recordUid": "20801"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22946"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17447"
+        }
+    ],
+    "joinDate": "2018-09-14",
+    "promotionDate": "2020-11-03",
+    "keycloakId": "89166492-fd7e-4cd1-8cdb-04e092fd587a",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-30 20:50:01"
+}

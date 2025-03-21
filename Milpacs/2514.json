@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4944",
+        "username": "Sanderson.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "James Sanderson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2514.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-25",
+            "recordUid": "78419"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-06-19",
+            "recordUid": "80176"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-05-25",
+    "promotionDate": "2023-05-25",
+    "keycloakId": "68441ac3-6146-447c-8ad4-d39b0a072436",
+    "discordId": "",
+    "lastForumPostDate": "2023-05-06 02:03:23"
+}

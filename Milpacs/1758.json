@@ -1,0 +1,568 @@
+{
+    "user": {
+        "userId": "3424",
+        "username": "Blackmon.K"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "Kyle Blackmon",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1758.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-02",
+            "recordUid": "59613"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-03",
+            "recordUid": "59641"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-08-07",
+            "recordUid": "60018"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Hell's Highway AUG22. Operation Hell's Highway 07AUG22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-08-08",
+            "recordUid": "60670"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Shell Shocked Saturday AUG22. Operation Shell Shocked Saturday 13AUG22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-08-12",
+            "recordUid": "60778"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Hell's Highway AUG22. Operation Hell's Highway 21AUG22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-08-21",
+            "recordUid": "61505"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Shell Shocked Saturday AUG22. Operation Shell Shocked Saturday 27AUG22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-08-27",
+            "recordUid": "61742"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Hell's Highway SEP22. Operation Hell's Highway 04SEP22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-09-04",
+            "recordUid": "62104"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-09-06",
+            "recordUid": "62321"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Shell Shocked Saturday SEP22. Operation Shell Shocked Saturday 10SEP22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-09-10",
+            "recordUid": "62466"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Console Operations Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-09-19",
+            "recordUid": "62479"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Hell's Highway SEP22. Operation Hell's Highway 18SEP22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-09-18",
+            "recordUid": "62865"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Shell Shocked Saturday SEP22. Operation Shell Shocked Saturday 24SEPT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-09-24",
+            "recordUid": "63358"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Hells Highway Oct22. Operation Hell's Highway 02OCT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-01",
+            "recordUid": "63560"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Hells Highway Oct22. Operation Hell's Highway 16OCT22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-16",
+            "recordUid": "64834"
+        },
+        {
+            "recordDetails": "Assigned S5 Public Relations In Training",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-11-04",
+            "recordUid": "65801"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-11-04",
+            "recordUid": "65862"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation Forge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-10-30",
+            "recordUid": "66175"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-11-05",
+            "recordUid": "66234"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-11-05",
+            "recordUid": "66761"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Shell Shocked Saturday NOV22. Operation Shell Shocked Saturday 05NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-05",
+            "recordUid": "66790"
+        },
+        {
+            "recordDetails": "Assigned S5 Public Relations",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-11-23",
+            "recordUid": "67119"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S3 HLL Console Operations Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-11-23",
+            "recordUid": "67150"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign Shell Shocked Saturday NOV22. Operation Shell Shock Saturday 19NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-19",
+            "recordUid": "67460"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Hells Highway OCT/NOV22. Operation Hell's Highway 13NOV22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-11-13",
+            "recordUid": "67494"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/ACD.",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-12-02",
+            "recordUid": "67773"
+        },
+        {
+            "recordDetails": "\u0391ssigned Assistant Section Leader B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-12-02",
+            "recordUid": "67775"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Operation Forge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-12-03",
+            "recordUid": "68428"
+        },
+        {
+            "recordDetails": "Assigned S7 HLL CDS Instructor",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-09",
+            "recordUid": "69123"
+        },
+        {
+            "recordDetails": "Assigned S5 Social Media Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-18",
+            "recordUid": "69417"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Console Operations Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-19",
+            "recordUid": "69436"
+        },
+        {
+            "recordDetails": "Assigned S5 Filmmaker In Training",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-01-20",
+            "recordUid": "69447"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Operation ESCAPE FURLOUGH (P.O.W.))",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-07",
+            "recordUid": "69636"
+        },
+        {
+            "recordDetails": "Graduated HLL Console Basic Infantry Combat Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-01-28",
+            "recordUid": "70097"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Operation Whiteout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-22",
+            "recordUid": "70268"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Hell's Highway Jan/Feb. Operation Iwo Jima Commemorative Campaign 29JAN23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-01-29",
+            "recordUid": "70782"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Hell's Highway Feb. Operation Iwo Jima Commemorative Campaign 05FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-05",
+            "recordUid": "71306"
+        },
+        {
+            "recordDetails": "Assigned Section Leader B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-17",
+            "recordUid": "71556"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S5 Filmmaker and Public Relations",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-02-18",
+            "recordUid": "71559"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Console Operations Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-02-18",
+            "recordUid": "71561"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation Forge 25FEB23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-02-25",
+            "recordUid": "72568"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-03-10",
+            "recordUid": "73260"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-03-10",
+            "recordUid": "73766"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S3 HLL Console Operations Senior",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-22",
+            "recordUid": "74165"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S7 HLL CDS Instructor",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-24",
+            "recordUid": "74181"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign Tet Counteroffensive . Operation High Noon)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-17",
+            "recordUid": "74318"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Tet Counteroffensive. Operation Fragmented)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-03-18",
+            "recordUid": "74380"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Section Leader B/1/B/ACD,\nTransferred and Assigned Airborne Infantry D/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-22",
+            "recordUid": "74520"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign March Warfare Wednesday 2023. Operation Warfare Wednesday 183)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-04-05",
+            "recordUid": "75823"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S5 Social Media Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-30",
+            "recordUid": "78727"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Day NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2023-06-23",
+            "recordUid": "80335"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-24",
+            "recordUid": "80346"
+        },
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2023-08-04",
+            "recordUid": "82951"
+        },
+        {
+            "recordDetails": "Returned from ELOA, Transferred and Assigned Trooper B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-08-25",
+            "recordUid": "83976"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-25",
+            "recordUid": "85771"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Private First Class (E-3), Transferred and Assigned Airborne Infantry D/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-11-03",
+            "recordUid": "88695"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Airborne Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-06",
+            "recordUid": "89049"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-01-03",
+            "recordUid": "93120"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-02-13",
+            "recordUid": "94391"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Private (E-2), Transferred and Assigned Trooper B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-07-27",
+            "recordUid": "107730"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-08-25",
+            "recordUid": "110989"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Days NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2024-10-21",
+            "recordUid": "116553"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-11-08",
+            "recordUid": "117141"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-08-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "31811"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "31823"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "31829"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "31835"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "31841"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "31847"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "31853"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2022-08-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "32080"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2022-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "32727"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2022-09-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "32824"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2022-10-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "34494"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2022-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "35781"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2022-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "35782"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2022-12-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "36600"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2023-01-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "37224"
+        },
+        {
+            "awardDetails": "Campaign Hell's Highway AUG/SEPT22",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-10-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "37573"
+        },
+        {
+            "awardDetails": "Campaign Hells Highway OCT/NOV22",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-12-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "37587"
+        },
+        {
+            "awardDetails": "Campaign Shell Shocked Saturday AUG/SEP22",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-10-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "37644"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2023-02-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "38734"
+        },
+        {
+            "awardDetails": "Operation High Noon",
+            "awardName": "Bronze Star with Valor Device",
+            "awardDate": "2023-03-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/11.jpg?1612668108",
+            "awardUid": "39794"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Assault Course Ribbon",
+            "awardDate": "2023-01-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/54.jpg?1612676882",
+            "awardUid": "41449"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2023-08-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "45250"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Parachutist Badge",
+            "awardDate": "2023-11-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/83.jpg?1612678149",
+            "awardUid": "47416"
+        }
+    ],
+    "joinDate": "2022-08-02",
+    "promotionDate": "2024-08-25",
+    "keycloakId": "f4314a9c-ff0a-4653-bc2e-7e667436abc2",
+    "discordId": "298727995479293955",
+    "lastForumPostDate": "2024-10-18 16:02:23"
+}

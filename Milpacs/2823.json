@@ -1,0 +1,201 @@
+{
+    "user": {
+        "userId": "5733",
+        "username": "Stevenson.T"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Trevor Stevenson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2823.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-06",
+            "recordUid": "86360"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Fixed Wing Pilot in Training B/2/A/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-14",
+            "recordUid": "86986"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private First Class (E-3), Named Honor Graduate",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-15",
+            "recordUid": "87265"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Forward Air Controller A/2/A/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-11-12",
+            "recordUid": "89227"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Radio Communication Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-16",
+            "recordUid": "89519"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Warfare Wednesday NOV23. Operation Warfare Wednesday 214)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-08",
+            "recordUid": "90214"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Warfare Wednesday NOV23. Operation Warfare Wednesday 215)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-15",
+            "recordUid": "90602"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation Sumava Freedom)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-09",
+            "recordUid": "91946"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-12-14",
+            "recordUid": "92041"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-01-12",
+            "recordUid": "92468"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "46487"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "46506"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Honor Graduate Ribbon",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/39.jpg?1612676468",
+            "awardUid": "46513"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46762"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46770"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46778"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46786"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46794"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "46802"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "47170"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Pistol Expert",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/108.jpg?1612850440",
+            "awardUid": "47180"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Machine Gun Expert",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/117.jpg?1612850659",
+            "awardUid": "47196"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Recoilless Rifle Marksman",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/118.jpg?1612850681",
+            "awardUid": "47215"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "M-203 Expert",
+            "awardDate": "2023-10-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/114.jpg?1612850587",
+            "awardUid": "47220"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-11-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "48154"
+        },
+        {
+            "awardDetails": "Operation Warfare Wednesday 215",
+            "awardName": "Bronze Star with Valor Device",
+            "awardDate": "2023-11-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/11.jpg?1612668108",
+            "awardUid": "48197"
+        }
+    ],
+    "joinDate": "2023-10-06",
+    "promotionDate": "2023-12-14",
+    "keycloakId": "5ab141e4-3444-4f4c-81b8-0edee8e1e129",
+    "discordId": "",
+    "lastForumPostDate": "2024-01-11 22:18:07"
+}

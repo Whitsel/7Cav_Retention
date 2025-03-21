@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8996",
+        "username": "Poweleit.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ryan Poweleit",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4415.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-27",
+            "recordUid": "123361"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-03-14",
+            "recordUid": "124971"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-27",
+    "promotionDate": "",
+    "keycloakId": "361f3603-29e4-4204-9b40-26b8ec6816ce",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-26 02:08:52"
+}

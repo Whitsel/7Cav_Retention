@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8672",
+        "username": "Reginald.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Rollins Reginald",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4281.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-26",
+            "recordUid": "120892"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-11",
+            "recordUid": "122367"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-01-26",
+    "promotionDate": "",
+    "keycloakId": "8101c89d-d7f3-4bbf-aa0a-4d481770c00b",
+    "discordId": "",
+    "lastForumPostDate": "2025-01-20 07:30:34"
+}

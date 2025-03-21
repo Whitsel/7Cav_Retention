@@ -1,0 +1,42 @@
+{
+    "user": {
+        "userId": "331",
+        "username": "Palmero.B"
+    },
+    "rank": {
+        "rankShort": "SGT",
+        "rankFull": "Sergeant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/18.jpg?1741376797",
+        "rankId": "18"
+    },
+    "realName": "Brian Palmero",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/349.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22902"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17081"
+        }
+    ],
+    "joinDate": "2018-08-09",
+    "promotionDate": "2020-05-22",
+    "keycloakId": "161616c6-fed2-4472-a5cb-6508d6c6f9e5",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 21:30:27"
+}

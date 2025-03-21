@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6422",
+        "username": "Wolfe.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Cody Wolfe",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3117.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-02-21",
+            "recordUid": "94717"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-02-26",
+            "recordUid": "95299"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-02-07",
+    "promotionDate": "2024-02-07",
+    "keycloakId": "22fcc761-1ead-43e4-a9ee-aba8ae1d24ac",
+    "discordId": "",
+    "lastForumPostDate": "2024-02-06 21:28:15"
+}

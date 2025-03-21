@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7150",
+        "username": "Evans.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brandon Evans",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3490.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-25",
+            "recordUid": "102368"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-12",
+            "recordUid": "104097"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-25",
+    "promotionDate": "",
+    "keycloakId": "576d8f7c-6276-4497-8d09-32f20c386450",
+    "discordId": "363776010313007115",
+    "lastForumPostDate": "2024-05-25 10:56:50"
+}

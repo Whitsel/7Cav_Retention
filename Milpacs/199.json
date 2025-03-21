@@ -1,0 +1,133 @@
+{
+    "user": {
+        "userId": "66",
+        "username": "Toliver.K"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Kevin Toliver",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/199.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-01-17",
+            "recordUid": "777"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Operation Brazilian Steel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "16092"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation SCS)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-21",
+            "recordUid": "16358"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Operation Stackin Bodies 2802)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-28",
+            "recordUid": "16943"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Operation Wednesday Night Squad 3MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-03",
+            "recordUid": "17020"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Operation Hamburger Hill Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-06",
+            "recordUid": "17049"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Operation Wednesday Night Squad 10MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-10",
+            "recordUid": "17225"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Operation Hamlet Towers)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-12",
+            "recordUid": "17286"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Campaign Golden Toothbrush. Operation Resurrection)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17897"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Operation Sunday Night Skirmishes 14MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17976"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Operation Stackin Bodies 0803)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-09",
+            "recordUid": "17998"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Operation Moshtarak)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-20",
+            "recordUid": "18451"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20764"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Operation Wednesday Night Squad 24MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-24",
+            "recordUid": "20987"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22881"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2021-02-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "8208"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17411"
+        }
+    ],
+    "joinDate": "2020-06-13",
+    "promotionDate": "2021-01-17",
+    "keycloakId": "87151a9f-d340-4b08-88d5-2bcdaff89fb7",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-29 00:43:19"
+}

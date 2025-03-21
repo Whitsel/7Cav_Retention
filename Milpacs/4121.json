@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8394",
+        "username": "Grey.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Lenny Grey",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4121.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-11-25",
+            "recordUid": "117922"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-01-03",
+            "recordUid": "119473"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-11-25",
+    "promotionDate": "",
+    "keycloakId": "9f7a5030-40c9-4bd2-aed4-a4f4a8c94214",
+    "discordId": "",
+    "lastForumPostDate": "2024-11-23 20:12:18"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1457",
+        "username": "Murphy.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brendon Murphy",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/893.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-06-20",
+            "recordUid": "37249"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-07-05",
+            "recordUid": "37941"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-06-20",
+    "promotionDate": "2021-06-20",
+    "keycloakId": "3d0009bc-abbb-43b5-abb8-3873d18de4d4",
+    "discordId": "",
+    "lastForumPostDate": "2021-06-20 00:25:06"
+}

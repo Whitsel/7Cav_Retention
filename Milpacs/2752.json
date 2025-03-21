@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5553",
+        "username": "Buggs.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Rome Buggs",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2752.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-08-31",
+            "recordUid": "84419"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-25",
+            "recordUid": "85765"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-08-31",
+    "promotionDate": "2023-08-31",
+    "keycloakId": "5e8a0cd8-ea0f-4f19-a050-23b7f2acb313",
+    "discordId": "",
+    "lastForumPostDate": "2023-08-27 17:32:24"
+}

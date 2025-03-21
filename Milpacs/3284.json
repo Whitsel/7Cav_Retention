@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6726",
+        "username": "Penner.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jonathan Penner",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3284.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-03-28",
+            "recordUid": "97957"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-22",
+            "recordUid": "99892"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-03-28",
+    "promotionDate": "2024-03-28",
+    "keycloakId": "66c95e92-7875-4973-bab5-ba5694bb68bb",
+    "discordId": "",
+    "lastForumPostDate": "2024-03-22 16:40:51"
+}

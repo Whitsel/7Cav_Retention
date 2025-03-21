@@ -1,0 +1,98 @@
+{
+    "user": {
+        "userId": "446",
+        "username": "Masterson.N"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Nate Masterson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/448.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Trooper 1/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-02-01",
+            "recordUid": "1185"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-08",
+            "recordUid": "3533"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-02-21",
+            "recordUid": "7067"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation We Back Baby)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-17",
+            "recordUid": "12794"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation Operation Stackin Bodies 2401)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-26",
+            "recordUid": "13055"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation A/2-7 FTX)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-30",
+            "recordUid": "13258"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation Brazilian Steel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "16094"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-03",
+            "recordUid": "22955"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2021-01-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "8123"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2021-03-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "8255"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17661"
+        }
+    ],
+    "joinDate": "2020-10-30",
+    "promotionDate": "2021-02-08",
+    "keycloakId": "a20a08cd-56a5-40ba-ad74-721e9f0c46fa",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-10 15:24:22"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2328",
+        "username": "Karras.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Spyros Karras",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1297.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-13",
+            "recordUid": "48173"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-06",
+            "recordUid": "49672"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-13",
+    "promotionDate": "2022-01-13",
+    "keycloakId": "ba6a98d9-c10d-492a-a066-f41d89d15c21",
+    "discordId": "361966111845122050",
+    "lastForumPostDate": "2022-01-11 06:57:39"
+}

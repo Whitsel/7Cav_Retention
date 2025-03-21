@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3887",
+        "username": "Sheehan.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Callum Sheehan",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1968.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-05",
+            "recordUid": "63278"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-24",
+            "recordUid": "65719"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-10-05",
+    "promotionDate": "2022-10-05",
+    "keycloakId": "4dc8a37c-7312-4efe-b09a-8f4fea8db283",
+    "discordId": "",
+    "lastForumPostDate": "2022-10-02 20:06:53"
+}

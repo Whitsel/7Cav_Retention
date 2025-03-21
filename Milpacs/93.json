@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "561",
+        "username": "Heide.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Richard Heide",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/93.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-01-19",
+            "recordUid": "17"
+        },
+        {
+            "recordDetails": "Entry-Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-01-31",
+            "recordUid": "3229"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-01-19",
+    "promotionDate": "2021-01-19",
+    "keycloakId": "74cdccae-e791-4e0f-8e47-0b2b7794e3b5",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-16 05:07:05"
+}

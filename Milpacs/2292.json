@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4548",
+        "username": "Jones.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Bud Jones",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2292.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-19",
+            "recordUid": "71607"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-21",
+            "recordUid": "74034"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-02-19",
+    "promotionDate": "2023-02-19",
+    "keycloakId": "25c8108e-14a3-4bbd-bd35-57fdff86e9d5",
+    "discordId": "",
+    "lastForumPostDate": "2023-02-19 18:46:19"
+}

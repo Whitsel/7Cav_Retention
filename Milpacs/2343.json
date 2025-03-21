@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4675",
+        "username": "Sumner.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Stephen Sumner",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2343.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-15",
+            "recordUid": "73455"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-04-03",
+            "recordUid": "75206"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-15",
+    "promotionDate": "2023-03-15",
+    "keycloakId": "0273d734-6243-4e29-be86-4c21dadc012a",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-14 02:08:15"
+}

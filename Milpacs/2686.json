@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5405",
+        "username": "Armstrong.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Luke Armstrong",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2686.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-08-03",
+            "recordUid": "82757"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-08-14",
+            "recordUid": "83585"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-08-02",
+    "promotionDate": "2023-08-02",
+    "keycloakId": "59b44f48-ede7-4047-8bb7-b73f9a4ef3b9",
+    "discordId": "",
+    "lastForumPostDate": "2023-07-29 03:34:54"
+}

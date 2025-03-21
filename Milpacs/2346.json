@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4634",
+        "username": "Maui.O"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Oruk Maui",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2346.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-15",
+            "recordUid": "73458"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-04-03",
+            "recordUid": "75201"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-15",
+    "promotionDate": "2023-03-15",
+    "keycloakId": "9be2ef44-fa4a-4c09-94b6-3ba5113c5278",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-06 17:00:32"
+}

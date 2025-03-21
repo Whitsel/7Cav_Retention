@@ -1,0 +1,300 @@
+{
+    "user": {
+        "userId": "2253",
+        "username": "Silver.G"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Gregory Silver",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1268.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-08",
+            "recordUid": "48110"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper D/2/B/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-16",
+            "recordUid": "48464"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-01-17",
+            "recordUid": "48510"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign January Warfare Wednesday 2022. Operation Warfare Wednesday 125)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-01-20",
+            "recordUid": "49076"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Shapur Scenarios. Operation Jaws of Death)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-02",
+            "recordUid": "49431"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-02-15",
+            "recordUid": "50092"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Rogal Dorn. Operation Phobos)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-13",
+            "recordUid": "50624"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Mitag. Operation Outstretched Hands)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-27",
+            "recordUid": "51447"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign March Warfare Wednesday 2022. Operation Warfare Wednesday 130)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-02",
+            "recordUid": "51803"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation Peninsular Overture II)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-06",
+            "recordUid": "52003"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign March Warfare Wednesday 2022. Operation Warfare Wednesday 131)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-09",
+            "recordUid": "52112"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign March Warfare Wednesday 2022. Operation Warfare Wednesday 133)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-23",
+            "recordUid": "52689"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Luxray)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-27",
+            "recordUid": "53019"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-04-16",
+            "recordUid": "53145"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation Three Days in Zaros)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-02",
+            "recordUid": "53746"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Rogal Dorn. Operation Gravis)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-10",
+            "recordUid": "53858"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign April Warfare Wednesday 2022. Operation Warfare Wednesday 136)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-20",
+            "recordUid": "54389"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Radio Communication Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2022-05-26",
+            "recordUid": "55803"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Operation Garchomp (Bravo Troop FTX))",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-05-29",
+            "recordUid": "56340"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign June Warfare Wednesday 2022. Operation Warfare Wednesday 142)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-01",
+            "recordUid": "56561"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Overlord 1944. Operation Neptune H-Hour)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-05",
+            "recordUid": "56680"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Overlord 1944. Operation Neptune H-4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-03",
+            "recordUid": "56884"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-07-19",
+            "recordUid": "58923"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2022-01-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "25419"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25457"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25477"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25497"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25517"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25537"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "25557"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2022-02-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "25564"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2022-01-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "25567"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2022-01-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "25834"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "M-203 Expert",
+            "awardDate": "2022-02-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/114.jpg?1612850587",
+            "awardUid": "26596"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Machine Gun Expert",
+            "awardDate": "2022-02-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/117.jpg?1612850659",
+            "awardUid": "26597"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Recoilless Rifle Marksman",
+            "awardDate": "2022-02-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/118.jpg?1612850681",
+            "awardUid": "26598"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2022-03-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "27549"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2022-04-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "27856"
+        },
+        {
+            "awardDetails": "Campaign March Warfare Wednesday 2022",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-04-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "28484"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2022-04-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "28724"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2022-06-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "30212"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D-Day Commemorative Medal",
+            "awardDate": "2022-06-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/50.jpg?1612676791",
+            "awardUid": "30305"
+        }
+    ],
+    "joinDate": "2022-01-08",
+    "promotionDate": "2022-04-16",
+    "keycloakId": "2e2bae72-2ef5-4042-8d4e-5f3b3a0d35f8",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-20 22:23:31"
+}

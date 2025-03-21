@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "9017",
+        "username": "Vasiljevic.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Rade Vasiljevic",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4423.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/3/B/ACD",
+        "positionId": "989"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-28",
+            "recordUid": "123587"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/3/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-07",
+            "recordUid": "124093"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Arma Reforger Server Playtime Medal",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2025-03-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "69126"
+        }
+    ],
+    "joinDate": "2025-02-28",
+    "promotionDate": "",
+    "keycloakId": "da984f2e-fc22-4ed7-83bc-098d273b9bd8",
+    "discordId": "608435583441829888",
+    "lastForumPostDate": "2025-03-16 23:51:02"
+}

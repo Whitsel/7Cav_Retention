@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9171",
+        "username": "Thomas.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Aaron Thomas",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4494.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 3/2/C/ACD",
+        "positionId": "947"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-16",
+            "recordUid": "124939"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/C/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-17",
+            "recordUid": "124948"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-16",
+    "promotionDate": "",
+    "keycloakId": "0dddbed6-74d9-4a97-9774-7d31d39d083b",
+    "discordId": "1024070048916181023",
+    "lastForumPostDate": "2025-03-17 00:10:10"
+}

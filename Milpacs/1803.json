@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3515",
+        "username": "Earle.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ryan Earle",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1803.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-11",
+            "recordUid": "60282"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61428"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-11",
+    "promotionDate": "2022-08-11",
+    "keycloakId": "9d3f4b3a-2b24-4530-b64a-76d960858d1d",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-11 02:22:27"
+}

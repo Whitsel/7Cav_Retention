@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9023",
+        "username": "Bishop.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brian Bishop",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4436.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/1/A/1-7",
+        "positionId": "206"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-03",
+            "recordUid": "123753"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Rotary Pilot in Training B/1/A/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-07",
+            "recordUid": "124096"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-04",
+    "promotionDate": "",
+    "keycloakId": "506999bb-017a-4ea6-b401-2955672c476a",
+    "discordId": "761303299327655977",
+    "lastForumPostDate": "2025-03-16 21:08:44"
+}

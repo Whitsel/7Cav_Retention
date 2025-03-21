@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "799",
+        "username": "Dolan.C"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Chris Dolan",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/608.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2021-01-17",
+            "recordUid": "17062"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-28",
+            "recordUid": "20499"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17196"
+        }
+    ],
+    "joinDate": "2021-02-01",
+    "promotionDate": "2021-02-01",
+    "keycloakId": "2d15d6b0-623b-4b9f-86e9-bb13ec2e7cb6",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

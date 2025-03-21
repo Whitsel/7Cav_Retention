@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4473",
+        "username": "Thatcher.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Thomas Thatcher",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2255.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-02-08",
+            "recordUid": "70924"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-02-21",
+            "recordUid": "71910"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-02-08",
+    "promotionDate": "2023-02-08",
+    "keycloakId": "6644c461-1a0c-40fc-b466-f7218fa8e762",
+    "discordId": "",
+    "lastForumPostDate": "2023-02-05 00:14:23"
+}

@@ -1,0 +1,46 @@
+{
+    "user": {
+        "userId": "4722",
+        "username": "Carr.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jim Carr",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2360.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-20",
+            "recordUid": "73858"
+        },
+        {
+            "recordDetails": "Name Change Approved: Recruit Jim Carney will be known as Recruit Jim Carr",
+            "recordType": "RECORD_TYPE_NAME_CHANGE",
+            "recordDate": "2023-03-27",
+            "recordUid": "74630"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-04-03",
+            "recordUid": "75207"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-20",
+    "promotionDate": "2023-03-20",
+    "keycloakId": "46e08e34-189d-423a-a8d9-f2b0528511f4",
+    "discordId": "180078784014319616",
+    "lastForumPostDate": "2023-03-20 12:33:30"
+}

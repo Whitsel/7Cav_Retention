@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6913",
+        "username": "Hargrave.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "John Hargrave",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3368.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-23",
+            "recordUid": "99923"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-30",
+            "recordUid": "100689"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-23",
+    "promotionDate": "2024-04-23",
+    "keycloakId": "5f16d83f-8c5e-492e-8b67-0309b90be9bb",
+    "discordId": "",
+    "lastForumPostDate": "2024-04-21 19:30:48"
+}

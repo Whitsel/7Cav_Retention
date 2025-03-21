@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9081",
+        "username": "Vandal.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Tim Vandal",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4463.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 2/2/C/1-7",
+        "positionId": "310"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-10",
+            "recordUid": "124351"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry B/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-14",
+            "recordUid": "124638"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-10",
+    "promotionDate": "",
+    "keycloakId": "2bb23000-c797-4efa-9607-d1e3863869d6",
+    "discordId": "225440364444647434",
+    "lastForumPostDate": "2025-03-14 00:01:44"
+}

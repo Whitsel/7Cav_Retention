@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7115",
+        "username": "Falvey.G"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Grahame Falvey",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3476.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-22",
+            "recordUid": "102206"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102727"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-22",
+    "promotionDate": "",
+    "keycloakId": "7cadb6e6-bb1d-4fb3-ab6b-6234226b5af4",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-21 15:57:59"
+}

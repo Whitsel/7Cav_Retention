@@ -1,0 +1,718 @@
+{
+    "user": {
+        "userId": "226",
+        "username": "McKenzie.D"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Dylan McKenzie",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/480.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Returned from ELOA, Transferred and Assigned Reservist",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2021-01-27",
+            "recordUid": "836"
+        },
+        {
+            "recordDetails": "Placed on ELOA Due to Military Deployment",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2020-09-18",
+            "recordUid": "3073"
+        },
+        {
+            "recordDetails": "Relieved of Duties as S7 Arma 3 SOI Instructor, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-08-27",
+            "recordUid": "3075"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Reservist",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-08-26",
+            "recordUid": "3076"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-08-09",
+            "recordUid": "3233"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-08-09",
+            "recordUid": "3234"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Operation Canyon Run)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-08",
+            "recordUid": "3235"
+        },
+        {
+            "recordDetails": "Assigned S7 ARMA3 The Airborne School, Instructor as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-08-05",
+            "recordUid": "3236"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-08-04",
+            "recordUid": "3237"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-08-01",
+            "recordUid": "3238"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Operation Determination, Completed 1st Combat Jump)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-26",
+            "recordUid": "3239"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Advanced Individual Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-07-25",
+            "recordUid": "3240"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Airborne Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-07-24",
+            "recordUid": "3241"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Operation Peninsular Overture)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-18",
+            "recordUid": "3242"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Radio Communication Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-07-17",
+            "recordUid": "3243"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign Charcoal. Operation Piecemeal III)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-11",
+            "recordUid": "3244"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Individual Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-07-10",
+            "recordUid": "3245"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Air Assault Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-07-07",
+            "recordUid": "3246"
+        },
+        {
+            "recordDetails": "Assigned S7 ARMA3 School of Infantry, Instructor as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-07-05",
+            "recordUid": "3247"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Fallen Kingdom. Operation Shattered Gatehouse)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-05",
+            "recordUid": "3248"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S5 Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-07-01",
+            "recordUid": "3249"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign July Warfare Wednesday. Operation Warfare Wednesday 52)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-01",
+            "recordUid": "3250"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Operation Tailspin)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-28",
+            "recordUid": "3251"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Forsaken Fate Phase 3. Operation Rack Them Up)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-27",
+            "recordUid": "3252"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign June Warfare Wednesday. Operation Warfare Wednesday 51)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-24",
+            "recordUid": "3253"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign Undesirable Intrigue. Operation Shoot The Messenger)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-21",
+            "recordUid": "3254"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Operation Sand Snake Phase 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-20",
+            "recordUid": "3255"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Operation Anvil)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-31",
+            "recordUid": "3256"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Operation Urban Anvil)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-23",
+            "recordUid": "3257"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign May Warfare Wednesday. Operation Warfare Wednesday 45)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-13",
+            "recordUid": "3258"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Land Navigation Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-05-08",
+            "recordUid": "3259"
+        },
+        {
+            "recordDetails": "Assigned to S5 Live Streaming Department as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-05-05",
+            "recordUid": "3260"
+        },
+        {
+            "recordDetails": "Returned from ELOA, Transferred and Assigned Trooper B/1/C/1-7",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2020-05-04",
+            "recordUid": "3261"
+        },
+        {
+            "recordDetails": "Placed on Military ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2020-03-24",
+            "recordUid": "3262"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-03-13",
+            "recordUid": "3263"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign February Warfare Wednesdays. Operation Warfare Wednesday 33)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-19",
+            "recordUid": "3264"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign February Warfare Wednesdays. Operation Warfare Wednesday 32)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-12",
+            "recordUid": "3265"
+        },
+        {
+            "recordDetails": "Assigned to S5 Live Streaming Department as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-02-05",
+            "recordUid": "3266"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign February Warfare Wednesday. Operation Warfare Wednesday 31)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-05",
+            "recordUid": "3267"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Operation Longinus Spear)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-26",
+            "recordUid": "3268"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Road to Kavala, Operation First Contact)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-19",
+            "recordUid": "3269"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign January Warfare Wednesday, Operation Warfare Wednesday 28)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-15",
+            "recordUid": "3270"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-01-13",
+            "recordUid": "3271"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Private (E-2), Transferred and Assigned Airborne Infantryman B/1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-12-15",
+            "recordUid": "3272"
+        },
+        {
+            "recordDetails": "General Discharge with Eligibility for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2019-02-07",
+            "recordUid": "3273"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S1 Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2019-01-13",
+            "recordUid": "3274"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry D/2/F/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-01-12",
+            "recordUid": "3275"
+        },
+        {
+            "recordDetails": "Negative Counselling Statement - 30 days NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2019-01-15",
+            "recordUid": "3276"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry A/2/F/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-01-10",
+            "recordUid": "3277"
+        },
+        {
+            "recordDetails": "Assigned to S1 Operational Clerk as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2019-01-06",
+            "recordUid": "3278"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry B/2/F/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-01-04",
+            "recordUid": "3279"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Rat Race)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2019-01-04",
+            "recordUid": "3280"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation PS Sledgehammer)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-29",
+            "recordUid": "3281"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation Gunnerside)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-23",
+            "recordUid": "3282"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation Zur Freiheit)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-22",
+            "recordUid": "3283"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Schlossj\u00e4ger)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-21",
+            "recordUid": "3284"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Assault on Velmolen)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-16",
+            "recordUid": "3285"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign December WNPS, Operation Polish Incursion, Week 2 Battle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-12",
+            "recordUid": "3286"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2018-12-11",
+            "recordUid": "3287"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign December WNPS, Operation Polish Incursion, Week 1 Battle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-05",
+            "recordUid": "3288"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantryman A/2/F/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-12-02",
+            "recordUid": "3289"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign November WNPS, Operation Polish Incursion, Week 4 Battle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-11-28",
+            "recordUid": "3290"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantryman 4/SP/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-11-24",
+            "recordUid": "3291"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Weapons Infantryman D/1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-11-13",
+            "recordUid": "3292"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-11-11",
+            "recordUid": "3293"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-10-29",
+            "recordUid": "3294"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/3/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-28",
+            "recordUid": "20404"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Infantry D/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-30",
+            "recordUid": "20826"
+        },
+        {
+            "recordDetails": "Assigned RRD Squad Recruiter as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-03-30",
+            "recordUid": "20954"
+        },
+        {
+            "recordDetails": "Assigned RTC Drill Instructor in Training as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-03-29",
+            "recordUid": "20958"
+        },
+        {
+            "recordDetails": "Assigned Section Leader 4/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-04-02",
+            "recordUid": "21227"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Campaign Let Loose Tuesdays MAR21. Operation Trenched 'n Tuesday 30MAR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-30",
+            "recordUid": "25678"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader A/SQD/HHC",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-04-26",
+            "recordUid": "34042"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-05-17",
+            "recordUid": "35474"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "1545"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "1546"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "1547"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "1548"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "1549"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2018-11-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "1550"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2018-11-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "1551"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2018-11-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "1552"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2018-12-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "1553"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2018-12-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "1554"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "National Defense Service Medal",
+            "awardDate": "2018-12-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/30.jpg?1612676247",
+            "awardUid": "1555"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2018-12-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "1556"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2019-01-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "1557"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "WWII Service Ribbon",
+            "awardDate": "2019-01-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/46.jpg?1612676606",
+            "awardUid": "1558"
+        },
+        {
+            "awardDetails": "Operation Rat Race",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2019-01-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "1559"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2020-01-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "1560"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2020-02-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "1561"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2020-02-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "1562"
+        },
+        {
+            "awardDetails": "Operation Warfare Wednesday 31",
+            "awardName": "Bronze Star with Valor Device",
+            "awardDate": "2020-02-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/11.jpg?1612668108",
+            "awardUid": "1563"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2020-03-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "1564"
+        },
+        {
+            "awardDetails": "Campaign February Warfare Wednesdays",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-03-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "1565"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2020-05-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "1566"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2020-06-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "1567"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2020-06-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "1568"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Air Assault Badge",
+            "awardDate": "2020-07-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/86.jpg?1612678230",
+            "awardUid": "1569"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Parachutist Badge",
+            "awardDate": "2020-07-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/83.jpg?1612678149",
+            "awardUid": "1570"
+        },
+        {
+            "awardDetails": "Warfare Wednesday 52",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2020-07-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "1571"
+        },
+        {
+            "awardDetails": "Operation Urban Anvil",
+            "awardName": "Army Meritorious Unit Citation",
+            "awardDate": "2020-07-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/64.jpg?1612677213",
+            "awardUid": "1572"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "M-203 Sharpshooter",
+            "awardDate": "2020-08-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/113.jpg?1612850567",
+            "awardUid": "1573"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2020-08-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "1574"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Recoilless Rifle Expert",
+            "awardDate": "2020-08-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/120.jpg?1612850723",
+            "awardUid": "1575"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Machine Gun Sharpshooter",
+            "awardDate": "2020-08-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/116.jpg?1612850641",
+            "awardUid": "1576"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2021-04-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "12710"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2020-11-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "16996"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17376"
+        }
+    ],
+    "joinDate": "2018-10-29",
+    "promotionDate": "2021-03-28",
+    "keycloakId": "b62f64a8-6e47-4958-9ef0-9c1153e4104f",
+    "discordId": "501896493490372609",
+    "lastForumPostDate": "2021-05-17 22:03:56"
+}

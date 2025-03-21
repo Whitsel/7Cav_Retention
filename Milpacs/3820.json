@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7861",
+        "username": "Connor.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ryan Connor",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3820.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-08-19",
+            "recordUid": "109934"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-09-02",
+            "recordUid": "111073"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-08-19",
+    "promotionDate": "",
+    "keycloakId": "f07a18d9-11d4-41ba-bfcd-919821e1ac9d",
+    "discordId": "",
+    "lastForumPostDate": "2024-08-19 03:28:52"
+}

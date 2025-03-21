@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2528",
+        "username": "Wright.W"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Will Wright",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1393.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-14",
+            "recordUid": "49667"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-27",
+            "recordUid": "50770"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-13",
+    "promotionDate": "2022-02-13",
+    "keycloakId": "4e3038a7-d7ef-4eef-973d-8aafa2a56cb4",
+    "discordId": "",
+    "lastForumPostDate": "2022-02-13 22:03:00"
+}

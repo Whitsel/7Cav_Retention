@@ -1,0 +1,72 @@
+{
+    "user": {
+        "userId": "354",
+        "username": "Richards.N"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Nikolai Richards",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/274.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/2/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-01-25",
+            "recordUid": "314"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-01-18",
+            "recordUid": "786"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Devil's Den)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-31",
+            "recordUid": "13515"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation Brazilian Steel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "16095"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Hamburger Hill Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-06",
+            "recordUid": "17053"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22899"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17700"
+        }
+    ],
+    "joinDate": "2020-10-11",
+    "promotionDate": "2021-01-18",
+    "keycloakId": "3c603a71-ffbb-440d-b2f1-d47815e3edcf",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 21:43:54"
+}

@@ -1,0 +1,942 @@
+{
+    "user": {
+        "userId": "141",
+        "username": "Volkerson.A"
+    },
+    "rank": {
+        "rankShort": "AR",
+        "rankFull": "Reservist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/31.jpg?0",
+        "rankId": "31"
+    },
+    "realName": "Arthur Volkerson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/130.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Transferred and Assigned Reservist",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-12-06",
+            "recordUid": "1804"
+        },
+        {
+            "recordDetails": "Assigned MP Senior Staff as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-11-05",
+            "recordUid": "1805"
+        },
+        {
+            "recordDetails": "Promoted to Chief Warrant Officer 2 (W-2)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-08-05",
+            "recordUid": "1806"
+        },
+        {
+            "recordDetails": "Transferred and Assigned SPD Staff",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-08-05",
+            "recordUid": "1807"
+        },
+        {
+            "recordDetails": "Assigned NCOA Instructor as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2020-01-22",
+            "recordUid": "1808"
+        },
+        {
+            "recordDetails": "Assigned MP as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2019-07-14",
+            "recordUid": "1809"
+        },
+        {
+            "recordDetails": "Returned from Retirement, Transferred and Assigned Reservist",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-05-29",
+            "recordUid": "1810"
+        },
+        {
+            "recordDetails": "Retired from the 7th Cavalry Regiment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2019-02-25",
+            "recordUid": "1811"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Operation Iron Justice)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-12-08",
+            "recordUid": "1812"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-11-12",
+            "recordUid": "1813"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S5 Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2018-08-05",
+            "recordUid": "1814"
+        },
+        {
+            "recordDetails": "Relieved of Duties as Platoon Sergeant 1/E/1-7, Assigned NCOIC of Military Police as Primary Billet",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-07-25",
+            "recordUid": "1815"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant First Class (E-7)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2018-04-15",
+            "recordUid": "1816"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S3 Echo Co. Battle Staff - Failure to Meet Requirements",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2018-04-02",
+            "recordUid": "1817"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Operation Sandwasp)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-03-10",
+            "recordUid": "1818"
+        },
+        {
+            "recordDetails": "Assigned NCOIC of MP Department",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2018-03-10",
+            "recordUid": "1819"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-03-03",
+            "recordUid": "1820"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Operation KotH - Narva)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-12-09",
+            "recordUid": "1821"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Operation KotH - Fool's Road)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-21",
+            "recordUid": "1822"
+        },
+        {
+            "recordDetails": "Removed from Section Leader C/1/E/1-7 transferred and assigned Combat Trooper A/1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-10-12",
+            "recordUid": "1823"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Peregrine, Operation Wasted Years)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-07-09",
+            "recordUid": "1824"
+        },
+        {
+            "recordDetails": "Assigned to S3 Echo Co. Battle Staff as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-05-29",
+            "recordUid": "1825"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Section Leader C/1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-05-22",
+            "recordUid": "1826"
+        },
+        {
+            "recordDetails": "Assigned Senior Military Police",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-05-21",
+            "recordUid": "1827"
+        },
+        {
+            "recordDetails": "Assigned NCOIC of S5 Department",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-05-18",
+            "recordUid": "1828"
+        },
+        {
+            "recordDetails": "Assigned Full MP Status",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-05-15",
+            "recordUid": "1829"
+        },
+        {
+            "recordDetails": "Returned from ELOA, Transferred and Assigned Combat Trooper A/1/E/1-7",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2017-05-16",
+            "recordUid": "1830"
+        },
+        {
+            "recordDetails": "ELOA Extension",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2017-04-16",
+            "recordUid": "1831"
+        },
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2017-02-08",
+            "recordUid": "1832"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 1/E/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-02-04",
+            "recordUid": "1833"
+        },
+        {
+            "recordDetails": "Graduated INS Advanced Individual Training (AIT Phase II)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-11-19",
+            "recordUid": "1834"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign KotH, Operation Fool's Road)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-11-04",
+            "recordUid": "1835"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign Eagle, Operation Black Line)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-10-28",
+            "recordUid": "1836"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Band of Brothers, Operation Aggregat - Part 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-10-22",
+            "recordUid": "1837"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Band of Brothers, Operation Aggregat - Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-09-18",
+            "recordUid": "1838"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 1/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-09-13",
+            "recordUid": "1839"
+        },
+        {
+            "recordDetails": "Assigned to S3 B/2-7 (Squad) Battle Staff as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2016-09-09",
+            "recordUid": "1840"
+        },
+        {
+            "recordDetails": "Assigned Section Leader B/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-09-05",
+            "recordUid": "1841"
+        },
+        {
+            "recordDetails": "Voluntary Reduction in Rank to Staff Sergeant (E-6), Transferred and Assigned Combat Trooper 2/2/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-07-31",
+            "recordUid": "1842"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Band of Brothers, Operation Bastogne - Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-07-24",
+            "recordUid": "1843"
+        },
+        {
+            "recordDetails": "Assigned Senior Military Police",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2016-07-05",
+            "recordUid": "1844"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation Ballistic Missive)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-06-19",
+            "recordUid": "1845"
+        },
+        {
+            "recordDetails": "Assigned NCOIC of S5 Department",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2016-05-27",
+            "recordUid": "1846"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Eagle, Operation North Alley)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-03-25",
+            "recordUid": "1847"
+        },
+        {
+            "recordDetails": "Promoted to First Sergeant (E-8)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2016-03-24",
+            "recordUid": "1848"
+        },
+        {
+            "recordDetails": "Graduated SQUAD Basic Assault Movement Course, Class 018/03/16",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2016-03-18",
+            "recordUid": "1849"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Company First Sergeant C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2016-02-18",
+            "recordUid": "1850"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation Dracula)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2016-01-29",
+            "recordUid": "1851"
+        },
+        {
+            "recordDetails": "Assigned to S5 Staff Lead As Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2015-11-20",
+            "recordUid": "1852"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 1/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2015-10-19",
+            "recordUid": "1853"
+        },
+        {
+            "recordDetails": "Relieved of Duties as 2nd Battalion S3 Battle Staff Lead, per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2015-10-18",
+            "recordUid": "1854"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Mongoose, Operation Badlands)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-10-16",
+            "recordUid": "1855"
+        },
+        {
+            "recordDetails": "Promoted to Staff Sergeant (E-6)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2015-10-08",
+            "recordUid": "1856"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Rising Phoenix, Operation Warhead)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-09-12",
+            "recordUid": "1857"
+        },
+        {
+            "recordDetails": "Assigned 2nd Battalion S3 Battle Staff Lead",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2015-09-02",
+            "recordUid": "1858"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Backtrack)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-08-28",
+            "recordUid": "1859"
+        },
+        {
+            "recordDetails": "Assigned as S3 2nd Battalion Battle Staff Assistant Lead as Additional Duty",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-08-22",
+            "recordUid": "1860"
+        },
+        {
+            "recordDetails": "Assigned S5 Public Relations Lead as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2015-07-25",
+            "recordUid": "1861"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Longest Day)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-07-17",
+            "recordUid": "1862"
+        },
+        {
+            "recordDetails": "Completed MP Training, Assigned Full MP Status",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-06-30",
+            "recordUid": "1863"
+        },
+        {
+            "recordDetails": "Selected as MP (In Training)",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2015-05-28",
+            "recordUid": "1864"
+        },
+        {
+            "recordDetails": "Graduated INSURGENCY Basic Assault Movement Course, Class 003/05/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-05-23",
+            "recordUid": "1865"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Phoenix, Operation Fallen Eagle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-05-15",
+            "recordUid": "1866"
+        },
+        {
+            "recordDetails": "Graduated Insurgency Basic Radio Communication Course, Class 002/04/15",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2015-04-20",
+            "recordUid": "1867"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2015-04-05",
+            "recordUid": "1868"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Phoenix, Operation Clean Sweep)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2015-02-06",
+            "recordUid": "1869"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Squad Leader 2/1/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2015-01-27",
+            "recordUid": "1870"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2014-11-13",
+            "recordUid": "1871"
+        },
+        {
+            "recordDetails": "Completed Advanced Individual Training (INS AIT Phase I), Class 045/11/14",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2014-11-08",
+            "recordUid": "1872"
+        },
+        {
+            "recordDetails": "Relieved of duties in S1 Milpacs Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-10-03",
+            "recordUid": "1873"
+        },
+        {
+            "recordDetails": "Assigned A-FTL 2/1/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-09-13",
+            "recordUid": "1874"
+        },
+        {
+            "recordDetails": "Assigned S3 B/2-7 Battle Staff Clerk",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-09-13",
+            "recordUid": "1875"
+        },
+        {
+            "recordDetails": "Assigned to S5 Public Relations as Additional Dut",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-09-10",
+            "recordUid": "1876"
+        },
+        {
+            "recordDetails": "Transferred and Assigned B-FTL 2/1/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-08-18",
+            "recordUid": "1877"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper 2/4/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-07-26",
+            "recordUid": "1878"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2014-07-13",
+            "recordUid": "1879"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Needle in a Haystack)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2014-07-11",
+            "recordUid": "1880"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Class 05/06/12",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2014-07-06",
+            "recordUid": "1881"
+        },
+        {
+            "recordDetails": "Assigned to S1 Milpacs Department as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2014-06-25",
+            "recordUid": "1882"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2014-05-14",
+            "recordUid": "1883"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/4/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-04-14",
+            "recordUid": "1884"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2014-04-14",
+            "recordUid": "1885"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp 014/04/14",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2014-04-04",
+            "recordUid": "1886"
+        },
+        {
+            "recordDetails": "Assigned MP Lead Administrator as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-02-28",
+            "recordUid": "9285"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Day NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2022-10-19",
+            "recordUid": "65019"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Day NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2022-12-02",
+            "recordUid": "67770"
+        },
+        {
+            "recordDetails": "Relieved of Duties as MP Administrator",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2022-12-02",
+            "recordUid": "67779"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-12-02",
+            "recordUid": "67903"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "720"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "722"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "723"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "724"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "725"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2014-04-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "728"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2014-07-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "729"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Defense Superior Service Medal",
+            "awardDate": "2014-08-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/7.jpg?1612668017",
+            "awardUid": "730"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2014-08-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "731"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Outstanding Volunteer Service Medal",
+            "awardDate": "2014-09-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/37.jpg?1612676426",
+            "awardUid": "732"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2015-04-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "733"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2015-04-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "734"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Rifle Sharpshooter",
+            "awardDate": "2015-04-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/101.jpg?1612850250",
+            "awardUid": "736"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Assault Course Ribbon",
+            "awardDate": "2015-05-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/54.jpg?1612676882",
+            "awardUid": "737"
+        },
+        {
+            "awardDetails": "Operation Fallen Eagle",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2015-06-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "738"
+        },
+        {
+            "awardDetails": "Operation Fallen Eagle",
+            "awardName": "Purple Heart",
+            "awardDate": "2015-06-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/13.jpg?1612668156",
+            "awardUid": "739"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2015-08-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "740"
+        },
+        {
+            "awardDetails": "For S5 11MAR15 - 11SEP15",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2015-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "742"
+        },
+        {
+            "awardDetails": "For S3 14MAR15 - 14SEP15",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2015-09-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "743"
+        },
+        {
+            "awardDetails": "Campaign Rising Phoenix",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2015-09-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "745"
+        },
+        {
+            "awardDetails": "Staff Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2015-10-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "747"
+        },
+        {
+            "awardDetails": "For MP 22MAY15 - 22NOV15",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2015-11-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "749"
+        },
+        {
+            "awardDetails": "For S5 11SEP14 - 11MAR15",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2015-03-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "752"
+        },
+        {
+            "awardDetails": "For S5 Dept. 11SEP15 - 11MAR16",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-03-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "753"
+        },
+        {
+            "awardDetails": "For S3 Dept. 14SEP15 - 14MAR16",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-03-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "754"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Machine Gun Expert",
+            "awardDate": "2016-03-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/117.jpg?1612850659",
+            "awardUid": "755"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "M-203 Marksman",
+            "awardDate": "2016-03-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/112.jpg?1612850545",
+            "awardUid": "756"
+        },
+        {
+            "awardDetails": "First Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2016-03-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "757"
+        },
+        {
+            "awardDetails": "1st Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2016-04-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "759"
+        },
+        {
+            "awardDetails": "For MP Dept. 22NOV15 - 22MAY16",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-05-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "760"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2016-06-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "762"
+        },
+        {
+            "awardDetails": "Operation Bastogne Part I",
+            "awardName": "Bronze Star",
+            "awardDate": "2016-07-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "763"
+        },
+        {
+            "awardDetails": "For S5 Dept 11 MAR 2016 - 11 SEPT 2016",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-09-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "765"
+        },
+        {
+            "awardDetails": "For S3 Dept 14 MAR 2016 TO 14 SEPT 2016",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-09-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "767"
+        },
+        {
+            "awardDetails": "Operation Aggregat Part I",
+            "awardName": "Purple Heart",
+            "awardDate": "2016-10-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/13.jpg?1612668156",
+            "awardUid": "768"
+        },
+        {
+            "awardDetails": "Operation Aggregat Part I",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2016-10-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "770"
+        },
+        {
+            "awardDetails": "Operation Aggregat Part II",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2016-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "771"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2016-11-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "773"
+        },
+        {
+            "awardDetails": "For MP Dept. 22MAY16 - 22NOV16",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2016-11-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "775"
+        },
+        {
+            "awardDetails": "2nd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2017-07-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "777"
+        },
+        {
+            "awardDetails": "For MP Dept. 16MAY17 - 16NOV17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-11-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "778"
+        },
+        {
+            "awardDetails": "For S5 Dept. 18MAY17 - 18NOV17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-11-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "779"
+        },
+        {
+            "awardDetails": "For S3 Dept. 29MAY17 - 29NOV17",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2017-11-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "781"
+        },
+        {
+            "awardDetails": "MP Department",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2018-01-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "782"
+        },
+        {
+            "awardDetails": "Sergeant First Class Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2018-04-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "783"
+        },
+        {
+            "awardDetails": "For MP Dept. 16NOV17 - 16MAY18",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2018-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "785"
+        },
+        {
+            "awardDetails": "For S5 Dept. 18NOV17 - 18MAY18",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2018-05-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "786"
+        },
+        {
+            "awardDetails": "3rd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2018-07-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "787"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2018-12-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "789"
+        },
+        {
+            "awardDetails": "Military Police - Trooper of the Month - September 2019",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2019-10-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "791"
+        },
+        {
+            "awardDetails": "For MP Dept. 14JUL19 - 14JUL20",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2020-07-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "792"
+        },
+        {
+            "awardDetails": "MP Department",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2020-10-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "794"
+        },
+        {
+            "awardDetails": "MP Dept. FY2020",
+            "awardName": "Legion of Merit",
+            "awardDate": "2020-12-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/8.jpg?1612668040",
+            "awardUid": "796"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17023"
+        },
+        {
+            "awardDetails": "MP Dept.",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2022-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "27973"
+        }
+    ],
+    "joinDate": "2014-04-05",
+    "promotionDate": "2020-08-05",
+    "keycloakId": "d0586b50-f8e8-42ae-83b5-a6fcefeaf55d",
+    "discordId": "",
+    "lastForumPostDate": "2022-12-02 12:29:48"
+}

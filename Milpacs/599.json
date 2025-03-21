@@ -1,0 +1,91 @@
+{
+    "user": {
+        "userId": "695",
+        "username": "Mazzocchi.A"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Alex Mazzocchi",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/599.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 50th Combat Mission (Campaign Let Loose Tuesdays FEB21. Operation Trenched n Tuesday 03FEB2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-03",
+            "recordUid": "13532"
+        },
+        {
+            "recordDetails": "Completed 51st Combat Mission (Operation Last Minute)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-14",
+            "recordUid": "14800"
+        },
+        {
+            "recordDetails": "Completed 52nd Combat Mission (Operation Moshtarak)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-20",
+            "recordUid": "18441"
+        },
+        {
+            "recordDetails": "Completed 53rd Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20738"
+        },
+        {
+            "recordDetails": "Completed 54th Combat Mission (Campaign Let Loose Tuesdays MAR21. Operation Trenched 'n Tuesday 23MAR2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-23",
+            "recordUid": "20830"
+        },
+        {
+            "recordDetails": "Completed 55th Combat Mission (Operation Wednesday Night Squad 24MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-24",
+            "recordUid": "20970"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper 4/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-04-01",
+            "recordUid": "21206"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment 01OCT21",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22951"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Operation Stackin Bodies 2103",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2021-03-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "8302"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17664"
+        }
+    ],
+    "joinDate": "2020-07-24",
+    "promotionDate": "2020-10-24",
+    "keycloakId": "0f90010f-eef8-45bc-8ae1-7f125f5e9842",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1489",
+        "username": "Dmitry.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Max Dmitry",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/916.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-06-28",
+            "recordUid": "37590"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-07-20",
+            "recordUid": "38686"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-06-28",
+    "promotionDate": "2021-06-28",
+    "keycloakId": "f267de68-6bdf-4d76-990f-25e527cbc8a8",
+    "discordId": "611332011423956993",
+    "lastForumPostDate": "2022-07-27 21:52:54"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5166",
+        "username": "Love.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ryan Love",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2581.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-22",
+            "recordUid": "80272"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-03",
+            "recordUid": "81057"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-06-22",
+    "promotionDate": "2023-06-22",
+    "keycloakId": "dc4e6411-13c6-4783-9c1c-0cbef0e33957",
+    "discordId": "",
+    "lastForumPostDate": "2023-06-18 23:13:53"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3472",
+        "username": "Gayle.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Chayce Gayle",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1789.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-07",
+            "recordUid": "59944"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-14",
+            "recordUid": "60593"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-07",
+    "promotionDate": "2022-08-07",
+    "keycloakId": "1b025413-7dca-4a2b-a172-0f0ddebadb67",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-06 21:43:21"
+}

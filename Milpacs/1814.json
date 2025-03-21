@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3526",
+        "username": "Kina.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Sam Kina",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1814.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-13",
+            "recordUid": "60386"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61439"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-13",
+    "promotionDate": "2022-08-13",
+    "keycloakId": "928157ee-0985-4343-9338-4897cdff8130",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-13 02:13:35"
+}

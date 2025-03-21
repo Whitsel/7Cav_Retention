@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3153",
+        "username": "Drake.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Hunter Drake",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1651.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-10",
+            "recordUid": "56583"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-06-26",
+            "recordUid": "57843"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-10",
+    "promotionDate": "2022-06-10",
+    "keycloakId": "e9d4ad70-891d-4c25-ba05-5481886291bd",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-09 11:35:19"
+}

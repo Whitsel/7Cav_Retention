@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5921",
+        "username": "Kinser.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mike Kinser",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2924.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-11-12",
+            "recordUid": "89152"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-11-27",
+            "recordUid": "90426"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-11-11",
+    "promotionDate": "2023-11-11",
+    "keycloakId": "04267664-de7e-4394-bd2b-769ba508a9be",
+    "discordId": "",
+    "lastForumPostDate": "2023-11-04 19:46:33"
+}

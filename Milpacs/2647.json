@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5308",
+        "username": "Leaf.W"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Walker Leaf",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2647.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-07-18",
+            "recordUid": "81896"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-31",
+            "recordUid": "82734"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-07-17",
+    "promotionDate": "2023-07-17",
+    "keycloakId": "cd5c7265-f11d-402e-8ba6-870b83a11f4a",
+    "discordId": "",
+    "lastForumPostDate": "2023-07-13 20:58:39"
+}

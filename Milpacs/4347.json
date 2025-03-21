@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8836",
+        "username": "Tremayne.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mark Tremayne",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4347.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-11",
+            "recordUid": "122208"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-26",
+            "recordUid": "123474"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-11",
+    "promotionDate": "",
+    "keycloakId": "cae67b5b-0ba9-443f-b7f8-c25a8c307a60",
+    "discordId": "",
+    "lastForumPostDate": "2025-02-08 22:17:39"
+}

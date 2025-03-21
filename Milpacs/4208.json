@@ -1,0 +1,46 @@
+{
+    "user": {
+        "userId": "8590",
+        "username": "Thorpe.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Eddy Thorpe",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4208.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Dishonorably Discharged",
+        "positionId": "529"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-14",
+            "recordUid": "119894"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-15",
+            "recordUid": "120005"
+        },
+        {
+            "recordDetails": "Dishonorable Discharge - Not eligible for re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-01-21",
+            "recordUid": "120419"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-01-14",
+    "promotionDate": "",
+    "keycloakId": "7a471e60-5943-4296-9be1-ed740b515329",
+    "discordId": "",
+    "lastForumPostDate": "2025-01-15 22:14:58"
+}

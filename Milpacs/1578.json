@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2958",
+        "username": "Lee.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Tristen Lee",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1578.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-05-12",
+            "recordUid": "54912"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-05-23",
+            "recordUid": "55578"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-05-11",
+    "promotionDate": "2022-05-11",
+    "keycloakId": "b994a109-4537-4bcd-a404-2167048eea70",
+    "discordId": "",
+    "lastForumPostDate": "2022-05-10 22:13:55"
+}

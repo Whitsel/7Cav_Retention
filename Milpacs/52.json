@@ -1,0 +1,42 @@
+{
+    "user": {
+        "userId": "311",
+        "username": "Seaman.B"
+    },
+    "rank": {
+        "rankShort": "2LT",
+        "rankFull": "Second Lieutenant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/11.jpg?1741379578",
+        "rankId": "11"
+    },
+    "realName": "Blake Seaman",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/52.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Retired",
+        "positionId": "525"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Retired from the 7th Cavalry Regiment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-01-16",
+            "recordUid": "815"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17105"
+        }
+    ],
+    "joinDate": "2014-09-23",
+    "promotionDate": "2020-09-12",
+    "keycloakId": "91a6f85a-0f9e-4364-81dc-93f5faaee001",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-09 14:22:32"
+}

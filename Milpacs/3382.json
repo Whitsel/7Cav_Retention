@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6983",
+        "username": "Reynolds.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "David Reynolds",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3382.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-30",
+            "recordUid": "100539"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-13",
+            "recordUid": "101739"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-30",
+    "promotionDate": "",
+    "keycloakId": "b47502fb-d1dc-4e39-8cc3-05ad69539daf",
+    "discordId": "",
+    "lastForumPostDate": "2024-04-29 21:39:35"
+}

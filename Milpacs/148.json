@@ -1,0 +1,118 @@
+{
+    "user": {
+        "userId": "300",
+        "username": "Katsu.I"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Inoue Katsu",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/148.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Retired",
+        "positionId": "525"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Retired from the 7th Cavalry Regiment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-24",
+            "recordUid": "7939"
+        },
+        {
+            "recordDetails": "Completed 206th Combat Mission (Campaign January ODA Friday. Operation ODA Friday 01)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-22",
+            "recordUid": "12947"
+        },
+        {
+            "recordDetails": "Completed 207th Combat Mission (Campaign January ODA Friday. Operation ODA Friday 02)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-29",
+            "recordUid": "13156"
+        },
+        {
+            "recordDetails": "Completed 208th Combat Mission (Operation Mistwalker)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-31",
+            "recordUid": "13294"
+        },
+        {
+            "recordDetails": "Completed 209th Combat Mission (Campaign Febuary ODA Friday. Operation ODA Friday 03)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-05",
+            "recordUid": "13493"
+        },
+        {
+            "recordDetails": "Completed 210th Combat Mission (Campaign Febuary ODA Friday. Operation ODA Friday 04)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-12",
+            "recordUid": "14660"
+        },
+        {
+            "recordDetails": "Completed 211th Combat Mission (Operation Rocky Start)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-13",
+            "recordUid": "14726"
+        },
+        {
+            "recordDetails": "Completed 212th Combat Mission (Campaign Febuary ODA Friday. Operation ODA Friday 05)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-19",
+            "recordUid": "15865"
+        },
+        {
+            "recordDetails": "Completed 213th Combat Mission (Campaign Panjshir V. Operation Mauze)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "15981"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Campaign Boiler Plate",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-10-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "7931"
+        },
+        {
+            "awardDetails": "Campaign Febuary ODA Friday",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-02-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "7990"
+        },
+        {
+            "awardDetails": "Operation Artificial Insolence",
+            "awardName": "Prisoner of War Medal",
+            "awardDate": "2021-05-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/22.jpg?1612674621",
+            "awardUid": "16794"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Cavalry Centurion Medal",
+            "awardDate": "2020-10-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/41.jpg?1612676506",
+            "awardUid": "16798"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17363"
+        }
+    ],
+    "joinDate": "2014-06-08",
+    "promotionDate": "2020-12-14",
+    "keycloakId": "a41fd728-03f7-4c27-a51b-e2c650770077",
+    "discordId": "221754626871918593",
+    "lastForumPostDate": "2021-05-10 07:26:10"
+}

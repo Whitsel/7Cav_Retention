@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3865",
+        "username": "Link.K"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Kane Link",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1966.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-05",
+            "recordUid": "63276"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-24",
+            "recordUid": "65718"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-10-05",
+    "promotionDate": "2022-10-05",
+    "keycloakId": "49b1ca41-395e-4093-b55a-e4e471de00c6",
+    "discordId": "",
+    "lastForumPostDate": "2022-10-01 01:11:53"
+}

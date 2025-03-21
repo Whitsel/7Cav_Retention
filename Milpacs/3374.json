@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6930",
+        "username": "Moore.K"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Kris Moore",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3374.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-24",
+            "recordUid": "99988"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-06",
+            "recordUid": "101096"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-24",
+    "promotionDate": "2024-04-24",
+    "keycloakId": "dae3ef09-452a-4980-bfc8-243b9d0ebc4d",
+    "discordId": "441498697600073738",
+    "lastForumPostDate": "2024-04-22 22:51:10"
+}

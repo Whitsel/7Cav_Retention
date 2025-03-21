@@ -1,0 +1,46 @@
+{
+    "user": {
+        "userId": "5772",
+        "username": "Mort.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Higgins Mort",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2838.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-13",
+            "recordUid": "86899"
+        },
+        {
+            "recordDetails": "Name Change Approved: Recruit Mort Higgins will be known as Recruit Higgins Mort",
+            "recordType": "RECORD_TYPE_NAME_CHANGE",
+            "recordDate": "2023-10-16",
+            "recordUid": "87271"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-24",
+            "recordUid": "88135"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-12",
+    "promotionDate": "2023-10-12",
+    "keycloakId": "97be7339-c36b-45b2-afba-4a37d6cae202",
+    "discordId": "",
+    "lastForumPostDate": "2023-10-10 18:50:33"
+}

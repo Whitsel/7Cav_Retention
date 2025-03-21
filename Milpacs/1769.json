@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3427",
+        "username": "Jensen.DM"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Dane Michael Jensen",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1769.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-05",
+            "recordUid": "59771"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61432"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-04",
+    "promotionDate": "2022-08-04",
+    "keycloakId": "ae81077c-4168-44bd-9825-55cff8af03c8",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-01 22:44:02"
+}

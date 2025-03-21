@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3518",
+        "username": "Redman.P"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Patrick Redman",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1810.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-13",
+            "recordUid": "60382"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-09-07",
+            "recordUid": "62077"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-13",
+    "promotionDate": "2022-08-13",
+    "keycloakId": "42511ffb-b5e8-4106-9492-ab4dbdaf7291",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-11 22:27:03"
+}

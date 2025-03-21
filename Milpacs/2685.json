@@ -1,0 +1,52 @@
+{
+    "user": {
+        "userId": "5310",
+        "username": "Payne.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mario Payne",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2685.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-08-03",
+            "recordUid": "82756"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-08-14",
+            "recordUid": "83584"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Recruit, Transferred and Assigned HLL PC RTC",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-08-27",
+            "recordUid": "84118"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-18",
+            "recordUid": "85517"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-08-02",
+    "promotionDate": "2023-08-02",
+    "keycloakId": "675852ef-62c2-448f-aeec-09f9df138c70",
+    "discordId": "",
+    "lastForumPostDate": "2023-08-31 19:58:02"
+}

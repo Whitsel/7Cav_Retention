@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4443",
+        "username": "Martinez.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mark Martinez",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2250.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-03",
+            "recordUid": "70664"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-02-14",
+            "recordUid": "71410"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-02-02",
+    "promotionDate": "2023-02-02",
+    "keycloakId": "35edfd4d-f27a-4ced-8b52-1636d5a72354",
+    "discordId": "",
+    "lastForumPostDate": "2023-01-30 21:58:57"
+}

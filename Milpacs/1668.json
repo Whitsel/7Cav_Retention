@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3188",
+        "username": "Cordi.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mason Cordi",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1668.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-16",
+            "recordUid": "57227"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-06-26",
+            "recordUid": "57837"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-16",
+    "promotionDate": "2022-06-16",
+    "keycloakId": "96af13f1-a610-49fc-84d1-4e291ce06be2",
+    "discordId": "709426470967312524",
+    "lastForumPostDate": "2022-06-14 17:12:00"
+}

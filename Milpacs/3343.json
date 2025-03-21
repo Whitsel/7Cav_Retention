@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5814",
+        "username": "Atkins.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Dave Atkins",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3343.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-15",
+            "recordUid": "99212"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-04-30",
+            "recordUid": "100694"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-15",
+    "promotionDate": "2024-04-15",
+    "keycloakId": "329f5a6b-47c3-4543-97d9-041929e76d7b",
+    "discordId": "269193449830481923",
+    "lastForumPostDate": "2024-04-14 14:26:35"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "9069",
+        "username": "Clay.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ryan Clay",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4466.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 3/2/B/ACD",
+        "positionId": "620"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-11",
+            "recordUid": "124384"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-13",
+            "recordUid": "124582"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-03-11",
+    "promotionDate": "",
+    "keycloakId": "9cf0947e-cd05-4b4e-ac32-590cc1c268bd",
+    "discordId": "1210492599425830933",
+    "lastForumPostDate": "2025-03-13 16:10:05"
+}

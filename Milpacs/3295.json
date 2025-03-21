@@ -1,0 +1,255 @@
+{
+    "user": {
+        "userId": "6765",
+        "username": "Rossi.C"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Carson Rossi",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3295.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/1/A/1-7",
+        "positionId": "203"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-01",
+            "recordUid": "98416"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Rotary Pilot in Training A/1/A/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-06",
+            "recordUid": "98496"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-04-07",
+            "recordUid": "98706"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign April 2024 WFW. Operation Warfare Wednesday 233)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-10",
+            "recordUid": "99437"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Swift Freedom)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-21",
+            "recordUid": "100412"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Return To The Persian Gulf. Operation Tripwire Day 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-27",
+            "recordUid": "100876"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-05-07",
+            "recordUid": "101401"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Dire Straits. Operation Boomerang)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-11",
+            "recordUid": "101911"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Solano. Operation Cedar Light)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-01",
+            "recordUid": "103763"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Guadalajara. Operation Cancun)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-16",
+            "recordUid": "105231"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation July 6 Saturday Night Throwdown)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-06",
+            "recordUid": "106679"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-07-06",
+            "recordUid": "106821"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Black Bear 24. Operation Chemical Reaction 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-27",
+            "recordUid": "108387"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Persian Gulf Deployment. Operation Claymore)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-28",
+            "recordUid": "108477"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Constantine II. Operation Brass Vanguard)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-09",
+            "recordUid": "113047"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation Cyan Trigger)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-21",
+            "recordUid": "114104"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Operation Losefast Winslow)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-13",
+            "recordUid": "115929"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Iron Horse. Operation Terminus)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-11",
+            "recordUid": "120151"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign Iron Horse. Operation Wing Hussars)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-02-09",
+            "recordUid": "122619"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2024-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "53447"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Rifle Marksman",
+            "awardDate": "2024-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/100.jpg?1612850222",
+            "awardUid": "53669"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2024-04-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "53670"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "53691"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "53709"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "53727"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "53745"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "53763"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "53781"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2024-04-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "54316"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2024-06-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "57593"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "DCS World Service Ribbon",
+            "awardDate": "2024-07-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/130.jpg?1668019648",
+            "awardUid": "59076"
+        },
+        {
+            "awardDetails": "Operation Steam Hammer",
+            "awardName": "Air Medal",
+            "awardDate": "2024-09-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/16.jpg?1612668390",
+            "awardUid": "61910"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Aeroweapons Expert",
+            "awardDate": "2024-09-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/111.jpg?1612850509",
+            "awardUid": "61970"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2024-09-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "62845"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2024-10-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "63888"
+        }
+    ],
+    "joinDate": "2024-04-01",
+    "promotionDate": "2024-07-06",
+    "keycloakId": "f34267b6-b9a9-4140-88c7-ef9f1c0b5007",
+    "discordId": "521172126112415745",
+    "lastForumPostDate": "2025-03-16 23:53:51"
+}

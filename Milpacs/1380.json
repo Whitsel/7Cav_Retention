@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2478",
+        "username": "Anthony.W"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "William Anthony",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1380.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-07",
+            "recordUid": "49314"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-21",
+            "recordUid": "50340"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-07",
+    "promotionDate": "2022-02-07",
+    "keycloakId": "444de792-5349-4ec1-91ef-14e42e06973f",
+    "discordId": "",
+    "lastForumPostDate": "2022-02-08 02:13:42"
+}

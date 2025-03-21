@@ -1,0 +1,633 @@
+{
+    "user": {
+        "userId": "847",
+        "username": "Miller.A"
+    },
+    "rank": {
+        "rankShort": "SGT",
+        "rankFull": "Sergeant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/18.jpg?1741376797",
+        "rankId": "18"
+    },
+    "realName": "Andrew Miller",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1039.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Assigned Section Leader B/3/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-06-24",
+            "recordUid": "42094"
+        },
+        {
+            "recordDetails": "Assigned to S1 Uniforms as Additional Duty",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2017-11-16",
+            "recordUid": "42095"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp 032/08/17",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-08-09",
+            "recordUid": "42096"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Airborne Course, Class 022/06/18",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-05-29",
+            "recordUid": "42097"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Explosive Ordnance Disposal Course, Class 030/07/18",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-07-22",
+            "recordUid": "42098"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Basic Individual Training Course, Class 034/08/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-08-19",
+            "recordUid": "42099"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Combat Lifesaver Course, Class 009/03/18",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-03-03",
+            "recordUid": "42100"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Indirect Fire Infantryman Course, Class 010/03/18",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-03-08",
+            "recordUid": "42101"
+        },
+        {
+            "recordDetails": "Graduated ARMA3 Infantry Heavy Weapons Course, Class 045/11/17",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-11-05",
+            "recordUid": "42102"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2017-08-13",
+            "recordUid": "42103"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course, Class 02*02-18",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2018-03-17",
+            "recordUid": "42104"
+        },
+        {
+            "recordDetails": "Honorable Discharge with Eligibility for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2018-12-18",
+            "recordUid": "42105"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2018-04-15",
+            "recordUid": "42106"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2017-09-12",
+            "recordUid": "42107"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2018-08-15",
+            "recordUid": "42108"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2017-11-11",
+            "recordUid": "42109"
+        },
+        {
+            "recordDetails": "Relieved from Section Leader B/3/C/1-7, Reduction in Rank to Corporal (E-4), Assigned Trooper B/3/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2018-12-15",
+            "recordUid": "42296"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S1 Department, Per Request",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2018-08-20",
+            "recordUid": "42297"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Weapons Infantryman B/3/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2017-08-22",
+            "recordUid": "42298"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation Hiking Trip)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-28",
+            "recordUid": "42299"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation Wild Gears)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-31",
+            "recordUid": "42300"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Volsunga, Operation Sigurd)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-11-08",
+            "recordUid": "42301"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Hiking Trip, Operation Hiking Trip Part 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-11-08",
+            "recordUid": "42302"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation Giant's Bane)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-11-18",
+            "recordUid": "42304"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Avalanche, Operation Vimoto)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-11-21",
+            "recordUid": "42305"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Operation Pandora Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-11-26",
+            "recordUid": "42306"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Operation Fever Dream Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-12-02",
+            "recordUid": "42307"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Big Horn, Operation Hydra Mage)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-12-06",
+            "recordUid": "42308"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Operation Ground Take)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-12-16",
+            "recordUid": "42309"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Nessus Blood, Operation Slow Burn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-08-23",
+            "recordUid": "42310"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign Volsunga, Operation Andvaranaut)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-12-17",
+            "recordUid": "42311"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Operation Kandar Kush)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-12-22",
+            "recordUid": "42312"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Operation Silk Cloud)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-01-27",
+            "recordUid": "42313"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Operation High Ball)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-02-03",
+            "recordUid": "42314"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Juniper Spear, Operation Dealbreaker)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-02-10",
+            "recordUid": "42315"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Juniper Spear, Operation Deliverance)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-02-17",
+            "recordUid": "42316"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Operation FNF|2018/2/23)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-02-23",
+            "recordUid": "42317"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Operation Palm Crescent)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-02-25",
+            "recordUid": "42318"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Juniper Spear, Operation Window Shopping)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-03-10",
+            "recordUid": "42319"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Campaign Juniper Spear Phase 2, Operation Cutoff)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-03-24",
+            "recordUid": "42320"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Nessus Blood, Operation Able Puncture)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-09-06",
+            "recordUid": "42321"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Campaign Juniper Spear Phase 2, Operation Indignant Hail)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-04-07",
+            "recordUid": "42322"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Operation Red Redemption)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-04-15",
+            "recordUid": "42323"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Sunday Night Squad April 2018, Operation Week 2 Battle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-04-15",
+            "recordUid": "42324"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Operation Lightning Dagger)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-04-22",
+            "recordUid": "42325"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Juniper Spear Phase 2, Operation Broken Desert Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-05-12",
+            "recordUid": "42326"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Campaign Juniper Spear Phase 2, Operation Python Strangle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-05-26",
+            "recordUid": "42327"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Operation Long Night), Completed 1st Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-06-02",
+            "recordUid": "42328"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Operation Low Speed), Completed 2nd Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-06-03",
+            "recordUid": "42329"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Operation Steel Rebirth)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-06-09",
+            "recordUid": "42330"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Campaign War Games, Operation Chapter 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-06-20",
+            "recordUid": "42331"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation Thundering Herd)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-09-17",
+            "recordUid": "42332"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Brass Pillar, Operation Amethyst Brandy), Completed 3rd Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-07-07",
+            "recordUid": "42333"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Campaign Brass Pillar, Operation Moonstone Angel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-07-21",
+            "recordUid": "42334"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Operation Comet Impact)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-07-28",
+            "recordUid": "42335"
+        },
+        {
+            "recordDetails": "Completed 43rd Combat Mission (Campaign Brass Pillar, Operation Jade Crystal)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-08-11",
+            "recordUid": "42336"
+        },
+        {
+            "recordDetails": "Completed 44th Combat Mission (Campaign Brass Pillar, Operation Emerald Scarlett)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-08-18",
+            "recordUid": "42337"
+        },
+        {
+            "recordDetails": "Completed 45th Combat Mission (Operation Seven steeds)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-09-01",
+            "recordUid": "42338"
+        },
+        {
+            "recordDetails": "Completed 46th Combat Mission (Operation Blue Support)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-09-09",
+            "recordUid": "42339"
+        },
+        {
+            "recordDetails": "Completed 47th Combat Mission (Operation Parting Gift)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-10-13",
+            "recordUid": "42340"
+        },
+        {
+            "recordDetails": "Completed 48th Combat Mission (Operation Blue Support Part 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-10-28",
+            "recordUid": "42341"
+        },
+        {
+            "recordDetails": "Completed 49th Combat Mission (Campaign Swamp Drop, Operation Swamp Drop Phase 1), Completed 4th Combat Jump",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2018-11-25",
+            "recordUid": "42342"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Nessus Blood, Operation Wet Brain)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-09-20",
+            "recordUid": "42343"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Yellow Herring)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-09-24",
+            "recordUid": "42344"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Operation Pronghorn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-15",
+            "recordUid": "42345"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation Restrepo)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-17",
+            "recordUid": "42346"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation Resilient Shard)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-18",
+            "recordUid": "42347"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Sandy Bridge)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2017-10-20",
+            "recordUid": "42348"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "For S1 Dept. 16NOV17 - 16MAY18",
+            "awardName": "Armed Forces Service Medal",
+            "awardDate": "2018-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/32.jpg?1612676292",
+            "awardUid": "21645"
+        },
+        {
+            "awardDetails": "Operation Swamp Drop Phase 1",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2018-12-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "21646"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2018-08-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "21647"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Parachutist Badge",
+            "awardDate": "2018-05-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/83.jpg?1612678149",
+            "awardUid": "21648"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2017-08-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "21649"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Explosive Ordnance Disposal Badge",
+            "awardDate": "2018-07-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/74.jpg?1612677893",
+            "awardUid": "21650"
+        },
+        {
+            "awardDetails": "Operation Emerald Scarlett",
+            "awardName": "Bronze Star",
+            "awardDate": "2018-09-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "21651"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2017-09-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "21652"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2017-10-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "21653"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2017-11-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "21654"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2017-12-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "21655"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2017-08-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "21656"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2017-08-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "21657"
+        },
+        {
+            "awardDetails": "Operation FNF2018",
+            "awardName": "Joint Service Commendation Medal",
+            "awardDate": "2018-05-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/17.jpg?1612668420",
+            "awardUid": "21658"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2018-08-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "21659"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2018-08-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "21660"
+        },
+        {
+            "awardDetails": "Operation Fever Dream Redux",
+            "awardName": "Prisoner of War Medal",
+            "awardDate": "2017-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/22.jpg?1612674621",
+            "awardUid": "21661"
+        },
+        {
+            "awardDetails": "Operation Lucky Pluck",
+            "awardName": "Prisoner of War Medal",
+            "awardDate": "2018-04-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/22.jpg?1612674621",
+            "awardUid": "21662"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2017-08-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "21663"
+        },
+        {
+            "awardDetails": "Campaign Nessus Blood (ARMA3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2018-01-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "21664"
+        },
+        {
+            "awardDetails": "Campaign Juniper Spear Phase 1 (ARMA3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2018-04-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "21665"
+        },
+        {
+            "awardDetails": "Campaign Juniper Spear Phase 2 (ARMA3)",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2018-06-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "21666"
+        },
+        {
+            "awardDetails": "Campaign Brass Pillar",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2018-09-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "21667"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "21668"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "21669"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "21670"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "21671"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "21672"
+        }
+    ],
+    "joinDate": "2017-08-09",
+    "promotionDate": "2018-12-15",
+    "keycloakId": "369c738a-9f17-413f-9668-f8214aa5b111",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

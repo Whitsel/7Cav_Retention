@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "46",
+        "username": "Trask.K"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Kirstin Trask",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/484.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2021-02-11",
+            "recordUid": "844"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-08",
+            "recordUid": "10910"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17412"
+        }
+    ],
+    "joinDate": "2020-01-12",
+    "promotionDate": "2020-08-16",
+    "keycloakId": "a5e42a81-6982-46bb-a555-0ef0c62a13d6",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-01 17:18:22"
+}

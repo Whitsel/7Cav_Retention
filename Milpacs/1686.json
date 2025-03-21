@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3183",
+        "username": "Schneider.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Hugo Schneider",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1686.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-25",
+            "recordUid": "57699"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-07-10",
+            "recordUid": "58398"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-25",
+    "promotionDate": "2022-06-25",
+    "keycloakId": "cbf02d94-195a-4d3c-abd4-200baec242f8",
+    "discordId": "456165526763208715",
+    "lastForumPostDate": "2022-08-03 18:46:53"
+}

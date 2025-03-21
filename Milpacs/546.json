@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "712",
+        "username": "Miller.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ralph Miller",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/546.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-30",
+            "recordUid": "90"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-14",
+            "recordUid": "6977"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-01-30",
+    "promotionDate": "2021-01-30",
+    "keycloakId": "3eaeb9e8-0c1d-4c22-a204-132bceda1242",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-30 17:01:23"
+}

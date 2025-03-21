@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8781",
+        "username": "Mclain.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mario Mclain",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4308.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-04",
+            "recordUid": "121625"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-26",
+            "recordUid": "123468"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-04",
+    "promotionDate": "",
+    "keycloakId": "daa826f9-6ade-4600-a60f-b082d12ffa68",
+    "discordId": "308008322986934272",
+    "lastForumPostDate": "2025-02-03 01:23:53"
+}

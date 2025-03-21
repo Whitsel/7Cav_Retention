@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2726",
+        "username": "Blue.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Souls Blue",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1484.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-03-22",
+            "recordUid": "51948"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-04-03",
+            "recordUid": "52811"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-03-22",
+    "promotionDate": "2022-03-22",
+    "keycloakId": "c3013aea-5d61-403d-9286-e91a44b4dd99",
+    "discordId": "",
+    "lastForumPostDate": "2022-03-19 05:02:25"
+}

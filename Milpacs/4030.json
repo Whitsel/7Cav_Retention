@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8237",
+        "username": "Nilderson.H"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Harry Nilderson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4030.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-10-09",
+            "recordUid": "114639"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-10-21",
+            "recordUid": "115845"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-10-08",
+    "promotionDate": "",
+    "keycloakId": "9dacda02-e4ba-4c2d-9370-e601d75e4abc",
+    "discordId": "773919941060591626",
+    "lastForumPostDate": "2024-10-08 11:18:49"
+}

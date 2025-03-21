@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5698",
+        "username": "Jameson.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Thomas Jameson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2814.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-02",
+            "recordUid": "86183"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-16",
+            "recordUid": "87291"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-01",
+    "promotionDate": "2023-10-01",
+    "keycloakId": "b5f17964-d5a1-4df4-b403-73f1debe7ca8",
+    "discordId": "",
+    "lastForumPostDate": "2023-09-28 23:14:06"
+}

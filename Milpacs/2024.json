@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4014",
+        "username": "Tonto.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nic Tonto",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2024.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-10-27",
+            "recordUid": "64973"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-11-08",
+            "recordUid": "66523"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-10-27",
+    "promotionDate": "2022-10-27",
+    "keycloakId": "c82871e3-f3cd-4027-a902-f45a912034c1",
+    "discordId": "",
+    "lastForumPostDate": "2022-10-31 02:53:18"
+}

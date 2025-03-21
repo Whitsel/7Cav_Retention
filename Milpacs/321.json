@@ -1,0 +1,66 @@
+{
+    "user": {
+        "userId": "374",
+        "username": "Baker.BK"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Brendan Kaleb Baker",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/321.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-01-11",
+            "recordUid": "770"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Operation Stackin Bodies 2802)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-28",
+            "recordUid": "16930"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20742"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Stackin Bodies 2401)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-25",
+            "recordUid": "20806"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22907"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17153"
+        }
+    ],
+    "joinDate": "2020-11-11",
+    "promotionDate": "2021-01-11",
+    "keycloakId": "9d0851d7-d591-4263-b9c4-22804e29ee67",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 21:17:18"
+}

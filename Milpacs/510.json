@@ -1,0 +1,60 @@
+{
+    "user": {
+        "userId": "662",
+        "username": "Sugg.J"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Joe Sugg",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/510.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Graduated Squad Combat Lifesaver Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-03-13",
+            "recordUid": "12120"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Operation Search and Destroy)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-06",
+            "recordUid": "13669"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Operation Brazilian Steel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-20",
+            "recordUid": "16087"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22884"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17726"
+        }
+    ],
+    "joinDate": "2019-04-13",
+    "promotionDate": "2019-07-20",
+    "keycloakId": "27061688-1fde-4df0-b911-866a2ebf2734",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-29 00:30:18"
+}

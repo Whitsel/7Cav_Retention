@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2708",
+        "username": "Bread.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Alec Bread",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1780.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-06",
+            "recordUid": "59845"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61437"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-06",
+    "promotionDate": "2022-08-06",
+    "keycloakId": "cf1469c6-839a-4f28-b2e4-d18888afbc58",
+    "discordId": "889955272137773056",
+    "lastForumPostDate": "2022-08-04 21:45:56"
+}

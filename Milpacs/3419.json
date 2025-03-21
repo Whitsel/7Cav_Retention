@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6970",
+        "username": "Hart.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nathan Hart",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3419.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-07",
+            "recordUid": "101214"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-12",
+            "recordUid": "104090"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-07",
+    "promotionDate": "",
+    "keycloakId": "b6db651b-ab0e-49c8-9536-f6f4c4050907",
+    "discordId": "",
+    "lastForumPostDate": "2024-04-27 17:44:24"
+}

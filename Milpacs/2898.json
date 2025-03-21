@@ -1,0 +1,290 @@
+{
+    "user": {
+        "userId": "5886",
+        "username": "Varco.D"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Davis Varco",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2898.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-11-07",
+            "recordUid": "89019"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper D/2/A/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-11-14",
+            "recordUid": "89228"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-19",
+            "recordUid": "90070"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-12-19",
+            "recordUid": "92099"
+        },
+        {
+            "recordDetails": "Graduated DCS Ground School",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-02-10",
+            "recordUid": "93988"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-02-17",
+            "recordUid": "94533"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Barborosa. Operation White Shark)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-24",
+            "recordUid": "96478"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-01",
+            "recordUid": "98214"
+        },
+        {
+            "recordDetails": "Passed DCS Ground School Evaluation",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-04-24",
+            "recordUid": "100062"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Return To The Persian Gulf. Operation Tripwire Day 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-27",
+            "recordUid": "100883"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/2/A/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-18",
+            "recordUid": "101802"
+        },
+        {
+            "recordDetails": "Assigned Assistant Section Leader C/2/A/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-21",
+            "recordUid": "102175"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-05-25",
+            "recordUid": "102388"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Solano. Operation Cedar Light)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-01",
+            "recordUid": "103766"
+        },
+        {
+            "recordDetails": "Assigned Section Leader C/2/A/3-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-14",
+            "recordUid": "104172"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign Siesta. Operation Aruba 25JUN24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-25",
+            "recordUid": "106386"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign LEXCON. Operation Backhand)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-09",
+            "recordUid": "107066"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Guadalajara. Operation Akumal II)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-14",
+            "recordUid": "107227"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Throwdown Tuesday July. Operation Venison)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-24",
+            "recordUid": "108090"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Persian Gulf Deployment. Operation Claymore)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-28",
+            "recordUid": "108481"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Jungle Goblin. Operation Borneo)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-17",
+            "recordUid": "110587"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Jungle Goblin. Operation Kipling)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-08-25",
+            "recordUid": "111569"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Constantine II. Operation Brass Vanguard)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-09-09",
+            "recordUid": "113053"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Scholae Palatinae. Operation Pilum)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-02",
+            "recordUid": "115281"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Scholae Palatinae. Operation Pilum II)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-10-06",
+            "recordUid": "115386"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-11-05",
+            "recordUid": "116766"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with average scores.",
+            "awardName": "Hydra-70 Marksman",
+            "awardDate": "2023-11-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/126.jpg?1708297568",
+            "awardUid": "47923"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-11-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "47933"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48018"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48029"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48042"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48054"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48066"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "48078"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2024-02-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "54234"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Soldiers Medal",
+            "awardDate": "2024-05-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/10.jpg?1612668084",
+            "awardUid": "55066"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Aviator Badge",
+            "awardDate": "2024-06-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/77.jpg?1612677958",
+            "awardUid": "57471"
+        },
+        {
+            "awardDetails": "2/A/3-7 Platoon Enlisted of the Quarter Q2 2024",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2024-07-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "59371"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "DCS World Service Ribbon",
+            "awardDate": "2024-07-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/130.jpg?1668019648",
+            "awardUid": "59401"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2024-07-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "59591"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2024-09-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "62028"
+        }
+    ],
+    "joinDate": "2023-11-06",
+    "promotionDate": "2024-02-17",
+    "keycloakId": "a2ac819b-fb5e-4b7b-b623-0eff91a28201",
+    "discordId": "191690055004323840",
+    "lastForumPostDate": "2024-10-15 23:23:46"
+}

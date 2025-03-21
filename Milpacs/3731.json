@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7681",
+        "username": "Williams.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Richard Williams",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3731.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-07-24",
+            "recordUid": "107403"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-08-06",
+            "recordUid": "108875"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-07-24",
+    "promotionDate": "",
+    "keycloakId": "ca91c77a-2890-4b2b-9769-71fb8ad5497e",
+    "discordId": "",
+    "lastForumPostDate": "2024-07-23 00:31:46"
+}

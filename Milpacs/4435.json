@@ -1,0 +1,48 @@
+{
+    "user": {
+        "userId": "9022",
+        "username": "Colwell.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jeffrey Colwell",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4435.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 1/3/B/ACD",
+        "positionId": "989"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-03",
+            "recordUid": "123752"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/3/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-03-07",
+            "recordUid": "124094"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Arma Reforger Server Playtime Medal",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2025-03-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "69125"
+        }
+    ],
+    "joinDate": "2025-03-04",
+    "promotionDate": "",
+    "keycloakId": "e4125ce6-509b-4db0-a75a-fe182ce91083",
+    "discordId": "1165101511634845776",
+    "lastForumPostDate": "2025-03-13 00:08:57"
+}

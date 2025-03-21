@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7430",
+        "username": "Bell.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Luke Bell",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3662.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-07-01",
+            "recordUid": "105706"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-22",
+            "recordUid": "107492"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-07-01",
+    "promotionDate": "",
+    "keycloakId": "459952c5-960f-4312-8c3a-e185c83daca0",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-30 05:47:33"
+}

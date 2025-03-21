@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5145",
+        "username": "Grimes.N"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Nick Grimes",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2567.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-15",
+            "recordUid": "79814"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-03",
+            "recordUid": "81054"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-06-15",
+    "promotionDate": "2023-06-15",
+    "keycloakId": "5bcb8f99-1723-40d8-9f51-71a0cfebd4e7",
+    "discordId": "",
+    "lastForumPostDate": "2023-06-14 00:32:32"
+}

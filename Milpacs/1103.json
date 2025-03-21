@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1907",
+        "username": "Paganis.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Bill Paganis",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1103.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-10-14",
+            "recordUid": "43687"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-10-26",
+            "recordUid": "44418"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-10-14",
+    "promotionDate": "2021-10-14",
+    "keycloakId": "c08681a9-b57b-48e2-b59e-7ff4a23e8afd",
+    "discordId": "",
+    "lastForumPostDate": "2021-10-13 21:48:31"
+}

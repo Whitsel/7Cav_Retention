@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1239",
+        "username": "Eddie.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Dick Eddie",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/802.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-05-01",
+            "recordUid": "34341"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-05-16",
+            "recordUid": "35352"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-05-01",
+    "promotionDate": "2021-05-01",
+    "keycloakId": "1a5229ba-a6b7-48ba-8dee-e9ed5031ed3c",
+    "discordId": "",
+    "lastForumPostDate": "2021-04-30 22:35:38"
+}

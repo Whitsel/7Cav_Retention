@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1469",
+        "username": "Pierce.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Benjamin Pierce",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/905.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-06-22",
+            "recordUid": "37298"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-07-05",
+            "recordUid": "37942"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-06-22",
+    "promotionDate": "2021-06-22",
+    "keycloakId": "0c4230f0-aac3-43bf-a702-844b0ce01260",
+    "discordId": "",
+    "lastForumPostDate": "2021-06-21 05:34:34"
+}

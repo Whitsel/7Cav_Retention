@@ -1,0 +1,52 @@
+{
+    "user": {
+        "userId": "4120",
+        "username": "Cissna.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Matthew Cissna",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2082.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-11-20",
+            "recordUid": "66953"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-12-05",
+            "recordUid": "68221"
+        },
+        {
+            "recordDetails": "Reinstated, Adjustment in Rank to Recruit, Transferred and Assigned Arma 3 RTC",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-06-01",
+            "recordUid": "78823"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-06-26",
+            "recordUid": "80761"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-11-20",
+    "promotionDate": "2023-06-01",
+    "keycloakId": "b2d1b325-f5c9-4ee1-8282-f9a3596f0854",
+    "discordId": "",
+    "lastForumPostDate": "2023-05-25 18:58:05"
+}

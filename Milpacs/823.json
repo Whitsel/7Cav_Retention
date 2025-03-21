@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1285",
+        "username": "Spaulding.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Sid Spaulding",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/823.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-05-09",
+            "recordUid": "34950"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-09-20",
+            "recordUid": "42419"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-05-09",
+    "promotionDate": "2021-05-09",
+    "keycloakId": "9b2b9288-ff54-494f-9d12-64a7ba417768",
+    "discordId": "",
+    "lastForumPostDate": "2021-05-07 20:25:46"
+}

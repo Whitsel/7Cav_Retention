@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6190",
+        "username": "Hackworth.W"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "William Hackworth",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3032.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-01-16",
+            "recordUid": "92545"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-01-28",
+            "recordUid": "93244"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-01-16",
+    "promotionDate": "2024-01-16",
+    "keycloakId": "01a3cd58-5303-4ad4-acad-03f95f5ac9a7",
+    "discordId": "",
+    "lastForumPostDate": "2024-01-08 19:31:29"
+}

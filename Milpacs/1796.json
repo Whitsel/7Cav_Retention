@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3505",
+        "username": "Dunn.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Connor Dunn",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1796.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-10",
+            "recordUid": "60212"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-24",
+            "recordUid": "65729"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-10",
+    "promotionDate": "2022-08-10",
+    "keycloakId": "5c4aa9b6-e01c-493a-a40c-24ff2b68e8d3",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-10 09:38:05"
+}

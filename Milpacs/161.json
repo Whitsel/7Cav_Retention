@@ -1,0 +1,73 @@
+{
+    "user": {
+        "userId": "18",
+        "username": "Czar.J"
+    },
+    "rank": {
+        "rankShort": "MAJ",
+        "rankFull": "Major",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/8.jpg?1741365606",
+        "rankId": "8"
+    },
+    "realName": "Jon Czar",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/161.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 214th Combat Mission (Operation Stackin Bodies 1502)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-15",
+            "recordUid": "14823"
+        },
+        {
+            "recordDetails": "Completed 215th Combat Mission (Operation Wednesday Night Squad 3MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-03",
+            "recordUid": "17017"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the WAG",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-03-28",
+            "recordUid": "20401"
+        },
+        {
+            "recordDetails": "Completed 216th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20758"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-29",
+            "recordUid": "22897"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "Bronze Knot",
+            "awardName": "StackUp Donation Medal",
+            "awardDate": "2021-01-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/36.jpg?1612676402",
+            "awardUid": "1810"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17458"
+        }
+    ],
+    "joinDate": "2016-08-09",
+    "promotionDate": "2019-04-26",
+    "keycloakId": "d3d3e318-5fb7-4e43-8ce2-aee2469b9c97",
+    "discordId": "110840717877727232",
+    "lastForumPostDate": "2021-03-28 21:46:34"
+}

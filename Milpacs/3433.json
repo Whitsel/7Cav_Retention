@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7039",
+        "username": "Milton.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Casamir Milton",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3433.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-12",
+            "recordUid": "101373"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102725"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-11",
+    "promotionDate": "2024-05-11",
+    "keycloakId": "beac6ffa-c37c-4b7a-8077-871831c309e6",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-09 23:41:18"
+}

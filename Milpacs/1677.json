@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3167",
+        "username": "Hardigree.Z"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Zach Hardigree",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1677.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-17",
+            "recordUid": "57242"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-06-26",
+            "recordUid": "57834"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-17",
+    "promotionDate": "2022-06-17",
+    "keycloakId": "9d23642b-0c83-4012-9281-d274fe2890b9",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-11 04:17:52"
+}

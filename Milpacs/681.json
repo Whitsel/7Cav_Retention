@@ -1,0 +1,67 @@
+{
+    "user": {
+        "userId": "951",
+        "username": "Dallas.J"
+    },
+    "rank": {
+        "rankShort": "PVT",
+        "rankFull": "Private",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/22.jpg?1741376831",
+        "rankId": "22"
+    },
+    "realName": "Jay Dallas",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/681.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-16",
+            "recordUid": "12849"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-03-21",
+            "recordUid": "17930"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/3/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-23",
+            "recordUid": "18048"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment 01OCT21",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22949"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2021-03-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "8224"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17493"
+        }
+    ],
+    "joinDate": "2021-03-16",
+    "promotionDate": "2021-03-21",
+    "keycloakId": "0de0dcb7-c620-40ec-8ae3-c3cd1d430509",
+    "discordId": "",
+    "lastForumPostDate": "2021-04-01 19:03:54"
+}

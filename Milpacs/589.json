@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "771",
+        "username": "Peppes.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Stephen Peppes",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/589.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-02-11",
+            "recordUid": "834"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-28",
+            "recordUid": "10267"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-02-11",
+    "promotionDate": "2021-02-11",
+    "keycloakId": "ad4236a1-20f2-4d3b-9118-6d2c31a3a302",
+    "discordId": "",
+    "lastForumPostDate": "2021-02-17 03:15:07"
+}

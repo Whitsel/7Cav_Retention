@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8654",
+        "username": "Paris.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ethan Paris",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4288.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-01-30",
+            "recordUid": "121092"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-18",
+            "recordUid": "122895"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-01-30",
+    "promotionDate": "",
+    "keycloakId": "6e69d685-228c-4ee0-92d7-ddc229ddf522",
+    "discordId": "",
+    "lastForumPostDate": "2025-01-28 00:56:24"
+}

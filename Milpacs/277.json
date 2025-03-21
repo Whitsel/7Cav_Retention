@@ -1,0 +1,79 @@
+{
+    "user": {
+        "userId": "410",
+        "username": "Highway.T"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Thomas Highway",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/277.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-08",
+            "recordUid": "3546"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation Search and Destroy)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-06",
+            "recordUid": "13682"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Hamlet Towers)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-12",
+            "recordUid": "17294"
+        },
+        {
+            "recordDetails": "Honorable Discharge, Not Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-03-28",
+            "recordUid": "20416"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation Stackin Bodies 2103)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-22",
+            "recordUid": "20792"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Operation Wednesday Night Squad 24MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-24",
+            "recordUid": "21003"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2021-03-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "11365"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17226"
+        }
+    ],
+    "joinDate": "2020-11-07",
+    "promotionDate": "2021-02-08",
+    "keycloakId": "b736bbbd-ff41-4271-aca8-edbee7160dfa",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-28 18:34:27"
+}

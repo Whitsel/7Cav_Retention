@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8805",
+        "username": "Alarcon.JC"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "John Carlo Alarcon",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4317.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-06",
+            "recordUid": "121775"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2025-02-26",
+            "recordUid": "123460"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2025-02-06",
+    "promotionDate": "",
+    "keycloakId": "d8b21e80-991e-4a6a-8b76-c59ff263b405",
+    "discordId": "398852870591741952",
+    "lastForumPostDate": "2025-02-05 23:14:26"
+}

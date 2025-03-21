@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5501",
+        "username": "Bennett.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Brian Bennett",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2725.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-08-17",
+            "recordUid": "83594"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-09-04",
+            "recordUid": "84615"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-08-17",
+    "promotionDate": "2023-08-17",
+    "keycloakId": "f18e5990-efb3-4026-89aa-8918fa6028c2",
+    "discordId": "",
+    "lastForumPostDate": "2023-08-14 09:10:26"
+}

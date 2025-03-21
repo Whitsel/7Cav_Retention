@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7423",
+        "username": "Note.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Blake Note",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3619.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-21",
+            "recordUid": "104875"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-01",
+            "recordUid": "105994"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-21",
+    "promotionDate": "",
+    "keycloakId": "5c9ea3e7-ca2e-4853-bda5-76e5511803d3",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-21 00:11:16"
+}

@@ -1,0 +1,60 @@
+{
+    "user": {
+        "userId": "75",
+        "username": "Bell.J"
+    },
+    "rank": {
+        "rankShort": "2LT",
+        "rankFull": "Second Lieutenant",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/11.jpg?1741379578",
+        "rankId": "11"
+    },
+    "realName": "John Bell",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/428.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Second Lieutenant (O-1)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-01-26",
+            "recordUid": "58"
+        },
+        {
+            "recordDetails": "Assigned Platoon Leader 2/A/2-7",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2021-01-27",
+            "recordUid": "355"
+        },
+        {
+            "recordDetails": "Relieved of Duties from the S7 Department",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-01-31",
+            "recordUid": "700"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2021-02-02",
+            "recordUid": "820"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17096"
+        }
+    ],
+    "joinDate": "2020-03-14",
+    "promotionDate": "2021-01-26",
+    "keycloakId": "e3349e04-f7b1-47da-bb3d-e07188b271f4",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-29 04:06:28"
+}

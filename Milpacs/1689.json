@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3216",
+        "username": "Wallace.K"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Kaid Wallace",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1689.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-25",
+            "recordUid": "57702"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-07-10",
+            "recordUid": "58399"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-25",
+    "promotionDate": "2022-06-25",
+    "keycloakId": "1ae1dd02-02ea-45b0-9099-f17932df36f6",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-17 22:28:12"
+}

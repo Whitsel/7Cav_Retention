@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5264",
+        "username": "Storch.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Lauge Storch",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2624.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-07-09",
+            "recordUid": "81338"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-07-24",
+            "recordUid": "82217"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-07-09",
+    "promotionDate": "2023-07-09",
+    "keycloakId": "27473271-81ce-41eb-af1a-43ddd6b597c5",
+    "discordId": "",
+    "lastForumPostDate": "2023-07-07 21:11:07"
+}

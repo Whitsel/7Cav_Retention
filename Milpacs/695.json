@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "994",
+        "username": "Locke.E"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Everett Locke",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/695.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Dishonorably Discharged",
+        "positionId": "529"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-23",
+            "recordUid": "18054"
+        },
+        {
+            "recordDetails": "Dishonorable Discharge, Not Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-05",
+            "recordUid": "25638"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-03-23",
+    "promotionDate": "2021-03-23",
+    "keycloakId": "e99a5dc4-c2ac-49e7-a35a-6443b8d69b36",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-30 04:12:16"
+}

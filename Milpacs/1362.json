@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2447",
+        "username": "Medina.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Chris Medina",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1362.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-01",
+            "recordUid": "49120"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-14",
+            "recordUid": "49918"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-01",
+    "promotionDate": "2022-02-01",
+    "keycloakId": "c82c6fad-1a21-4cc5-9755-796dec863bb1",
+    "discordId": "",
+    "lastForumPostDate": "2022-01-31 22:52:07"
+}

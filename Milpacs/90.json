@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "575",
+        "username": "Baker.C"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Carl Baker",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/90.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-01-18",
+            "recordUid": "20"
+        },
+        {
+            "recordDetails": "Entry Level Separation, Eligibility for Re-enlistment only Upon Review from Upper Command",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-07",
+            "recordUid": "13597"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-01-18",
+    "promotionDate": "2021-01-18",
+    "keycloakId": "cd1084c4-4d1b-45b7-bee7-25f1ff86a8b1",
+    "discordId": "",
+    "lastForumPostDate": "2021-01-17 03:01:04"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1874",
+        "username": "Orion.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Simeone Orion",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1091.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-10-06",
+            "recordUid": "43378"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-10-18",
+            "recordUid": "44014"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-10-05",
+    "promotionDate": "2021-10-05",
+    "keycloakId": "6c3fe5a5-f77b-4214-918a-b4f223859c8d",
+    "discordId": "",
+    "lastForumPostDate": "2021-10-05 21:23:05"
+}

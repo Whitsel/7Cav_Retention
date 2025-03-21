@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4965",
+        "username": "Dillard.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jayson Dillard",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3472.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-21",
+            "recordUid": "102172"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-03",
+            "recordUid": "103510"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-21",
+    "promotionDate": "",
+    "keycloakId": "2fdb81a7-8823-45b3-b126-33140a66b6aa",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-21 20:28:53"
+}

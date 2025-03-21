@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3554",
+        "username": "Hac.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Trevor Hac",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1824.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-18",
+            "recordUid": "60653"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-08-28",
+            "recordUid": "61431"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-18",
+    "promotionDate": "2022-08-18",
+    "keycloakId": "14dd374d-f618-494c-9426-b9142a5626f3",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-17 07:55:30"
+}

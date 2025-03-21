@@ -1,0 +1,66 @@
+{
+    "user": {
+        "userId": "466",
+        "username": "Focus.D"
+    },
+    "rank": {
+        "rankShort": "PFC",
+        "rankFull": "Private First Class",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/21.jpg?1741376823",
+        "rankId": "21"
+    },
+    "realName": "David Focus",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/39.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Article 15 - 30 Days NFA, Reduction in Rank to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2021-01-21",
+            "recordUid": "42"
+        },
+        {
+            "recordDetails": "Letter of Reprimand - 30 Days NFA",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2021-01-11",
+            "recordUid": "52"
+        },
+        {
+            "recordDetails": "Graduated the Drill Instructor Course, Assigned Drill Instructor",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2021-01-26",
+            "recordUid": "669"
+        },
+        {
+            "recordDetails": "Article 32 - 6 month probation, Banned from public servers for 60 days, Reduction in Rank to Private First Class (E-2)",
+            "recordType": "RECORD_TYPE_DISCIPLINARY",
+            "recordDate": "2021-02-13",
+            "recordUid": "1636"
+        },
+        {
+            "recordDetails": "Less than Honorable Discharge, Eligible for Re-enlistment upon General Staff Review",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-02-16",
+            "recordUid": "3736"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17526"
+        }
+    ],
+    "joinDate": "2015-04-12",
+    "promotionDate": "2021-02-13",
+    "keycloakId": "e6316ced-1d43-4b27-afaf-30fa62eae660",
+    "discordId": "",
+    "lastForumPostDate": "2021-09-11 07:14:41"
+}

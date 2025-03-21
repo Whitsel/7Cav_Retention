@@ -1,0 +1,724 @@
+{
+    "user": {
+        "userId": "5008",
+        "username": "Lee.A"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Adam Lee",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2505.jpg",
+    "roster": "ROSTER_TYPE_COMBAT",
+    "primary": {
+        "positionTitle": "Trooper 3/1/B/ACD",
+        "positionId": "605"
+    },
+    "secondaries": [
+        {
+            "positionTitle": "RTC Drill Instructor IT",
+            "positionId": "103"
+        },
+        {
+            "positionTitle": "S3 HLL Console Operations Staff",
+            "positionId": "146"
+        }
+    ],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-05-21",
+            "recordUid": "78131"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper A/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-05-24",
+            "recordUid": "78322"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-06-04",
+            "recordUid": "78987"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Nighthawk. Operation Blackout)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-06-24",
+            "recordUid": "81000"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-07-04",
+            "recordUid": "81630"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Chowhound. Operation Bad Dog [3/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-07-13",
+            "recordUid": "82009"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Nighthawk. Operation Blackout [3/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-06",
+            "recordUid": "83410"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign High Tide. Operation Rising Sun)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-13",
+            "recordUid": "84026"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2023-09-02",
+            "recordUid": "84564"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Nighthawk. Operation Blackout [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-08-26",
+            "recordUid": "84636"
+        },
+        {
+            "recordDetails": "Assigned S3 HLL Console Operations Staff",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-09-19",
+            "recordUid": "85495"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-09-19",
+            "recordUid": "85507"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign High Tide. Operation First Light)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-10",
+            "recordUid": "85615"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Operation Snake Eyes)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-23",
+            "recordUid": "86424"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Fortress Europe. Operation Fortress Europe [2/3])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-22",
+            "recordUid": "86459"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Fortress Europe SEP23. Operation Fortress Europe SEP23 [2/2])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-09-29",
+            "recordUid": "87897"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign Nighthawk. Operation Eclipse [3/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-14",
+            "recordUid": "88294"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem OCT23 [1/2])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-23",
+            "recordUid": "88674"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-10-21",
+            "recordUid": "88765"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Fortress Europe OCT23. Operation Fortress Europe OCT23 [3/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-20",
+            "recordUid": "89304"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Fortress Europe OCT23. Operation Fortress Europe OCT23 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-27",
+            "recordUid": "89442"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Operation Manticore)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-03",
+            "recordUid": "89709"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem OCT23 [2/2])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-10-30",
+            "recordUid": "89860"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem NOV23 [1/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-06",
+            "recordUid": "89879"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem NOV23 [2/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-13",
+            "recordUid": "90015"
+        },
+        {
+            "recordDetails": "Graduated HLL Console Basic Infantry Combat Training Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2023-11-19",
+            "recordUid": "90220"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Forge. Operation Usurper [1/1] )",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-18",
+            "recordUid": "90622"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem 20NOV23 [3/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-20",
+            "recordUid": "91220"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign Monday Mayhem. Operation Monday Mayhem 27NOV23 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-11-27",
+            "recordUid": "91263"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Operation POW Event Operation: Watch on the Rhine)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2023-12-02",
+            "recordUid": "91565"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2024-01-13",
+            "recordUid": "92573"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-01-13",
+            "recordUid": "92850"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Operation Small Blind)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-01-21",
+            "recordUid": "93135"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Ardennes Offensive. Operation Operation Snowquall 3/3)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-17",
+            "recordUid": "95025"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Forge. Operation Renegade)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-02-23",
+            "recordUid": "96044"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Hellfire pass. Operation Dante 1/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-10",
+            "recordUid": "97045"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign Hellfire Pass. Operation Dante 2/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-03-23",
+            "recordUid": "98394"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Campaign Hellfire Pass. Operation Dante 3/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-06",
+            "recordUid": "99078"
+        },
+        {
+            "recordDetails": "Assigned Section Leader A/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-21",
+            "recordUid": "99724"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign Monday Mayhem APR24. Operation Monday Mayhem 15APR24 [1/3])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-15",
+            "recordUid": "100082"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Campaign Monday Mayhem APR24. Operation Monday Mayhem 22APR24 [2/3])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-04-22",
+            "recordUid": "100360"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Operation Full House)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-02",
+            "recordUid": "101339"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Monday Mayhem MAY24. Operation Monday Mayhem 06MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-06",
+            "recordUid": "101513"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Campaign Monday Mayhem MAY24. Operation Monday Mayhem 13MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-13",
+            "recordUid": "102079"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Campaign Forge. Operation Imposter)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-04",
+            "recordUid": "102095"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2024-05-27",
+            "recordUid": "102500"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Monday Mayhem MAY24. Operation Monday Mayhem 20MAY24)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-05-20",
+            "recordUid": "102701"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Campaign D-Day Memorial 2024. Operation Overlord 2024)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-08",
+            "recordUid": "104224"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Campaign Monday Mayhem JUN24. Operation Monday Mayhem 10JUN24 [2/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-11",
+            "recordUid": "105351"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Campaign Monday Mayhem JUN24. Operation Monday Mayhem 17JUN24 [3/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-17",
+            "recordUid": "105678"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Campaign Special Operations. Operation Chimera)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-22",
+            "recordUid": "105793"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Campaign Monday Mayhem JUN24. Operation Monday Mayhem 24JUN24 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-06-24",
+            "recordUid": "105961"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign Monday Mayhem JUL24. Operation Monday Mayhem 01JUL24 [1/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-01",
+            "recordUid": "106337"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Campaign Monday Mayhem JUL24. Operation Monday Mayhem 08JUL24 [2/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-08",
+            "recordUid": "107044"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Campaign Breakthrough 3. Operation Springer 2/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-14",
+            "recordUid": "107317"
+        },
+        {
+            "recordDetails": "Completed 43rd Combat Mission (Campaign Monday Mayhem JUL24. Operation Monday Mayhem 15JUL24 [3/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-15",
+            "recordUid": "107390"
+        },
+        {
+            "recordDetails": "Completed 44th Combat Mission (Campaign Special Operations. Operation Minotaur)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-20",
+            "recordUid": "108204"
+        },
+        {
+            "recordDetails": "Completed 45th Combat Mission (Campaign Monday Mayhem JUL24. Operation Monday Mayhem 22JUL24 [4/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-22",
+            "recordUid": "108288"
+        },
+        {
+            "recordDetails": "Completed 46th Combat Mission (Operation Royal Flush)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-07-28",
+            "recordUid": "108504"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Reserves",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-08-12",
+            "recordUid": "109147"
+        },
+        {
+            "recordDetails": "Reinstated, Reduction in Rank to Corporal (E-4), Transferred and Assigned Trooper A/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-11-06",
+            "recordUid": "116810"
+        },
+        {
+            "recordDetails": "Completed 47th Combat Mission (Campaign Baptism by Fire. Operation Fiery Death 2/4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-09",
+            "recordUid": "117490"
+        },
+        {
+            "recordDetails": "Completed 48th Combat Mission (Campaign Monday Mayhem NOV24. Operation Monday Mayhem 11NOV24 [2/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-11",
+            "recordUid": "117572"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-11-26",
+            "recordUid": "117935"
+        },
+        {
+            "recordDetails": "Completed 49th Combat Mission (Campaign Monday Mayhem NOV24. Operation Monday Mayhem 25NOV24 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-11-25",
+            "recordUid": "118299"
+        },
+        {
+            "recordDetails": "Completed 50th Combat Mission (Campaign Breakthrough DEC24. Operation Red Queen)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2024-12-08",
+            "recordUid": "119135"
+        },
+        {
+            "recordDetails": "Completed 51st Combat Mission (Campaign Monday Mayhem JAN25. Operation Monday Mayhem 27JAN25 [4/4])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-01-28",
+            "recordUid": "121527"
+        },
+        {
+            "recordDetails": "Assigned RTC Drill Instructor IT",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2025-02-05",
+            "recordUid": "121651"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/1/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2025-02-09",
+            "recordUid": "121916"
+        },
+        {
+            "recordDetails": "Completed 52nd Combat Mission (Campaign Monday Mayhem MAR25. Operation Monday Mayhem 03MAR25 [1/5])",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2025-03-04",
+            "recordUid": "124531"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2023-06-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "42285"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Grenade Expert",
+            "awardDate": "2023-06-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "42334"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "42345"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "42356"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "42367"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "42378"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "42389"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "42400"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2023-06-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "43399"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2023-08-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "45471"
+        },
+        {
+            "awardDetails": "Initial",
+            "awardName": "Hell Let Loose Console Service Ribbon",
+            "awardDate": "2023-09-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/135.jpg?1716321904",
+            "awardUid": "45530"
+        },
+        {
+            "awardDetails": "Campaign Nighthawk",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-09-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "45734"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "47371"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with excellent scores.",
+            "awardName": "Rifle Expert",
+            "awardDate": "2023-10-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "47663"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Basic Assault Course Ribbon",
+            "awardDate": "2023-11-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/54.jpg?1612676882",
+            "awardUid": "48203"
+        },
+        {
+            "awardDetails": "Campaign Nighthawk",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "49263"
+        },
+        {
+            "awardDetails": "Campaign Monday Mayhem",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2023-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "49299"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2023-11-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "49572"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2023-10-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "49827"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2023-11-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "49828"
+        },
+        {
+            "awardDetails": "B/ACD",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2024-02-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "51439"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "StackUp Donation Medal",
+            "awardDate": "2024-03-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/36.jpg?1612676402",
+            "awardUid": "52157"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2023-10-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "52228"
+        },
+        {
+            "awardDetails": "Operation Dante",
+            "awardName": "Army Commendation Medal with Valor Device",
+            "awardDate": "2024-03-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/18.jpg?1612668446",
+            "awardUid": "52665"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Senior Mission Controller Badge",
+            "awardDate": "2024-04-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/136.jpg?1699812132",
+            "awardUid": "53576"
+        },
+        {
+            "awardDetails": "Operation Dante",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2024-04-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "53874"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2024-05-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "56154"
+        },
+        {
+            "awardDetails": "Campaign Hellfire Pass",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-04-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "56240"
+        },
+        {
+            "awardDetails": "Campaign Monday Mayhem MAY24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-05-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "57237"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D-Day Commemorative Medal",
+            "awardDate": "2024-06-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/50.jpg?1612676791",
+            "awardUid": "58389"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2024-06-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "58668"
+        },
+        {
+            "awardDetails": "Campaign Monday Mayhem JUN24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-06-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "58777"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Master Mission Controller Badge",
+            "awardDate": "2024-07-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/137.jpg?1699812219",
+            "awardUid": "58948"
+        },
+        {
+            "awardDetails": "B/ACD",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2024-07-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "59259"
+        },
+        {
+            "awardDetails": "Operation Minotaur",
+            "awardName": "Silver Star",
+            "awardDate": "2024-07-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/6.jpg?1612667944",
+            "awardUid": "59772"
+        },
+        {
+            "awardDetails": "Campaign Monday Mayhem JUL24",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2024-07-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "60013"
+        },
+        {
+            "awardDetails": "Q4 2024 7th Cavalry Expeditionary Force",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2024-11-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "64669"
+        },
+        {
+            "awardDetails": "50 Operation Milestone",
+            "awardName": "Hell Let Loose Console Service Ribbon",
+            "awardDate": "2024-12-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/135.jpg?1716321904",
+            "awardUid": "65506"
+        }
+    ],
+    "joinDate": "2023-05-21",
+    "promotionDate": "2024-11-06",
+    "keycloakId": "0d058ea6-c5bf-4be6-a0e1-fcc6f3900886",
+    "discordId": "553919665018109962",
+    "lastForumPostDate": "2025-03-14 23:58:35"
+}

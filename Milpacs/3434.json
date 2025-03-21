@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7043",
+        "username": "Reeves.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Matt Reeves",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3434.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-05-11",
+            "recordUid": "101384"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-03",
+            "recordUid": "103514"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-05-11",
+    "promotionDate": "",
+    "keycloakId": "d7c85d48-717e-49ff-b791-1d6e684f9759",
+    "discordId": "",
+    "lastForumPostDate": "2024-05-10 04:11:39"
+}

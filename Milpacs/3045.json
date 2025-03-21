@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6117",
+        "username": "Blackwater.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Rob Blackwater",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3045.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-01-18",
+            "recordUid": "92618"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-02-04",
+            "recordUid": "93857"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-01-17",
+    "promotionDate": "2024-01-17",
+    "keycloakId": "5bcfa4b4-8cae-481a-bdf8-57a348ea480d",
+    "discordId": "",
+    "lastForumPostDate": "2024-01-08 20:09:31"
+}

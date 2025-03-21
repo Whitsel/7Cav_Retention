@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6392",
+        "username": "Kutaza.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Smyth Kutaza",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3122.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-02-21",
+            "recordUid": "94713"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-02-26",
+            "recordUid": "95300"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-02-10",
+    "promotionDate": "2024-02-10",
+    "keycloakId": "12e77a67-306e-442f-9d53-a70c688ee167",
+    "discordId": "272481933257080832",
+    "lastForumPostDate": "2024-02-04 19:56:44"
+}

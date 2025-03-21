@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8400",
+        "username": "Carter.JL"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "James Lincoln Carter",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4120.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-11-25",
+            "recordUid": "117921"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-12-09",
+            "recordUid": "118804"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-11-25",
+    "promotionDate": "",
+    "keycloakId": "33266352-2d62-4b71-a045-68f5251b06fd",
+    "discordId": "298926085892997121",
+    "lastForumPostDate": "2024-11-24 04:02:42"
+}

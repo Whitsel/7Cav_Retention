@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2479",
+        "username": "Raven.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jackson Raven",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1381.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-02-09",
+            "recordUid": "49349"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-03-06",
+            "recordUid": "51104"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-08",
+    "promotionDate": "2022-02-08",
+    "keycloakId": "783f2afd-83f5-4e64-9364-2577491f01d3",
+    "discordId": "666432753507631145",
+    "lastForumPostDate": "2022-02-07 02:55:09"
+}

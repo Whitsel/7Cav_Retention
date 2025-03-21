@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4754",
+        "username": "Harrison.K"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Kian Harrison",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2386.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-29",
+            "recordUid": "74663"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-04-10",
+            "recordUid": "75792"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-29",
+    "promotionDate": "2023-03-29",
+    "keycloakId": "c99abb31-5145-44d6-acfe-78847289f313",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-25 15:58:40"
+}

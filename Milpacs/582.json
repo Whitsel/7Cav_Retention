@@ -1,0 +1,982 @@
+{
+    "user": {
+        "userId": "701",
+        "username": "Sarroca.B"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Ben Sarroca",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/582.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Completed 96th Combat Mission (Operation Spicy Sauce)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-12-05",
+            "recordUid": "11516"
+        },
+        {
+            "recordDetails": "Completed 95th Combat Mission (Operation Caesar's Croissant)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-11-28",
+            "recordUid": "11517"
+        },
+        {
+            "recordDetails": "Completed 94th Combat Mission (Operation Hot Chilli)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-11-21",
+            "recordUid": "11518"
+        },
+        {
+            "recordDetails": "Completed 93rd Combat Mission (Operation Culp's Hill)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-11-21",
+            "recordUid": "11519"
+        },
+        {
+            "recordDetails": "Completed 92nd Combat Mission (Operation Forest Queen)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-11-14",
+            "recordUid": "11520"
+        },
+        {
+            "recordDetails": "Completed 91st Combat Mission (Campaign Let Loose Tuesdays NOV20. Operation Trenched N Tuesday 11NOV20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-11-11",
+            "recordUid": "11521"
+        },
+        {
+            "recordDetails": "Completed 90th Combat Mission (Operation Iberian Crusade)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-31",
+            "recordUid": "11522"
+        },
+        {
+            "recordDetails": "Completed 89th Combat Mission (Campaign October Wednesday Night Squad 2020. Operation WNS Week 29)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-22",
+            "recordUid": "11523"
+        },
+        {
+            "recordDetails": "Completed 88th Combat Mission (Operation Boomerang)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-18",
+            "recordUid": "11524"
+        },
+        {
+            "recordDetails": "Completed 87th Combat Mission (Operation Bull Dance)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-17",
+            "recordUid": "11525"
+        },
+        {
+            "recordDetails": "Completed 86th Combat Mission (Campaign Let Loose Tuesdays OCT20. Operation Trenched N Tuesday 13OCT20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-13",
+            "recordUid": "11526"
+        },
+        {
+            "recordDetails": "Completed 85th Combat Mission (Operation David vs. Goliaxx)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-10",
+            "recordUid": "11527"
+        },
+        {
+            "recordDetails": "Completed 84th Combat Mission (Campaign Let Loose Tuesdays OCT20. Operation Trenched N Tuesday 06OCT20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-06",
+            "recordUid": "11528"
+        },
+        {
+            "recordDetails": "Completed 83rd Combat Mission (Operation Endless Rivers)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-10-04",
+            "recordUid": "11529"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper B/1/B/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-10-04",
+            "recordUid": "11530"
+        },
+        {
+            "recordDetails": "Completed 81st Combat Mission (Operation Sun Tzu's Reckoning)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-27",
+            "recordUid": "11531"
+        },
+        {
+            "recordDetails": "Completed 80th Combat Mission (Campaign Let Loose Tuesdays SEP20. Operation Trenched N Tuesday 15SEP20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-15",
+            "recordUid": "11532"
+        },
+        {
+            "recordDetails": "Completed 79th Combat Mission (Operation The German's Secret)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-13",
+            "recordUid": "11533"
+        },
+        {
+            "recordDetails": "Completed 78th Combat Mission (Operation Sarin Snapshot)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-12",
+            "recordUid": "11534"
+        },
+        {
+            "recordDetails": "Completed 77th Combat Mission (Operation Sauerkraut's Wrath)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-12",
+            "recordUid": "11535"
+        },
+        {
+            "recordDetails": "Completed 76th Combat Mission (Campaign September Wednesday Night Squad 2020. Operation WNS Week 22)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-02",
+            "recordUid": "11536"
+        },
+        {
+            "recordDetails": "Completed 75th Combat Mission (Campaign Let Loose Tuesdays SEP20. Operation Trenched N Tuesday 01SEP20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-09-01",
+            "recordUid": "11537"
+        },
+        {
+            "recordDetails": "Completed 74th Combat Mission (Campaign August Wednesday Night Squad 2020. Operation WNS Week 21)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-26",
+            "recordUid": "11538"
+        },
+        {
+            "recordDetails": "Completed 73rd Combat Mission (Campaign Let Loose Tuesdays AUG20. Operation Trenched N Tuesday 25AUG20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-25",
+            "recordUid": "11539"
+        },
+        {
+            "recordDetails": "Attended the Server Administration Course",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-08-23",
+            "recordUid": "11540"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-08-23",
+            "recordUid": "11541"
+        },
+        {
+            "recordDetails": "Completed 72nd Combat Mission (Campaign HLL International Tournament. Operation Week 7)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-22",
+            "recordUid": "11542"
+        },
+        {
+            "recordDetails": "Completed 71st Combat Mission (Campaign Let Loose Tuesdays AUG20. Operation Trenched N Tuesday 18AUG20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-18",
+            "recordUid": "11543"
+        },
+        {
+            "recordDetails": "Completed 69th Combat Mission (Operation Operation Liberation of Atropia)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-16",
+            "recordUid": "11544"
+        },
+        {
+            "recordDetails": "Completed 70th Combat Mission (Campaign HLL International Tournament. Operation Week 6)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-16",
+            "recordUid": "11545"
+        },
+        {
+            "recordDetails": "Completed 68th Combat Mission (Campaign Let Loose Tuesdays AUG20. Operation Trenched N Tuesday 11AUG20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-11",
+            "recordUid": "11546"
+        },
+        {
+            "recordDetails": "Completed 67th Combat Mission (Operation Cafe De Normandie)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-09",
+            "recordUid": "11547"
+        },
+        {
+            "recordDetails": "Completed 66th Combat Mission (Campaign HLL International Tournament. Operation Week 5)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-09",
+            "recordUid": "11548"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase II",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-08-04",
+            "recordUid": "11549"
+        },
+        {
+            "recordDetails": "Completed 65th Combat Mission (Operation Shattered Schnitzel)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-08-02",
+            "recordUid": "11550"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper D/1/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-08-02",
+            "recordUid": "11551"
+        },
+        {
+            "recordDetails": "Graduated NCOA Warrior Leadership Course Phase I",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2020-08-01",
+            "recordUid": "11552"
+        },
+        {
+            "recordDetails": "Completed 63rd Combat Mission (Campaign July Wednesday Night Squad 2020. Operation WNS Week 17)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-29",
+            "recordUid": "11553"
+        },
+        {
+            "recordDetails": "Completed 64th Combat Mission (Campaign Let Loose Tuesdays JUL20. Operation Trenched N Tuesday 28JUL20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-28",
+            "recordUid": "11554"
+        },
+        {
+            "recordDetails": "Completed 62nd Combat Mission (Campaign HLL International Tournament. Operation Week 3)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-26",
+            "recordUid": "11555"
+        },
+        {
+            "recordDetails": "Completed 61st Combat Mission (Campaign C/2-7 FTX. Operation Concrete Mixer)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-26",
+            "recordUid": "11556"
+        },
+        {
+            "recordDetails": "Completed 60th Combat Mission (Campaign Let Loose Tuesdays JULY20. Operation Trenched N Tuesday 21JUL20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-21",
+            "recordUid": "11557"
+        },
+        {
+            "recordDetails": "Completed 59th Combat Mission (Campaign HLL International Tournament. Operation Week 2)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-19",
+            "recordUid": "11558"
+        },
+        {
+            "recordDetails": "Completed 58th Combat Mission (Operation Diving Falcon)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-18",
+            "recordUid": "11559"
+        },
+        {
+            "recordDetails": "Completed 57th Combat Mission (Campaign HLL International Tournament. Operation Week 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-12",
+            "recordUid": "11560"
+        },
+        {
+            "recordDetails": "Completed 56th Combat Mission (Operation Screaming Eagle)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-11",
+            "recordUid": "11561"
+        },
+        {
+            "recordDetails": "Completed 55th Combat Mission (Campaign July Wednesday Night Squad 2020. Operation Wns week 14)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-08",
+            "recordUid": "11562"
+        },
+        {
+            "recordDetails": "Completed 54th Combat Mission (Campaign Let Loose Tuesdays JULY20. Operation Trenched N Tuesday 07JUL20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-06",
+            "recordUid": "11563"
+        },
+        {
+            "recordDetails": "Completed 53rd Combat Mission (Operation Firecracker)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-05",
+            "recordUid": "11564"
+        },
+        {
+            "recordDetails": "Completed 52nd Combat Mission (Campaign June Wednesday Night Squad 2020. Operation Wns Week 13)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-07-01",
+            "recordUid": "11565"
+        },
+        {
+            "recordDetails": "Completed 51st Combat Mission (Campaign Let Loose Tuesdays JUN20. Operation Trenched N Tuesdays 30JUN20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-30",
+            "recordUid": "11566"
+        },
+        {
+            "recordDetails": "Completed 50th Combat Mission (Campaign Olympus. Operation Ares's Wrath)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-27",
+            "recordUid": "11567"
+        },
+        {
+            "recordDetails": "Completed 49th Combat Mission (Campaign June Wednesday Night Squad 2020. Operation WNS Week 12)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-24",
+            "recordUid": "11568"
+        },
+        {
+            "recordDetails": "Completed 48th Combat Mission (Campaign Let Loose Tuesdays JUN20. Operation Trenched N Tuesday 23JUN20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-22",
+            "recordUid": "11569"
+        },
+        {
+            "recordDetails": "Completed 47th Combat Mission (Operation Soaring Falcon)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-21",
+            "recordUid": "11570"
+        },
+        {
+            "recordDetails": "Completed 46th Combat Mission (Operation Squirrels Nest)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-20",
+            "recordUid": "11571"
+        },
+        {
+            "recordDetails": "Completed 45th Combat Mission (Campaign Olympus. Operation Venus' Beauty)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-20",
+            "recordUid": "11572"
+        },
+        {
+            "recordDetails": "Completed 44th Combat Mission (Campaign Olympus. Operation Prometheus's Sin)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-13",
+            "recordUid": "11573"
+        },
+        {
+            "recordDetails": "Completed 43rd Combat Mission (Campaign June Wednesday Night Squad 2020. Operation WNS Week 10)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-10",
+            "recordUid": "11574"
+        },
+        {
+            "recordDetails": "Completed 42nd Combat Mission (Campaign Let Loose Tuesdays JUN20. Operation Trenched N Tuesdays 09JUN20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-09",
+            "recordUid": "11575"
+        },
+        {
+            "recordDetails": "Completed 41st Combat Mission (Campaign Olympus. Operation Zeus's Might)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-06-06",
+            "recordUid": "11576"
+        },
+        {
+            "recordDetails": "Completed 40th Combat Mission (Campaign 101st Airborne D-Day. Operation Clenched Talons)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-31",
+            "recordUid": "11577"
+        },
+        {
+            "recordDetails": "Completed 39th Combat Mission (Campaign Let Loose Tuesdays MAY20. Operation Trenched N Tuesday 26MAY20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-26",
+            "recordUid": "11578"
+        },
+        {
+            "recordDetails": "Completed 38th Combat Mission (Campaign 101st Airborne D-Day. Operation wounded Wing)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-24",
+            "recordUid": "11579"
+        },
+        {
+            "recordDetails": "Completed 37th Combat Mission (Campaign Let Loose Tuesdays MAY20. Operation Trenched N Tuesday 19MAY20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-19",
+            "recordUid": "11580"
+        },
+        {
+            "recordDetails": "Completed 36th Combat Mission (Operation Death Factory)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-17",
+            "recordUid": "11581"
+        },
+        {
+            "recordDetails": "Completed 35th Combat Mission (Operation Crumbling Leaves)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-16",
+            "recordUid": "11582"
+        },
+        {
+            "recordDetails": "Completed 34th Combat Mission (Campaign Fenrir's Trail. Operation Ragnarkkr)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-16",
+            "recordUid": "11583"
+        },
+        {
+            "recordDetails": "Completed 33rd Combat Mission (Campaign Let Loose Tuesdays MAY20. Operation Trenched N Tuesday 12MAY20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-12",
+            "recordUid": "11584"
+        },
+        {
+            "recordDetails": "Completed 32nd Combat Mission (Campaign Fenrir's Trail. Operation Hela's Stand at Niflheim)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-09",
+            "recordUid": "11585"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper E/1/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2020-05-06",
+            "recordUid": "11586"
+        },
+        {
+            "recordDetails": "Completed 31st Combat Mission (Campaign Let Loose Tuesdays MAY20. Operation Trenched N Tuesday 05MAY20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-05",
+            "recordUid": "11587"
+        },
+        {
+            "recordDetails": "Completed 30th Combat Mission (Operation Capital Punishment)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-03",
+            "recordUid": "11588"
+        },
+        {
+            "recordDetails": "Completed 29th Combat Mission (Operation Muninn and Huginn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-05-02",
+            "recordUid": "11589"
+        },
+        {
+            "recordDetails": "Completed 28th Combat Mission (Campaign April 2020 WNS. Operation WNS Week 4)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-04-29",
+            "recordUid": "11590"
+        },
+        {
+            "recordDetails": "Completed 27th Combat Mission (Campaign Bloody Forest. Operation Halt at Siegfried)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-04-26",
+            "recordUid": "11591"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign Let Loose Tuesdays APR20. Operation Trenched N Tuesday 21APR20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-04-21",
+            "recordUid": "11592"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Let Loose Tuesdays APR20. Operation Trenched N Tuesdays 14APR20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-04-14",
+            "recordUid": "11593"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign Let Loose Tuesdays MAR20 . Operation Trenched N Tuesday 31MAR20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-03-31",
+            "recordUid": "11594"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign Let Loose Tuesdays MAR20 . Operation Trenched N Tuesday)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-03-17",
+            "recordUid": "11595"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign Serpent Chaos. Operation [1-505th]{2ndINF} Black Dawn)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-03-07",
+            "recordUid": "11596"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2020-02-29",
+            "recordUid": "11597"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Operation FTX Carentan)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-24",
+            "recordUid": "11598"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign Serpent Chaos. Operation {2ndINF} Scrim 22FEB20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-22",
+            "recordUid": "11599"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Operation Road to Carentan)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-19",
+            "recordUid": "11600"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign Let Loose Tuesdays FEB20. Operation Trenched N Tuesdays 18FEB20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-18",
+            "recordUid": "11601"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign Fortress Europa. Operation When Trumpets Fade)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-16",
+            "recordUid": "11602"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign Let Loose Tuesdays FEB20. Operation Trenched N Tuesdays 11FEB20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-11",
+            "recordUid": "11603"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Campaign Fortress Europa. Operation Breaking Point)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-09",
+            "recordUid": "11604"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Operation {2ndINF} Scrim 08FEB20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-08",
+            "recordUid": "11605"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Campaign Let Loose Tuesdays FEB20. Operation Trenched N Tuesdays 04FEB20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-04",
+            "recordUid": "11606"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Operation Armour Ambush in Hurtgen)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-01",
+            "recordUid": "11607"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign Fortress Europa, Operation Bloody Waters)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-02-01",
+            "recordUid": "11608"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation [1-505th] Scrim 26JAN20)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-26",
+            "recordUid": "11609"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Campaign Fortress Europa, Operation Infinite Mischief)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-25",
+            "recordUid": "11610"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Jan2020 WNS, Operation Slashing Tiger)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-22",
+            "recordUid": "11611"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Campaign Let Loose Tuesdays JAN20, Operation Leviathan)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-15",
+            "recordUid": "11612"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign Jan2020 WNS, Operation Welcome Back)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-15",
+            "recordUid": "11613"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Campaign Let Loose Tuesdays JAN20, Operation Fortitude)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2020-01-07",
+            "recordUid": "11614"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2019-12-31",
+            "recordUid": "11615"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Operation Outskirts of Bastogne)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2019-12-09",
+            "recordUid": "11616"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign Winter Tournament, Operation Winter Tournament Round 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2019-12-07",
+            "recordUid": "11617"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper C/1/C/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-12-04",
+            "recordUid": "11618"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Campaign Let Loose Tuesdays DEC19, Operation Trenched N Tuesdays 04DEC19)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2019-12-04",
+            "recordUid": "11619"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation Saint Marie Du Mont Redux)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2019-12-02",
+            "recordUid": "11620"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2019-12-01",
+            "recordUid": "11621"
+        },
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2019-11-23",
+            "recordUid": "11622"
+        },
+        {
+            "recordDetails": "Completed 97th Combat Mission (Campaign Let Loose Tuesdays JAN21. Operation Trenched n Tuesday 19JAN2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-19",
+            "recordUid": "12876"
+        },
+        {
+            "recordDetails": "Completed 98th Combat Mission (Campaign Let Loose Tuesdays FEB21. Operation Trenched n Tuesday 24FEB2021)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-23",
+            "recordUid": "16407"
+        },
+        {
+            "recordDetails": "Placed on Medical ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2021-03-28",
+            "recordUid": "20789"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-07-02",
+            "recordUid": "37743"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "5623"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "5624"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "5625"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "5626"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "5627"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2019-12-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "5628"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2019-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "5629"
+        },
+        {
+            "awardDetails": "Operation Outskirts of Bastogne",
+            "awardName": "Bronze Star with Valor Device",
+            "awardDate": "2019-12-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/11.jpg?1612668108",
+            "awardUid": "5630"
+        },
+        {
+            "awardDetails": "Operation Outskirts of Bastogne",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2019-12-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "5631"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2020-01-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "5632"
+        },
+        {
+            "awardDetails": "December 2019 \"Winter Tournament\"",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2020-01-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "5633"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2020-01-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "5634"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Hell Let Loose Service Ribbon",
+            "awardDate": "2020-02-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/47.jpg?1612676643",
+            "awardUid": "5635"
+        },
+        {
+            "awardDetails": "Operation 1-505th Scrim TVT",
+            "awardName": "Bronze Star",
+            "awardDate": "2020-02-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "5636"
+        },
+        {
+            "awardDetails": "Operation 1-505th Scrim TVT",
+            "awardName": "Army Meritorious Unit Citation",
+            "awardDate": "2020-02-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/64.jpg?1612677213",
+            "awardUid": "5637"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2020-02-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "5638"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2020-02-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "5639"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2020-02-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "5640"
+        },
+        {
+            "awardDetails": "Operation Breaking Point",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2020-02-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "5641"
+        },
+        {
+            "awardDetails": "Operation 2ndINF Scrim 08FEB20",
+            "awardName": "Army Meritorious Unit Citation",
+            "awardDate": "2020-02-29",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/64.jpg?1612677213",
+            "awardUid": "5642"
+        },
+        {
+            "awardDetails": "Campaign Fortress Europa",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-03-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5643"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays FEB20",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-03-07",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5644"
+        },
+        {
+            "awardDetails": "Operation 2ndINF Scrim 22FEB20",
+            "awardName": "Army Valorous Unit Citation",
+            "awardDate": "2020-03-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/63.jpg?1612677190",
+            "awardUid": "5645"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Joint Meritorious Unit Citation",
+            "awardDate": "2020-05-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/62.jpg?1612677171",
+            "awardUid": "5646"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays MAY20",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-06-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5647"
+        },
+        {
+            "awardDetails": "Campaign Fenrir's Trail",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-06-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5648"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Squad Service Ribbon",
+            "awardDate": "2020-06-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/45.jpg?1612676585",
+            "awardUid": "5649"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JUN20",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-07-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5650"
+        },
+        {
+            "awardDetails": "Campaign HLL International Tournament 2020",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-08-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5651"
+        },
+        {
+            "awardDetails": "Campaign Olympus",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-08-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5652"
+        },
+        {
+            "awardDetails": "Operation Shattered Schnitzel",
+            "awardName": "Bronze Star",
+            "awardDate": "2020-08-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "5653"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays JUL20",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-08-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5654"
+        },
+        {
+            "awardDetails": "Campaign Let Loose Tuesdays AUG20",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2020-09-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "5655"
+        },
+        {
+            "awardDetails": "HLLTC International Cup 2020",
+            "awardName": "Armed Forces Expeditionary Medal",
+            "awardDate": "2020-09-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/27.jpg?1612674850",
+            "awardUid": "5656"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2020-09-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "5657"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Rifle Sharpshooter",
+            "awardDate": "2020-09-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/101.jpg?1612850250",
+            "awardUid": "5658"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2020-11-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "5659"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2020-11-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "5660"
+        },
+        {
+            "awardDetails": "Operation Forest Queen",
+            "awardName": "Bronze Star",
+            "awardDate": "2020-12-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "5661"
+        },
+        {
+            "awardDetails": "Operation Culp's Hill",
+            "awardName": "Bronze Star",
+            "awardDate": "2020-12-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "5662"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17401"
+        }
+    ],
+    "joinDate": "2019-11-23",
+    "promotionDate": "2020-08-23",
+    "keycloakId": "075497c0-ae84-4ad3-a9c3-68211bbe542a",
+    "discordId": "260554471237615617",
+    "lastForumPostDate": ""
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7267",
+        "username": "Kostenko.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Andrew Kostenko",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3559.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-09",
+            "recordUid": "103579"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-06-25",
+            "recordUid": "105420"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-09",
+    "promotionDate": "2024-06-09",
+    "keycloakId": "b0c8937c-0b0e-4c6e-a0fa-dbacf2cef194",
+    "discordId": "1123051404643274855",
+    "lastForumPostDate": "2024-06-05 21:17:26"
+}

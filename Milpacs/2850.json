@@ -1,0 +1,46 @@
+{
+    "user": {
+        "userId": "5773",
+        "username": "Thawne.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Thomas Thawne",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2850.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-18",
+            "recordUid": "87355"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantry B/2/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-10-27",
+            "recordUid": "88208"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-10-31",
+            "recordUid": "88461"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-18",
+    "promotionDate": "2023-10-18",
+    "keycloakId": "25db6438-0a78-4924-a62e-afec0b638428",
+    "discordId": "",
+    "lastForumPostDate": "2023-10-30 15:42:22"
+}

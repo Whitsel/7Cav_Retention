@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2337",
+        "username": "Reel.L"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Logan Reel",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1291.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-01-13",
+            "recordUid": "48167"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-01-23",
+            "recordUid": "49024"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-01-13",
+    "promotionDate": "2022-01-13",
+    "keycloakId": "0f74bef9-e7e7-47d7-ae17-048c27952026",
+    "discordId": "",
+    "lastForumPostDate": "2022-01-12 18:58:47"
+}

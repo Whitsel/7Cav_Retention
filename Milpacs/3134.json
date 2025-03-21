@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6445",
+        "username": "Bouma.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jorm Bouma",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3134.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-02-21",
+            "recordUid": "94706"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-03-11",
+            "recordUid": "96267"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-02-12",
+    "promotionDate": "2024-02-12",
+    "keycloakId": "1f86a386-541f-405e-a4ea-fa762c20ee55",
+    "discordId": "",
+    "lastForumPostDate": "2024-02-11 13:48:53"
+}

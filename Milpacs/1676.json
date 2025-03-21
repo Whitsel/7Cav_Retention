@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3211",
+        "username": "Steffes.T"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Tim Steffes",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1676.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-17",
+            "recordUid": "57241"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-06-26",
+            "recordUid": "57835"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-17",
+    "promotionDate": "2022-06-17",
+    "keycloakId": "636b51a0-fa59-4d05-afc3-742db45c5b77",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-16 21:59:29"
+}

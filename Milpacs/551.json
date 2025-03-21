@@ -1,0 +1,85 @@
+{
+    "user": {
+        "userId": "435",
+        "username": "Bryant.K"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "Kodi Bryant",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/551.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-02-11",
+            "recordUid": "3529"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper 3/1/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-03-08",
+            "recordUid": "10855"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Devil's Den)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-01-31",
+            "recordUid": "13514"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Operation Hamburger Hill Part 1)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-06",
+            "recordUid": "17050"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign Golden Toothbrush. Operation Resurrection)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17898"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Operation Sunday Night Skirmishes 14MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17975"
+        },
+        {
+            "recordDetails": "AWOL Discharge, Eligible for Re-enlistment",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-04-01",
+            "recordUid": "22926"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2021-03-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "8156"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17169"
+        }
+    ],
+    "joinDate": "2018-01-23",
+    "promotionDate": "2021-02-11",
+    "keycloakId": "1ca5bee9-c030-4dc2-8513-9fc2e47c2c22",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

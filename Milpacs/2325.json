@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3933",
+        "username": "Taylor.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Roger Taylor",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2325.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-03-10",
+            "recordUid": "72930"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-21",
+            "recordUid": "74036"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-09",
+    "promotionDate": "2023-03-09",
+    "keycloakId": "1f5e0238-d04d-4dfe-9c85-f1bcfb6d90c3",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-05 19:17:38"
+}

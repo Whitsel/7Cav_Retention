@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2523",
+        "username": "Davis.W"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Westen Davis",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1396.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2022-02-14",
+            "recordUid": "49695"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-02-27",
+            "recordUid": "50768"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-02-13",
+    "promotionDate": "2022-02-13",
+    "keycloakId": "16f5256e-6405-498b-95da-7b63ab56cb96",
+    "discordId": "",
+    "lastForumPostDate": "2022-02-13 02:54:11"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1643",
+        "username": "Hummel.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Josef Hummel",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/969.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-08-07",
+            "recordUid": "40102"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-10-04",
+            "recordUid": "43266"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-08-07",
+    "promotionDate": "2021-08-07",
+    "keycloakId": "ccf399b2-7f49-480d-bdcb-1397136bca64",
+    "discordId": "",
+    "lastForumPostDate": "2021-08-07 12:51:37"
+}

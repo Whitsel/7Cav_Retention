@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3550",
+        "username": "O'Cannon.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mac O'Cannon",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1823.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-08-17",
+            "recordUid": "60604"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-09-07",
+            "recordUid": "62078"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-08-17",
+    "promotionDate": "2022-08-17",
+    "keycloakId": "3ed591d0-11cf-40f2-a2f1-96ff5154839e",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-17 00:22:20"
+}

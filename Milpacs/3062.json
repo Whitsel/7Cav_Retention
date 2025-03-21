@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6272",
+        "username": "Anderson.M"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Mac Anderson",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3062.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2024-01-25",
+            "recordUid": "92986"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-02-04",
+            "recordUid": "93859"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-01-25",
+    "promotionDate": "2024-01-25",
+    "keycloakId": "a2908fbb-648d-4df1-878d-924028d3eb3a",
+    "discordId": "",
+    "lastForumPostDate": "2024-01-23 04:17:21"
+}

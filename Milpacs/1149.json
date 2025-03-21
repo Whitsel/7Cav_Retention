@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "2006",
+        "username": "Aycock.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Joshua Aycock",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1149.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-11-05",
+            "recordUid": "44926"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-12-01",
+            "recordUid": "46461"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-11-04",
+    "promotionDate": "2021-11-04",
+    "keycloakId": "e98450c4-f615-479b-b83e-7cf175b0216a",
+    "discordId": "",
+    "lastForumPostDate": "2021-11-03 19:54:25"
+}

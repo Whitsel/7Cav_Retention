@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "8145",
+        "username": "Gallo.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jason Gallo",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/4/4008.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-10-03",
+            "recordUid": "114266"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-10-14",
+            "recordUid": "115347"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-10-03",
+    "promotionDate": "",
+    "keycloakId": "1f7bb9b1-3265-4842-9ef5-c8430f22a97a",
+    "discordId": "",
+    "lastForumPostDate": "2024-09-25 23:53:09"
+}

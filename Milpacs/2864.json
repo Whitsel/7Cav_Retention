@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "5815",
+        "username": "Ladd.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Josef Ladd",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2864.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2023-10-24",
+            "recordUid": "87973"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-11-06",
+            "recordUid": "89067"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-10-24",
+    "promotionDate": "2023-10-24",
+    "keycloakId": "5f92bb89-edf5-4d4b-99a6-873c8fed46f4",
+    "discordId": "736622742975152228",
+    "lastForumPostDate": "2023-10-20 04:36:56"
+}

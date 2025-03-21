@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7074",
+        "username": "Maddox.K"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Koa Maddox",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3623.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-06-22",
+            "recordUid": "105197"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-07-08",
+            "recordUid": "106704"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-06-22",
+    "promotionDate": "",
+    "keycloakId": "544d9ccc-2a3f-43b3-be3b-f6ccb9db648d",
+    "discordId": "",
+    "lastForumPostDate": "2024-06-24 01:34:37"
+}

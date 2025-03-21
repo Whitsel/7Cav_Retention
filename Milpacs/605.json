@@ -1,0 +1,66 @@
+{
+    "user": {
+        "userId": "791",
+        "username": "Rin.I"
+    },
+    "rank": {
+        "rankShort": "CPL",
+        "rankFull": "Corporal",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/19.jpg?1741376805",
+        "rankId": "19"
+    },
+    "realName": "Isamu Rin",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/605.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Reinstated, Transferred and Assigned Trooper 3/1/E/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-02-17",
+            "recordUid": "5856"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Operation SCS)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-02-21",
+            "recordUid": "16354"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign Golden Toothbrush. Operation Resurrection)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17882"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Sunday Night Skirmishes 14MAR)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-03-14",
+            "recordUid": "17982"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_UNSPECIFIED",
+            "recordDate": "2021-03-29",
+            "recordUid": "20511"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "17394"
+        }
+    ],
+    "joinDate": "2015-06-16",
+    "promotionDate": "2021-02-17",
+    "keycloakId": "f84cd368-05c4-4ded-a193-1d8361bd6997",
+    "discordId": "",
+    "lastForumPostDate": "2021-03-29 01:16:29"
+}

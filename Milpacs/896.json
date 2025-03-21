@@ -1,0 +1,683 @@
+{
+    "user": {
+        "userId": "1465",
+        "username": "Unix.S"
+    },
+    "rank": {
+        "rankShort": "GOA",
+        "rankFull": "General of the Army",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/1.jpg?1741365581",
+        "rankId": "1"
+    },
+    "realName": "Scott Unix",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/896.jpg",
+    "roster": "ROSTER_TYPE_WALL_OF_HONOR",
+    "primary": {
+        "positionTitle": "Wall of Honor",
+        "positionId": "758"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2), Assigned Trooper 3A/1/3/A/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2007-12-03",
+            "recordUid": "39145"
+        },
+        {
+            "recordDetails": "Assigned Auxiliary Duty Military Police",
+            "recordType": "RECORD_TYPE_ASSIGNMENT",
+            "recordDate": "2008-02-23",
+            "recordUid": "39146"
+        },
+        {
+            "recordDetails": "Accepted into Sniper School, Assigned SRT-01-08",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2008-02-25",
+            "recordUid": "39147"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Platoon Sergeant 3/A/2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2008-02-27",
+            "recordUid": "39148"
+        },
+        {
+            "recordDetails": "Assigned Battalion Commander 2-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2009-01-08",
+            "recordUid": "39149"
+        },
+        {
+            "recordDetails": "Participated in multiple combat actions against 101st AB clan that resulted in a smashing victory",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2009-08-09",
+            "recordUid": "39150"
+        },
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2010-05-22",
+            "recordUid": "39151"
+        },
+        {
+            "recordDetails": "Returned from ELOA, Assigned Regimental Chief of Staff",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2010-06-30",
+            "recordUid": "39152"
+        },
+        {
+            "recordDetails": "Assigned Regimental Executive Officer",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2010-08-27",
+            "recordUid": "39153"
+        },
+        {
+            "recordDetails": "Transfered and Assigned Chief Of Staff",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2011-01-01",
+            "recordUid": "39154"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Acting Regimental Executive Officer",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2011-01-29",
+            "recordUid": "39155"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Regimental Commanding Officer",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2011-10-18",
+            "recordUid": "39156"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3), Transferred and Assigned Fire Team Leader 2B/2/2/A/1-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2007-12-09",
+            "recordUid": "39157"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2007-12-27",
+            "recordUid": "39158"
+        },
+        {
+            "recordDetails": "Promoted to Corporal (E-4), Assigned Squad Leader 1/2/A/1-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-01-08",
+            "recordUid": "39159"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant (E-5)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-02-20",
+            "recordUid": "39160"
+        },
+        {
+            "recordDetails": "Promoted to Staff Sergeant (E-6)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-02-28",
+            "recordUid": "39161"
+        },
+        {
+            "recordDetails": "Promoted to Sergeant First Class (E-7)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-04-16",
+            "recordUid": "39162"
+        },
+        {
+            "recordDetails": "Received Battlefield Commission to Second Lieutenant (O-1), Assigned Platoon Leader 2/B/2-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-04-25",
+            "recordUid": "39163"
+        },
+        {
+            "recordDetails": "Promoted to First Lieutenant (O-2)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-05-28",
+            "recordUid": "39164"
+        },
+        {
+            "recordDetails": "Promoted to Captain (O-3), Assigned Commander A/2-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-07-11",
+            "recordUid": "39165"
+        },
+        {
+            "recordDetails": "Promoted to Major (O-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-08-16",
+            "recordUid": "39166"
+        },
+        {
+            "recordDetails": "Named Master Sniper",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2008-08-25",
+            "recordUid": "39167"
+        },
+        {
+            "recordDetails": "Promoted to Lieutenant Colonel (O-5), Assigned Executive Officer 2-7",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2008-09-14",
+            "recordUid": "39168"
+        },
+        {
+            "recordDetails": "Promoted to Colonel (O-6)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2009-01-04",
+            "recordUid": "39169"
+        },
+        {
+            "recordDetails": "Promoted to Brigadier General (O-7)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2009-05-02",
+            "recordUid": "39170"
+        },
+        {
+            "recordDetails": "Graduated Ranger School Class 003-009",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2009-07-25",
+            "recordUid": "39171"
+        },
+        {
+            "recordDetails": "Promoted to Major General (O-8), Assigned Regimental Chief of Staff",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2009-09-07",
+            "recordUid": "39172"
+        },
+        {
+            "recordDetails": "Promoted to Lieutenant General O-9)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2010-03-25",
+            "recordUid": "39173"
+        },
+        {
+            "recordDetails": "Promoted to General (O-10)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2011-05-22",
+            "recordUid": "39174"
+        },
+        {
+            "recordDetails": "Promoted to General of the Army",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2011-10-23",
+            "recordUid": "39175"
+        },
+        {
+            "recordDetails": "Retired at the Command Level with Honors, with Eligibility for Re-enlistment only Upon Review from Upper Command",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2014-02-09",
+            "recordUid": "39176"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2008-04-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "19573"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Achievement Medal",
+            "awardDate": "2009-04-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/21.jpg?1612674596",
+            "awardUid": "19574"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2008-07-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "19575"
+        },
+        {
+            "awardDetails": "Campaign Lingor Freedom",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2011-11-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "19576"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Distinguished Service Cross",
+            "awardDate": "2009-08-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/3.jpg?1612667849",
+            "awardUid": "19577"
+        },
+        {
+            "awardDetails": "Officer September 2009",
+            "awardName": "Army Distinguished Service Medal",
+            "awardDate": "2009-10-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/5.jpg?1612667912",
+            "awardUid": "19578"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2008-01-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19579"
+        },
+        {
+            "awardDetails": "1st Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2008-05-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19580"
+        },
+        {
+            "awardDetails": "2nd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2008-08-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19581"
+        },
+        {
+            "awardDetails": "3rd Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2008-12-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19582"
+        },
+        {
+            "awardDetails": "4th Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2009-04-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19583"
+        },
+        {
+            "awardDetails": "5th Bronze Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2009-08-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19584"
+        },
+        {
+            "awardDetails": "1st Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2009-12-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19585"
+        },
+        {
+            "awardDetails": "2nd Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2010-04-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19586"
+        },
+        {
+            "awardDetails": "3rd Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2010-10-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19587"
+        },
+        {
+            "awardDetails": "4th Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2011-01-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19588"
+        },
+        {
+            "awardDetails": "5th Silver Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2011-05-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19589"
+        },
+        {
+            "awardDetails": "1st Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2011-09-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19590"
+        },
+        {
+            "awardDetails": "2nd Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2012-01-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19591"
+        },
+        {
+            "awardDetails": "3rd Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2012-05-26",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19592"
+        },
+        {
+            "awardDetails": "4th Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2012-09-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19593"
+        },
+        {
+            "awardDetails": "5th Gold Knot",
+            "awardName": "Army Good Conduct Medal",
+            "awardDate": "2013-01-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/23.jpg?1612674641",
+            "awardUid": "19594"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Meritorious Unit Citation",
+            "awardDate": "2008-12-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/64.jpg?1612677213",
+            "awardUid": "19595"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2007-12-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "19596"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2008-07-23",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "19597"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2009-08-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "19598"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army Valorous Unit Citation",
+            "awardDate": "2008-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/63.jpg?1612677190",
+            "awardUid": "19599"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Bronze Star",
+            "awardDate": "2008-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/12.jpg?1612668131",
+            "awardUid": "19600"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2008-05-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "19601"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2009-01-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "19602"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "19603"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D Day Participation Ribbon",
+            "awardDate": "2010-06-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/48.jpg?1612676742",
+            "awardUid": "19604"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Defense Distinguished Service Medal",
+            "awardDate": "2009-01-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/4.jpg?1612667879",
+            "awardUid": "19605"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Defense Distinguished Service Medal",
+            "awardDate": "2010-12-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/4.jpg?1612667879",
+            "awardUid": "19606"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Defense Superior Service Medal",
+            "awardDate": "2010-12-05",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/7.jpg?1612668017",
+            "awardUid": "19607"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2007-12-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "19608"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "19609"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Donation Ribbon",
+            "awardDate": "2008-03-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/34.jpg?1612676352",
+            "awardUid": "19617"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Grenade Expert",
+            "awardDate": "2010-04-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/105.jpg?1612850347",
+            "awardUid": "19618"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Humanitarian Service Medal",
+            "awardDate": "2011-01-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/33.jpg?1612676322",
+            "awardUid": "19619"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Legion of Merit",
+            "awardDate": "2009-10-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/8.jpg?1612668040",
+            "awardUid": "19620"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2008-04-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "19621"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2009-01-06",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "19622"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2009-04-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "19623"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2009-09-24",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "19624"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Meritorious Service Medal",
+            "awardDate": "2009-10-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/15.jpg?1612668368",
+            "awardUid": "19625"
+        },
+        {
+            "awardDetails": "Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2008-02-20",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "19626"
+        },
+        {
+            "awardDetails": "Staff Sergeant Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2008-02-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "19627"
+        },
+        {
+            "awardDetails": "Sergeant First Class Promotion",
+            "awardName": "NCO Professional Development Ribbon",
+            "awardDate": "2008-04-15",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/38.jpg?1612676450",
+            "awardUid": "19628"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Outstanding Volunteer Service Medal",
+            "awardDate": "2008-05-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/37.jpg?1612676426",
+            "awardUid": "19629"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Ranger Tab",
+            "awardDate": "2009-07-27",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/89.jpg?1612678367",
+            "awardUid": "19630"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Rifle Expert",
+            "awardDate": "2010-04-28",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/102.jpg?1612850272",
+            "awardUid": "19631"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Sapper Tab",
+            "awardDate": "2009-04-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/90.jpg?1612678393",
+            "awardUid": "19632"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Silver Star",
+            "awardDate": "2009-08-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/6.jpg?1612667944",
+            "awardUid": "19633"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Sniper Ribbon",
+            "awardDate": "2008-08-25",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/53.jpg?1612676863",
+            "awardUid": "19634"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Soldiers Medal",
+            "awardDate": "2008-07-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/10.jpg?1612668084",
+            "awardUid": "19635"
+        },
+        {
+            "awardDetails": "1st Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2008-11-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "19636"
+        },
+        {
+            "awardDetails": "2nd Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2009-08-21",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "19637"
+        },
+        {
+            "awardDetails": "3rd Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2010-05-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "19638"
+        },
+        {
+            "awardDetails": "4th Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2011-11-14",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "19639"
+        },
+        {
+            "awardDetails": "5th Award",
+            "awardName": "Recruiting Ribbon",
+            "awardDate": "2013-02-10",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/49.jpg?1612676771",
+            "awardUid": "19640"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-18",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "19641"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-08-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "19642"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "19643"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "19644"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "19645"
+        }
+    ],
+    "joinDate": "2007-11-25",
+    "promotionDate": "2011-10-11",
+    "keycloakId": "",
+    "discordId": "",
+    "lastForumPostDate": ""
+}

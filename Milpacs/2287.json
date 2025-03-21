@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "4525",
+        "username": "Warren.J"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Jarrad Warren",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2287.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-02-19",
+            "recordUid": "71602"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-21",
+            "recordUid": "74033"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-02-19",
+    "promotionDate": "2023-02-19",
+    "keycloakId": "6f48f32d-5ff3-483c-8e15-51110847067f",
+    "discordId": "",
+    "lastForumPostDate": "2023-02-12 23:11:02"
+}

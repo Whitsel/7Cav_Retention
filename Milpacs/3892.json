@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "7976",
+        "username": "Rodrigo.S"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Seguel Rodrigo",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3892.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-09-05",
+            "recordUid": "111345"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-09-16",
+            "recordUid": "112618"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-09-05",
+    "promotionDate": "",
+    "keycloakId": "4f78d91c-06d0-47a3-82dd-8a841e9781f6",
+    "discordId": "",
+    "lastForumPostDate": "2024-09-04 03:11:00"
+}

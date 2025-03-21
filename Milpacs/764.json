@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1150",
+        "username": "Baldwin.B"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Michael Baldwin",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/764.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-04-14",
+            "recordUid": "27037"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-05-02",
+            "recordUid": "34790"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-04-14",
+    "promotionDate": "2021-04-14",
+    "keycloakId": "dfeb81a5-b653-45a9-b333-fa57ffc09b72",
+    "discordId": "",
+    "lastForumPostDate": "2021-04-14 15:53:29"
+}

@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6958",
+        "username": "Smit.F"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Francua Smit",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3397.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-27",
+            "recordUid": "100606"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102722"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-27",
+    "promotionDate": "",
+    "keycloakId": "6e5bfad2-46d7-4809-a043-bfc0a3eee067",
+    "discordId": "",
+    "lastForumPostDate": "2024-04-26 08:36:43"
+}

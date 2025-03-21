@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "1393",
+        "username": "Hashim.A"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Ahmad Hashim",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/0/876.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-06-08",
+            "recordUid": "36766"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2021-06-22",
+            "recordUid": "37388"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2021-06-08",
+    "promotionDate": "2021-06-08",
+    "keycloakId": "14ee6c6c-c5f7-4fb4-86fc-7f4cabef82bc",
+    "discordId": "",
+    "lastForumPostDate": "2021-06-04 15:59:00"
+}

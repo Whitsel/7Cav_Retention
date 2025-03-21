@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "3163",
+        "username": "Leonard.D"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Dillon Leonard",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1652.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2022-06-11",
+            "recordUid": "56625"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-06-26",
+            "recordUid": "57841"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2022-06-11",
+    "promotionDate": "2022-06-11",
+    "keycloakId": "da689900-c856-41e8-a3f2-c8333e6bbc02",
+    "discordId": "",
+    "lastForumPostDate": "2022-06-10 19:21:47"
+}

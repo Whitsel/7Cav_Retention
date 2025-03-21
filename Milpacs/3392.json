@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userId": "6965",
+        "username": "Cloutier.R"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Robert Cloutier",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/3/3392.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2024-04-29",
+            "recordUid": "100550"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2024-05-27",
+            "recordUid": "102720"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2024-04-29",
+    "promotionDate": "",
+    "keycloakId": "f198fc66-8ec3-4798-9b82-393c42f3bccb",
+    "discordId": "",
+    "lastForumPostDate": "2024-04-27 01:55:44"
+}

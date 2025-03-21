@@ -1,0 +1,381 @@
+{
+    "user": {
+        "userId": "1915",
+        "username": "Ryder.D"
+    },
+    "rank": {
+        "rankShort": "SPC",
+        "rankFull": "Specialist",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/20.jpg?1741376814",
+        "rankId": "20"
+    },
+    "realName": "David Ryder",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/1/1107.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-10-16",
+            "recordUid": "43807"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Airborne Infantryman B/1/C/1-7",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2021-10-30",
+            "recordUid": "44635"
+        },
+        {
+            "recordDetails": "Graduated Boot Camp, Promoted to Private (E-2)",
+            "recordType": "RECORD_TYPE_GRADUATION",
+            "recordDate": "2021-10-31",
+            "recordUid": "44679"
+        },
+        {
+            "recordDetails": "Completed 1st Combat Mission (Campaign November Warfare Wednesday. Operation Warfare Wednesday 117)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-04",
+            "recordUid": "45233"
+        },
+        {
+            "recordDetails": "Completed 2nd Combat Mission (Operation Improvise, Adapt, Overcome)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-07",
+            "recordUid": "45548"
+        },
+        {
+            "recordDetails": "Completed 3rd Combat Mission (Campaign November Warfare Wednesday 2021. Operation Warfare Wednesday 118)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-10",
+            "recordUid": "45732"
+        },
+        {
+            "recordDetails": "Completed 4th Combat Mission (Campaign November Warfare Wednesday 2021. Operation Warfare Wednesday 119)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-11-18",
+            "recordUid": "46045"
+        },
+        {
+            "recordDetails": "Promoted to Private First Class (E-3)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2021-11-30",
+            "recordUid": "46512"
+        },
+        {
+            "recordDetails": "Completed 5th Combat Mission (Operation Lost Time - 24 Hour Operation)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2021-12-12",
+            "recordUid": "47648"
+        },
+        {
+            "recordDetails": "Promoted to Specialist (E-4)",
+            "recordType": "RECORD_TYPE_PROMOTION",
+            "recordDate": "2022-01-29",
+            "recordUid": "49056"
+        },
+        {
+            "recordDetails": "Completed 6th Combat Mission (Campaign February Warfare Wednesday 2022. Operation Warfare Wednesday 127)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-10",
+            "recordUid": "50291"
+        },
+        {
+            "recordDetails": "Completed 7th Combat Mission (Operation A Million Standing Petals)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-19",
+            "recordUid": "50834"
+        },
+        {
+            "recordDetails": "Completed 8th Combat Mission (Campaign Mitag. Operation Outstretched Hands)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-02-27",
+            "recordUid": "51445"
+        },
+        {
+            "recordDetails": "Completed 9th Combat Mission (Operation Peninsular Overture II)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-06",
+            "recordUid": "52001"
+        },
+        {
+            "recordDetails": "Completed 10th Combat Mission (Campaign March Warfare Wednesday 2022.  Operation Warfare Wednesday 132)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-16",
+            "recordUid": "52394"
+        },
+        {
+            "recordDetails": "Completed 11th Combat Mission (Campaign March Warfare Wednesday 2022. Operation Warfare Wednesday 133)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-23",
+            "recordUid": "52682"
+        },
+        {
+            "recordDetails": "Completed 12th Combat Mission (Campaign 17th Parallel. Operation Hump)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-26",
+            "recordUid": "52852"
+        },
+        {
+            "recordDetails": "Completed 14th Combat Mission (Campaign March Warfare Wednesday 2022. Operation Warfare Wednesday 134)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-30",
+            "recordUid": "52968"
+        },
+        {
+            "recordDetails": "Completed 13th Combat Mission (Operation Luxray)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-03-27",
+            "recordUid": "53016"
+        },
+        {
+            "recordDetails": "Completed 15th Combat Mission (Operation Three Days in Zaros)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-02",
+            "recordUid": "53742"
+        },
+        {
+            "recordDetails": "Completed 16th Combat Mission (Campaign April Warfare Wednesday 2022. Operation Warfare Wednesday 135)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-12",
+            "recordUid": "53893"
+        },
+        {
+            "recordDetails": "Completed 17th Combat Mission (Campaign April Warfare Wednesday 2022. Operation Warfare Wednesday 136)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-20",
+            "recordUid": "54394"
+        },
+        {
+            "recordDetails": "Completed 18th Combat Mission (Campaign April Warfare Wednesday 2022. Operation Warfare Wednesday 137)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-27",
+            "recordUid": "54507"
+        },
+        {
+            "recordDetails": "Completed 19th Combat Mission (Campaign Wild East. Operation Rough Aprons)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-04-30",
+            "recordUid": "54747"
+        },
+        {
+            "recordDetails": "Completed 20th Combat Mission (Campaign May Warfare Wednesday 2022. Operation Warfare Wednesday 138)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-05-04",
+            "recordUid": "54935"
+        },
+        {
+            "recordDetails": "Completed 21st Combat Mission (Campaign May Warfare Wednesday 2022. Operation Warfare Wednesday 139)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-05-11",
+            "recordUid": "55361"
+        },
+        {
+            "recordDetails": "Completed 22nd Combat Mission (Campaign May Warfare Wednesday 2022. Operation Warfare Wednesday 140)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-05-18",
+            "recordUid": "55720"
+        },
+        {
+            "recordDetails": "Completed 23rd Combat Mission (Campaign May Warfare Wednesday 2022. Operation Warfare Wednesday 141)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-05-25",
+            "recordUid": "56067"
+        },
+        {
+            "recordDetails": "Completed 24th Combat Mission (Campaign June Warfare Wednesday 2022. Operation Warfare Wednesday 142)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-01",
+            "recordUid": "56558"
+        },
+        {
+            "recordDetails": "Completed 25th Combat Mission (Campaign Overlord 1944. Operation Neptune H-Hour)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-05",
+            "recordUid": "56675"
+        },
+        {
+            "recordDetails": "Completed 26th Combat Mission (Campaign June Warfare Wednesday 2022. Operation Warfare Wednesday 143)",
+            "recordType": "RECORD_TYPE_OPERATION",
+            "recordDate": "2022-06-09",
+            "recordUid": "57196"
+        },
+        {
+            "recordDetails": "Placed on ELOA",
+            "recordType": "RECORD_TYPE_ELOA",
+            "recordDate": "2022-08-08",
+            "recordUid": "60023"
+        },
+        {
+            "recordDetails": "Honorable Discharge",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2022-10-19",
+            "recordUid": "64285"
+        }
+    ],
+    "awards": [
+        {
+            "awardDetails": "",
+            "awardName": "Army Service Ribbon",
+            "awardDate": "2021-10-31",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/40.jpg?1612676488",
+            "awardUid": "23116"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Grenade Sharpshooter",
+            "awardDate": "2021-11-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/104.jpg?1612850313",
+            "awardUid": "23132"
+        },
+        {
+            "awardDetails": "Awarded for the completion of one or more of the weapons qualification courses with above average scores.",
+            "awardName": "Rifle Sharpshooter",
+            "awardDate": "2021-11-01",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/101.jpg?1612850250",
+            "awardUid": "23133"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2003-03-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23143"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2004-09-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23156"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2009-08-11",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23169"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2010-09-19",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23182"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2011-06-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23195"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Army & Air Force Presidential Unit Citation",
+            "awardDate": "2021-05-17",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/61.jpg?1612677152",
+            "awardUid": "23208"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Expert Infantry Badge",
+            "awardDate": "2021-11-03",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/67.jpg?1673394869",
+            "awardUid": "23440"
+        },
+        {
+            "awardDetails": "Campaign November Warfare Wednesday 2021",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2021-12-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "24707"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Overseas Service Ribbon",
+            "awardDate": "2022-01-08",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/43.jpg?1713711737",
+            "awardUid": "25110"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge",
+            "awardDate": "2021-12-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/68.jpg?1612677377",
+            "awardUid": "25219"
+        },
+        {
+            "awardDetails": "Operation Peninsular Overture II",
+            "awardName": "Army Commendation Medal",
+            "awardDate": "2022-03-13",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/19.jpg?1612668465",
+            "awardUid": "27192"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 2nd Award",
+            "awardDate": "2022-03-16",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/69.jpg?1612677441",
+            "awardUid": "27885"
+        },
+        {
+            "awardDetails": "Campaign March Warfare Wednesday 2022",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-04-09",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "28481"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 3rd Award",
+            "awardDate": "2022-04-02",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/70.jpg?1612677459",
+            "awardUid": "28737"
+        },
+        {
+            "awardDetails": "1/C/1-7",
+            "awardName": "Army Superior Unit Citation",
+            "awardDate": "2022-04-30",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/65.jpg?1612677240",
+            "awardUid": "28892"
+        },
+        {
+            "awardDetails": "Campaign April Warfare Wednesday 2022",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-05-12",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "29018"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "Combat Infantry Badge 4th Award",
+            "awardDate": "2022-05-04",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/71.jpg?1612677477",
+            "awardUid": "29427"
+        },
+        {
+            "awardDetails": "",
+            "awardName": "D-Day Commemorative Medal",
+            "awardDate": "2022-06-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/50.jpg?1612676791",
+            "awardUid": "30317"
+        },
+        {
+            "awardDetails": "Campaign May Warfare Wednesday 2022",
+            "awardName": "United Nations Service Medal",
+            "awardDate": "2022-06-22",
+            "awardImageUrl": "https://7cav.us/data/roster_awards/0/42.jpg?1612676525",
+            "awardUid": "30350"
+        }
+    ],
+    "joinDate": "2021-10-16",
+    "promotionDate": "2022-01-29",
+    "keycloakId": "5f99af05-9399-4ce6-a45f-4168094860ae",
+    "discordId": "",
+    "lastForumPostDate": "2022-08-07 01:41:12"
+}

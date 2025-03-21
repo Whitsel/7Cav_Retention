@@ -1,0 +1,46 @@
+{
+    "user": {
+        "userId": "4695",
+        "username": "Fawkes.F"
+    },
+    "rank": {
+        "rankShort": "RCT",
+        "rankFull": "Recruit",
+        "rankImageUrl": "https://7cav.us/data/roster_ranks/0/23.jpg?1611114724",
+        "rankId": "23"
+    },
+    "realName": "Farce Fawkes",
+    "uniformUrl": "https://7cav.us/data/roster_uniforms/2/2349.jpg",
+    "roster": "ROSTER_TYPE_PAST_MEMBERS",
+    "primary": {
+        "positionTitle": "Discharged",
+        "positionId": "528"
+    },
+    "secondaries": [],
+    "records": [
+        {
+            "recordDetails": "Enlisted in the 7th Cavalry Regiment, Assigned Boot Camp",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-19",
+            "recordUid": "73705"
+        },
+        {
+            "recordDetails": "Transferred and Assigned Trooper D/2/B/ACD",
+            "recordType": "RECORD_TYPE_TRANSFER",
+            "recordDate": "2023-03-22",
+            "recordUid": "74159"
+        },
+        {
+            "recordDetails": "Entry Level Separation",
+            "recordType": "RECORD_TYPE_DISCHARGE",
+            "recordDate": "2023-03-24",
+            "recordUid": "74434"
+        }
+    ],
+    "awards": [],
+    "joinDate": "2023-03-19",
+    "promotionDate": "2023-03-19",
+    "keycloakId": "0fd62957-d811-45be-bad0-9112ed6f4130",
+    "discordId": "",
+    "lastForumPostDate": "2023-03-21 23:43:16"
+}
